@@ -19,18 +19,11 @@
   =========================================================
   POPS PICKZ NFL STYLES
   =========================================================
-
-  Your CSS files are currently located in the main folder.
-
-  Later, if you move them into a css folder, change these to:
-
-  css/variables.css
-  css/style.css
-  =========================================================
   -->
 
   <link rel="stylesheet" href="variables.css" />
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="games.css" />
 </head>
 
 <body>
@@ -42,7 +35,6 @@
   -->
 
   <header class="site-header">
-
     <div class="header-inner">
 
       <a
@@ -117,7 +109,6 @@
       </nav>
 
     </div>
-
   </header>
 
   <!--
@@ -134,11 +125,9 @@
       class="hero-section"
       id="home"
     >
-
       <div class="hero-overlay"></div>
 
       <div class="hero-content">
-
         <p class="hero-kicker">
           POPS PICKZ NFL
         </p>
@@ -161,9 +150,7 @@
         >
           View Today's Pickz
         </button>
-
       </div>
-
     </section>
 
     <!-- STATUS BAR -->
@@ -214,7 +201,6 @@
       class="content-section games-section"
       id="games"
     >
-
       <div class="section-heading">
 
         <div>
@@ -252,7 +238,6 @@
           </button>
 
         </div>
-
       </div>
 
       <div
@@ -267,7 +252,6 @@
           </p>
         </div>
       </div>
-
     </section>
 
     <!-- LEADERS PLACEHOLDER -->
@@ -290,7 +274,11 @@
 
       <div class="placeholder-card">
         <span>🏆</span>
-        <h3>Player leaders coming next</h3>
+
+        <h3>
+          Player leaders coming next
+        </h3>
+
         <p>
           Passing, rushing and receiving leaders will appear
           here.
@@ -318,7 +306,11 @@
 
       <div class="placeholder-card">
         <span>🛡️</span>
-        <h3>Defense rankings coming next</h3>
+
+        <h3>
+          Defense rankings coming next
+        </h3>
+
         <p>
           Run defense, pass defense, points allowed, sacks and
           takeaways will appear here.
@@ -346,7 +338,11 @@
 
       <div class="placeholder-card">
         <span>⚡</span>
-        <h3>Live tracking coming soon</h3>
+
+        <h3>
+          Live tracking coming soon
+        </h3>
+
         <p>
           Track passing, rushing, receiving, touchdowns and
           game predictions live.
@@ -367,7 +363,6 @@
     id="gameModal"
     aria-hidden="true"
   >
-
     <div
       class="game-modal-backdrop"
       id="gameModalBackdrop"
@@ -379,7 +374,6 @@
       aria-modal="true"
       aria-labelledby="gameModalTitle"
     >
-
       <div class="game-modal-header">
 
         <button
@@ -408,29 +402,18 @@
           </p>
         </div>
       </div>
-
     </section>
-
   </div>
 
   <!--
   =========================================================
   JAVASCRIPT
   =========================================================
-
-  Your JavaScript files are currently in the main folder.
-
-  Later, if you move them into a js folder, change these to:
-
-  js/helpers.js
-  js/games.js
-  js/app.js
-  =========================================================
   -->
 
-    <link rel="stylesheet" href="variables.css" />
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="games.css" />
+  <script src="helpers.js"></script>
+  <script src="games.js"></script>
+  <script src="app.js"></script>
 
 </body>
 </html>
