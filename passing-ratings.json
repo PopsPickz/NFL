@@ -1,0 +1,1017 @@
+{
+  "updatedAt": "2026-07-13T21:58:37.925Z",
+  "statsSeason": 2025,
+  "formulaVersion": "1.0",
+  "weights": {
+    "yardsPerGame": 25,
+    "quarterbackRating": 25,
+    "completionPercentage": 15,
+    "touchdownsPerGame": 15,
+    "yardsPerAttempt": 10,
+    "sacksAllowedPerGame": 10
+  },
+  "teamCount": 32,
+  "teams": [
+    {
+      "teamId": "17",
+      "team": "New England Patriots",
+      "abbreviation": "NE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 86.2,
+      "tier": "Excellent",
+      "stars": 4,
+      "metrics": {
+        "passingYardsPerGame": 250.5,
+        "quarterbackRating": 112.7,
+        "completionPercentage": 71.9,
+        "passingTouchdownsPerGame": 1.82,
+        "yardsPerAttempt": 8.82,
+        "sacksAllowedPerGame": 2.06
+      },
+      "breakdown": {
+        "yardsPerGame": 21.56,
+        "quarterbackRating": 25,
+        "completionPercentage": 15,
+        "touchdownsPerGame": 7.75,
+        "yardsPerAttempt": 10,
+        "protection": 6.87
+      },
+      "reasons": [
+        "Top-level passing yard production",
+        "Strong quarterback efficiency",
+        "High completion percentage"
+      ],
+      "rank": 1
+    },
+    {
+      "teamId": "14",
+      "team": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 81.5,
+      "tier": "Excellent",
+      "stars": 4,
+      "metrics": {
+        "passingYardsPerGame": 268.1,
+        "quarterbackRating": 108.9,
+        "completionPercentage": 64.9,
+        "passingTouchdownsPerGame": 2.71,
+        "yardsPerAttempt": 7.84,
+        "sacksAllowedPerGame": 2.77
+      },
+      "breakdown": {
+        "yardsPerGame": 25,
+        "quarterbackRating": 22.77,
+        "completionPercentage": 7.48,
+        "touchdownsPerGame": 15,
+        "yardsPerAttempt": 6.92,
+        "protection": 4.37
+      },
+      "reasons": [
+        "Top-level passing yard production",
+        "Strong quarterback efficiency",
+        "Strong passing touchdown rate"
+      ],
+      "rank": 2
+    },
+    {
+      "teamId": "25",
+      "team": "San Francisco 49ers",
+      "abbreviation": "SF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 74.1,
+      "tier": "Strong",
+      "stars": 4,
+      "metrics": {
+        "passingYardsPerGame": 244.5,
+        "quarterbackRating": 98.8,
+        "completionPercentage": 69.3,
+        "passingTouchdownsPerGame": 1.94,
+        "yardsPerAttempt": 7.52,
+        "sacksAllowedPerGame": 1.18
+      },
+      "breakdown": {
+        "yardsPerGame": 20.38,
+        "quarterbackRating": 16.86,
+        "completionPercentage": 12.25,
+        "touchdownsPerGame": 8.71,
+        "yardsPerAttempt": 5.94,
+        "protection": 10
+      },
+      "reasons": [
+        "Top-level passing yard production",
+        "High completion percentage",
+        "Good quarterback protection"
+      ],
+      "rank": 3
+    },
+    {
+      "teamId": "8",
+      "team": "Detroit Lions",
+      "abbreviation": "DET",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 73.6,
+      "tier": "Strong",
+      "stars": 4,
+      "metrics": {
+        "passingYardsPerGame": 253.1,
+        "quarterbackRating": 105.3,
+        "completionPercentage": 67.7,
+        "passingTouchdownsPerGame": 2.06,
+        "yardsPerAttempt": 7.79,
+        "sacksAllowedPerGame": 2.88
+      },
+      "breakdown": {
+        "yardsPerGame": 22.07,
+        "quarterbackRating": 20.67,
+        "completionPercentage": 10.49,
+        "touchdownsPerGame": 9.68,
+        "yardsPerAttempt": 6.78,
+        "protection": 3.96
+      },
+      "reasons": [
+        "Top-level passing yard production",
+        "Strong quarterback efficiency"
+      ],
+      "rank": 4
+    },
+    {
+      "teamId": "6",
+      "team": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 71.7,
+      "tier": "Strong",
+      "stars": 4,
+      "metrics": {
+        "passingYardsPerGame": 266.3,
+        "quarterbackRating": 98.1,
+        "completionPercentage": 67.1,
+        "passingTouchdownsPerGame": 1.82,
+        "yardsPerAttempt": 7.56,
+        "sacksAllowedPerGame": 2.06
+      },
+      "breakdown": {
+        "yardsPerGame": 24.65,
+        "quarterbackRating": 16.47,
+        "completionPercentage": 9.9,
+        "touchdownsPerGame": 7.75,
+        "yardsPerAttempt": 6.05,
+        "protection": 6.87
+      },
+      "reasons": [
+        "Top-level passing yard production"
+      ],
+      "rank": 5
+    },
+    {
+      "teamId": "2",
+      "team": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 68.7,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 216.6,
+        "quarterbackRating": 104.6,
+        "completionPercentage": 69.5,
+        "passingTouchdownsPerGame": 1.71,
+        "yardsPerAttempt": 8.04,
+        "sacksAllowedPerGame": 2.12
+      },
+      "breakdown": {
+        "yardsPerGame": 14.93,
+        "quarterbackRating": 20.29,
+        "completionPercentage": 12.42,
+        "touchdownsPerGame": 6.78,
+        "yardsPerAttempt": 7.57,
+        "protection": 6.66
+      },
+      "reasons": [
+        "Strong quarterback efficiency",
+        "High completion percentage",
+        "Creates explosive passing plays"
+      ],
+      "rank": 6
+    },
+    {
+      "teamId": "9",
+      "team": "Green Bay Packers",
+      "abbreviation": "GB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 62.1,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 212.8,
+        "quarterbackRating": 102.5,
+        "completionPercentage": 67.1,
+        "passingTouchdownsPerGame": 1.53,
+        "yardsPerAttempt": 7.86,
+        "sacksAllowedPerGame": 2.12
+      },
+      "breakdown": {
+        "yardsPerGame": 14.18,
+        "quarterbackRating": 19.05,
+        "completionPercentage": 9.83,
+        "touchdownsPerGame": 5.32,
+        "yardsPerAttempt": 7.01,
+        "protection": 6.66
+      },
+      "reasons": [
+        "Strong quarterback efficiency"
+      ],
+      "rank": 7
+    },
+    {
+      "teamId": "26",
+      "team": "Seattle Seahawks",
+      "abbreviation": "SEA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 62,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 228.1,
+        "quarterbackRating": 97.9,
+        "completionPercentage": 67.6,
+        "passingTouchdownsPerGame": 1.47,
+        "yardsPerAttempt": 8.45,
+        "sacksAllowedPerGame": 2.77
+      },
+      "breakdown": {
+        "yardsPerGame": 17.18,
+        "quarterbackRating": 16.37,
+        "completionPercentage": 10.35,
+        "touchdownsPerGame": 4.84,
+        "yardsPerAttempt": 8.84,
+        "protection": 4.37
+      },
+      "reasons": [
+        "Creates explosive passing plays"
+      ],
+      "rank": 8
+    },
+    {
+      "teamId": "4",
+      "team": "Cincinnati Bengals",
+      "abbreviation": "CIN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 58.3,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 235.6,
+        "quarterbackRating": 91,
+        "completionPercentage": 64.4,
+        "passingTouchdownsPerGame": 2.12,
+        "yardsPerAttempt": 6.63,
+        "sacksAllowedPerGame": 2
+      },
+      "breakdown": {
+        "yardsPerGame": 18.64,
+        "quarterbackRating": 12.36,
+        "completionPercentage": 6.94,
+        "touchdownsPerGame": 10.16,
+        "yardsPerAttempt": 3.14,
+        "protection": 7.08
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 9
+    },
+    {
+      "teamId": "22",
+      "team": "Arizona Cardinals",
+      "abbreviation": "ARI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 57.7,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 232.6,
+        "quarterbackRating": 92.5,
+        "completionPercentage": 65.8,
+        "passingTouchdownsPerGame": 1.71,
+        "yardsPerAttempt": 6.67,
+        "sacksAllowedPerGame": 1.77
+      },
+      "breakdown": {
+        "yardsPerGame": 18.06,
+        "quarterbackRating": 13.22,
+        "completionPercentage": 8.46,
+        "touchdownsPerGame": 6.78,
+        "yardsPerAttempt": 3.25,
+        "protection": 7.91
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 10
+    },
+    {
+      "teamId": "11",
+      "team": "Indianapolis Colts",
+      "abbreviation": "IND",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 55.5,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 227.8,
+        "quarterbackRating": 92.6,
+        "completionPercentage": 65.8,
+        "passingTouchdownsPerGame": 1.47,
+        "yardsPerAttempt": 7.47,
+        "sacksAllowedPerGame": 2.29
+      },
+      "breakdown": {
+        "yardsPerGame": 17.12,
+        "quarterbackRating": 13.27,
+        "completionPercentage": 8.48,
+        "touchdownsPerGame": 4.84,
+        "yardsPerAttempt": 5.77,
+        "protection": 6.04
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 11
+    },
+    {
+      "teamId": "30",
+      "team": "Jacksonville Jaguars",
+      "abbreviation": "JAX",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 50.9,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 222.3,
+        "quarterbackRating": 91.1,
+        "completionPercentage": 61.1,
+        "passingTouchdownsPerGame": 1.71,
+        "yardsPerAttempt": 7.15,
+        "sacksAllowedPerGame": 1.88
+      },
+      "breakdown": {
+        "yardsPerGame": 16.04,
+        "quarterbackRating": 12.38,
+        "completionPercentage": 3.44,
+        "touchdownsPerGame": 6.78,
+        "yardsPerAttempt": 4.77,
+        "protection": 7.5
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 12
+    },
+    {
+      "teamId": "33",
+      "team": "Baltimore Ravens",
+      "abbreviation": "BAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 49.6,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 175.6,
+        "quarterbackRating": 96.7,
+        "completionPercentage": 65.9,
+        "passingTouchdownsPerGame": 1.35,
+        "yardsPerAttempt": 7.77,
+        "sacksAllowedPerGame": 1.77
+      },
+      "breakdown": {
+        "yardsPerGame": 6.91,
+        "quarterbackRating": 15.63,
+        "completionPercentage": 8.55,
+        "touchdownsPerGame": 3.87,
+        "yardsPerAttempt": 6.71,
+        "protection": 7.91
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 13
+    },
+    {
+      "teamId": "23",
+      "team": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 47.8,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 202.4,
+        "quarterbackRating": 93.8,
+        "completionPercentage": 66.4,
+        "passingTouchdownsPerGame": 1.53,
+        "yardsPerAttempt": 6.6,
+        "sacksAllowedPerGame": 2.82
+      },
+      "breakdown": {
+        "yardsPerGame": 12.15,
+        "quarterbackRating": 13.99,
+        "completionPercentage": 9.07,
+        "touchdownsPerGame": 5.32,
+        "yardsPerAttempt": 3.06,
+        "protection": 4.16
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 14
+    },
+    {
+      "teamId": "21",
+      "team": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 47.5,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 194.3,
+        "quarterbackRating": 96.1,
+        "completionPercentage": 64,
+        "passingTouchdownsPerGame": 1.53,
+        "yardsPerAttempt": 7,
+        "sacksAllowedPerGame": 2.47
+      },
+      "breakdown": {
+        "yardsPerGame": 10.56,
+        "quarterbackRating": 15.34,
+        "completionPercentage": 6.52,
+        "touchdownsPerGame": 5.32,
+        "yardsPerAttempt": 4.31,
+        "protection": 5.41
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 15
+    },
+    {
+      "teamId": "24",
+      "team": "Los Angeles Chargers",
+      "abbreviation": "LAC",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 47,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 212.2,
+        "quarterbackRating": 89.8,
+        "completionPercentage": 64.5,
+        "passingTouchdownsPerGame": 1.53,
+        "yardsPerAttempt": 6.95,
+        "sacksAllowedPerGame": 2.65
+      },
+      "breakdown": {
+        "yardsPerGame": 14.06,
+        "quarterbackRating": 11.61,
+        "completionPercentage": 7.07,
+        "touchdownsPerGame": 5.32,
+        "yardsPerAttempt": 4.13,
+        "protection": 4.79
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 16
+    },
+    {
+      "teamId": "18",
+      "team": "New Orleans Saints",
+      "abbreviation": "NO",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 46.8,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 219.3,
+        "quarterbackRating": 88.7,
+        "completionPercentage": 67.2,
+        "passingTouchdownsPerGame": 1.12,
+        "yardsPerAttempt": 6.81,
+        "sacksAllowedPerGame": 2.65
+      },
+      "breakdown": {
+        "yardsPerGame": 15.45,
+        "quarterbackRating": 10.99,
+        "completionPercentage": 9.93,
+        "touchdownsPerGame": 1.94,
+        "yardsPerAttempt": 3.72,
+        "protection": 4.79
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 17
+    },
+    {
+      "teamId": "3",
+      "team": "Chicago Bears",
+      "abbreviation": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 46.4,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 225.1,
+        "quarterbackRating": 90.7,
+        "completionPercentage": 58.2,
+        "passingTouchdownsPerGame": 1.65,
+        "yardsPerAttempt": 6.95,
+        "sacksAllowedPerGame": 2.06
+      },
+      "breakdown": {
+        "yardsPerGame": 16.59,
+        "quarterbackRating": 12.17,
+        "completionPercentage": 0.32,
+        "touchdownsPerGame": 6.29,
+        "yardsPerAttempt": 4.15,
+        "protection": 6.87
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 18
+    },
+    {
+      "teamId": "27",
+      "team": "Tampa Bay Buccaneers",
+      "abbreviation": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 45.1,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 205.9,
+        "quarterbackRating": 89.9,
+        "completionPercentage": 62.9,
+        "passingTouchdownsPerGame": 1.53,
+        "yardsPerAttempt": 6.73,
+        "sacksAllowedPerGame": 2.18
+      },
+      "breakdown": {
+        "yardsPerGame": 12.83,
+        "quarterbackRating": 11.66,
+        "completionPercentage": 5.37,
+        "touchdownsPerGame": 5.32,
+        "yardsPerAttempt": 3.45,
+        "protection": 6.46
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 19
+    },
+    {
+      "teamId": "34",
+      "team": "Houston Texans",
+      "abbreviation": "HOU",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 44.2,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 218.1,
+        "quarterbackRating": 89.8,
+        "completionPercentage": 62.5,
+        "passingTouchdownsPerGame": 1.41,
+        "yardsPerAttempt": 6.8,
+        "sacksAllowedPerGame": 2.77
+      },
+      "breakdown": {
+        "yardsPerGame": 15.22,
+        "quarterbackRating": 11.65,
+        "completionPercentage": 4.98,
+        "touchdownsPerGame": 4.36,
+        "yardsPerAttempt": 3.66,
+        "protection": 4.37
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 20
+    },
+    {
+      "teamId": "12",
+      "team": "Kansas City Chiefs",
+      "abbreviation": "KC",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 42.9,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 214.1,
+        "quarterbackRating": 86.5,
+        "completionPercentage": 62.2,
+        "passingTouchdownsPerGame": 1.35,
+        "yardsPerAttempt": 6.72,
+        "sacksAllowedPerGame": 2.06
+      },
+      "breakdown": {
+        "yardsPerGame": 14.44,
+        "quarterbackRating": 9.68,
+        "completionPercentage": 4.57,
+        "touchdownsPerGame": 3.87,
+        "yardsPerAttempt": 3.43,
+        "protection": 6.87
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 21
+    },
+    {
+      "teamId": "15",
+      "team": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 42.1,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 180.5,
+        "quarterbackRating": 87.3,
+        "completionPercentage": 67.2,
+        "passingTouchdownsPerGame": 1.35,
+        "yardsPerAttempt": 6.94,
+        "sacksAllowedPerGame": 2.29
+      },
+      "breakdown": {
+        "yardsPerGame": 7.86,
+        "quarterbackRating": 10.2,
+        "completionPercentage": 9.99,
+        "touchdownsPerGame": 3.87,
+        "yardsPerAttempt": 4.1,
+        "protection": 6.04
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 22
+    },
+    {
+      "teamId": "19",
+      "team": "New York Giants",
+      "abbreviation": "NYG",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 40.1,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 204.4,
+        "quarterbackRating": 87.9,
+        "completionPercentage": 61.4,
+        "passingTouchdownsPerGame": 1.24,
+        "yardsPerAttempt": 7.02,
+        "sacksAllowedPerGame": 2.29
+      },
+      "breakdown": {
+        "yardsPerGame": 12.54,
+        "quarterbackRating": 10.51,
+        "completionPercentage": 3.77,
+        "touchdownsPerGame": 2.9,
+        "yardsPerAttempt": 4.35,
+        "protection": 6.04
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 23
+    },
+    {
+      "teamId": "7",
+      "team": "Denver Broncos",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 39.8,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 223.9,
+        "quarterbackRating": 87.7,
+        "completionPercentage": 63.3,
+        "passingTouchdownsPerGame": 1.47,
+        "yardsPerAttempt": 6.41,
+        "sacksAllowedPerGame": 4
+      },
+      "breakdown": {
+        "yardsPerGame": 16.35,
+        "quarterbackRating": 10.38,
+        "completionPercentage": 5.79,
+        "touchdownsPerGame": 4.84,
+        "yardsPerAttempt": 2.46,
+        "protection": 0
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 24
+    },
+    {
+      "teamId": "29",
+      "team": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 39.3,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 179.3,
+        "quarterbackRating": 87.9,
+        "completionPercentage": 63.9,
+        "passingTouchdownsPerGame": 1.41,
+        "yardsPerAttempt": 6.42,
+        "sacksAllowedPerGame": 1.77
+      },
+      "breakdown": {
+        "yardsPerGame": 7.63,
+        "quarterbackRating": 10.51,
+        "completionPercentage": 6.41,
+        "touchdownsPerGame": 4.36,
+        "yardsPerAttempt": 2.47,
+        "protection": 7.91
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 25
+    },
+    {
+      "teamId": "1",
+      "team": "Atlanta Falcons",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 34,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 207.2,
+        "quarterbackRating": 86.7,
+        "completionPercentage": 60.9,
+        "passingTouchdownsPerGame": 1.12,
+        "yardsPerAttempt": 6.79,
+        "sacksAllowedPerGame": 3.35
+      },
+      "breakdown": {
+        "yardsPerGame": 13.09,
+        "quarterbackRating": 9.8,
+        "completionPercentage": 3.24,
+        "touchdownsPerGame": 1.94,
+        "yardsPerAttempt": 3.65,
+        "protection": 2.29
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 26
+    },
+    {
+      "teamId": "28",
+      "team": "Washington Commanders",
+      "abbreviation": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 33.2,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 184.1,
+        "quarterbackRating": 85.5,
+        "completionPercentage": 61.2,
+        "passingTouchdownsPerGame": 1.12,
+        "yardsPerAttempt": 7.1,
+        "sacksAllowedPerGame": 2.47
+      },
+      "breakdown": {
+        "yardsPerGame": 8.57,
+        "quarterbackRating": 9.11,
+        "completionPercentage": 3.54,
+        "touchdownsPerGame": 1.94,
+        "yardsPerAttempt": 4.61,
+        "protection": 5.41
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 27
+    },
+    {
+      "teamId": "13",
+      "team": "Las Vegas Raiders",
+      "abbreviation": "LV",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 31.8,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 167.7,
+        "quarterbackRating": 81.1,
+        "completionPercentage": 66,
+        "passingTouchdownsPerGame": 1.18,
+        "yardsPerAttempt": 6.35,
+        "sacksAllowedPerGame": 2.18
+      },
+      "breakdown": {
+        "yardsPerGame": 5.36,
+        "quarterbackRating": 6.57,
+        "completionPercentage": 8.7,
+        "touchdownsPerGame": 2.42,
+        "yardsPerAttempt": 2.26,
+        "protection": 6.46
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 28
+    },
+    {
+      "teamId": "16",
+      "team": "Minnesota Vikings",
+      "abbreviation": "MIN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 20.8,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 166.7,
+        "quarterbackRating": 75.3,
+        "completionPercentage": 61.6,
+        "passingTouchdownsPerGame": 1.06,
+        "yardsPerAttempt": 6.63,
+        "sacksAllowedPerGame": 2.88
+      },
+      "breakdown": {
+        "yardsPerGame": 5.16,
+        "quarterbackRating": 3.18,
+        "completionPercentage": 3.94,
+        "touchdownsPerGame": 1.46,
+        "yardsPerAttempt": 3.13,
+        "protection": 3.96
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 29
+    },
+    {
+      "teamId": "10",
+      "team": "Tennessee Titans",
+      "abbreviation": "TEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 17.5,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 166.1,
+        "quarterbackRating": 78.4,
+        "completionPercentage": 59.6,
+        "passingTouchdownsPerGame": 0.88,
+        "yardsPerAttempt": 5.69,
+        "sacksAllowedPerGame": 2.47
+      },
+      "breakdown": {
+        "yardsPerGame": 5.05,
+        "quarterbackRating": 4.97,
+        "completionPercentage": 1.89,
+        "touchdownsPerGame": 0,
+        "yardsPerAttempt": 0.18,
+        "protection": 5.41
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 30
+    },
+    {
+      "teamId": "20",
+      "team": "New York Jets",
+      "abbreviation": "NYJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 14.4,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 140.3,
+        "quarterbackRating": 75,
+        "completionPercentage": 60.3,
+        "passingTouchdownsPerGame": 0.88,
+        "yardsPerAttempt": 5.64,
+        "sacksAllowedPerGame": 1.53
+      },
+      "breakdown": {
+        "yardsPerGame": 0,
+        "quarterbackRating": 2.98,
+        "completionPercentage": 2.61,
+        "touchdownsPerGame": 0,
+        "yardsPerAttempt": 0.02,
+        "protection": 8.75
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 31
+    },
+    {
+      "teamId": "5",
+      "team": "Cleveland Browns",
+      "abbreviation": "CLE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "season": 2025,
+      "gamesPlayed": 17,
+      "rating": 8.5,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 165.2,
+        "quarterbackRating": 69.9,
+        "completionPercentage": 57.9,
+        "passingTouchdownsPerGame": 0.94,
+        "yardsPerAttempt": 5.63,
+        "sacksAllowedPerGame": 3.12
+      },
+      "breakdown": {
+        "yardsPerGame": 4.87,
+        "quarterbackRating": 0,
+        "completionPercentage": 0,
+        "touchdownsPerGame": 0.49,
+        "yardsPerAttempt": 0,
+        "protection": 3.12
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 32
+    }
+  ]
+}
