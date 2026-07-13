@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <meta
+    name="description"
+    content="POPS Pickz NFL game predictions, player projections, injuries, and moneyline picks."
+  />
+
+  <title>POPS Pickz NFL</title>
+
+  <!--
+  =========================================================
+  POPS PICKZ NFL STYLES
+  =========================================================
+
+  Your CSS files are currently located in the main folder.
+
+  Later, if you move them into a css folder, change these to:
+
+  css/variables.css
+  css/style.css
+  =========================================================
+  -->
+
+  <link rel="stylesheet" href="variables.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!--
+  =========================================================
+  SITE HEADER
+  =========================================================
+  -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+      <a
+        href="#home"
+        class="brand"
+        aria-label="POPS Pickz NFL home"
+      >
+        <div class="brand-logo">
+          P
+        </div>
+
+        <div class="brand-text">
+          <strong>POPS PICKZ</strong>
+          <span>NFL</span>
+        </div>
+      </a>
+
+      <button
+        type="button"
+        class="menu-button"
+        id="menuButton"
+        aria-label="Open navigation"
+        aria-expanded="false"
+      >
+        ☰
+      </button>
+
+      <nav
+        class="main-navigation"
+        id="mainNavigation"
+        aria-label="Main navigation"
+      >
+        <button
+          type="button"
+          class="navigation-button active"
+          data-section="home"
+        >
+          Home
+        </button>
+
+        <button
+          type="button"
+          class="navigation-button"
+          data-section="games"
+        >
+          Game Pickz
+        </button>
+
+        <button
+          type="button"
+          class="navigation-button"
+          data-section="leaders"
+        >
+          Leaders
+        </button>
+
+        <button
+          type="button"
+          class="navigation-button"
+          data-section="defense"
+        >
+          Defense
+        </button>
+
+        <button
+          type="button"
+          class="navigation-button"
+          data-section="tracking"
+        >
+          Live Tracking
+        </button>
+      </nav>
+
+    </div>
+
+  </header>
+
+  <!--
+  =========================================================
+  MAIN CONTENT
+  =========================================================
+  -->
+
+  <main>
+
+    <!-- HERO -->
+
+    <section
+      class="hero-section"
+      id="home"
+    >
+
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+
+        <p class="hero-kicker">
+          POPS PICKZ NFL
+        </p>
+
+        <h1>
+          Real Data.
+          <span>POPS Pickz.</span>
+        </h1>
+
+        <p class="hero-description">
+          Updated NFL schedules, injury reports, matchup
+          ratings, player projections, and POPS moneyline
+          predictions.
+        </p>
+
+        <button
+          type="button"
+          class="primary-button"
+          id="viewGamesButton"
+        >
+          View Today's Pickz
+        </button>
+
+      </div>
+
+    </section>
+
+    <!-- STATUS BAR -->
+
+    <section class="status-section">
+
+      <div class="status-item">
+        <span class="status-icon">📅</span>
+
+        <div>
+          <strong>Updated Schedule</strong>
+          <span id="scheduleStatus">Loading...</span>
+        </div>
+      </div>
+
+      <div class="status-item">
+        <span class="status-icon">🏥</span>
+
+        <div>
+          <strong>Injury Reports</strong>
+          <span id="injuryStatus">Loading...</span>
+        </div>
+      </div>
+
+      <div class="status-item">
+        <span class="status-icon">📊</span>
+
+        <div>
+          <strong>POPS Formula</strong>
+          <span>Matchup analysis</span>
+        </div>
+      </div>
+
+      <div class="status-item">
+        <span class="status-icon">⚡</span>
+
+        <div>
+          <strong>Live Tracking</strong>
+          <span>Coming soon</span>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- NFL GAMES -->
+
+    <section
+      class="content-section games-section"
+      id="games"
+    >
+
+      <div class="section-heading">
+
+        <div>
+          <p class="section-kicker">
+            NFL MATCHUPS
+          </p>
+
+          <h2>
+            Today's NFL Games
+          </h2>
+        </div>
+
+        <div class="week-controls">
+
+          <button
+            type="button"
+            class="week-button"
+            id="previousWeekButton"
+            aria-label="Previous week"
+          >
+            ‹
+          </button>
+
+          <span id="currentWeekLabel">
+            Loading Week...
+          </span>
+
+          <button
+            type="button"
+            class="week-button"
+            id="nextWeekButton"
+            aria-label="Next week"
+          >
+            ›
+          </button>
+
+        </div>
+
+      </div>
+
+      <div
+        class="games-container"
+        id="gamesContainer"
+      >
+        <div class="loading-card">
+          <div class="loading-spinner"></div>
+
+          <p>
+            Loading updated NFL schedule...
+          </p>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- LEADERS PLACEHOLDER -->
+
+    <section
+      class="content-section hidden-section"
+      id="leaders"
+    >
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">
+            SEASON LEADERS
+          </p>
+
+          <h2>
+            NFL Player Leaders
+          </h2>
+        </div>
+      </div>
+
+      <div class="placeholder-card">
+        <span>🏆</span>
+        <h3>Player leaders coming next</h3>
+        <p>
+          Passing, rushing and receiving leaders will appear
+          here.
+        </p>
+      </div>
+    </section>
+
+    <!-- DEFENSE PLACEHOLDER -->
+
+    <section
+      class="content-section hidden-section"
+      id="defense"
+    >
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">
+            TEAM DEFENSE
+          </p>
+
+          <h2>
+            Defensive Rankings
+          </h2>
+        </div>
+      </div>
+
+      <div class="placeholder-card">
+        <span>🛡️</span>
+        <h3>Defense rankings coming next</h3>
+        <p>
+          Run defense, pass defense, points allowed, sacks and
+          takeaways will appear here.
+        </p>
+      </div>
+    </section>
+
+    <!-- TRACKING PLACEHOLDER -->
+
+    <section
+      class="content-section hidden-section"
+      id="tracking"
+    >
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">
+            LIVE RESULTS
+          </p>
+
+          <h2>
+            POPS Live Tracking
+          </h2>
+        </div>
+      </div>
+
+      <div class="placeholder-card">
+        <span>⚡</span>
+        <h3>Live tracking coming soon</h3>
+        <p>
+          Track passing, rushing, receiving, touchdowns and
+          game predictions live.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <!--
+  =========================================================
+  GAME DETAILS MODAL
+  =========================================================
+  -->
+
+  <div
+    class="game-modal"
+    id="gameModal"
+    aria-hidden="true"
+  >
+
+    <div
+      class="game-modal-backdrop"
+      id="gameModalBackdrop"
+    ></div>
+
+    <section
+      class="game-modal-panel"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="gameModalTitle"
+    >
+
+      <div class="game-modal-header">
+
+        <button
+          type="button"
+          class="back-button"
+          id="closeGameModalButton"
+        >
+          ← Back to Games
+        </button>
+
+        <h2 id="gameModalTitle">
+          POPS Pickz Game Projection
+        </h2>
+
+      </div>
+
+      <div
+        class="game-modal-content"
+        id="gameModalContent"
+      >
+        <div class="loading-card">
+          <div class="loading-spinner"></div>
+
+          <p>
+            Loading POPS Pickz matchup...
+          </p>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <!--
+  =========================================================
+  JAVASCRIPT
+  =========================================================
+
+  Your JavaScript files are currently in the main folder.
+
+  Later, if you move them into a js folder, change these to:
+
+  js/helpers.js
+  js/games.js
+  js/app.js
+  =========================================================
+  -->
+
+  <script src="helpers.js"></script>
+  <script src="games.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
