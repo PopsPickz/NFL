@@ -39,6 +39,9 @@ jobs:
       - name: Build NFL team statistics
         run: node build-team-stats.js
 
+      - name: Build POPS passing ratings
+        run: node passing-formula.js
+
       - name: Verify data files
         run: |
           if [ ! -f schedule.json ]; then
@@ -48,6 +51,11 @@ jobs:
 
           if [ ! -f team-stats.json ]; then
             echo "team-stats.json was not created."
+            exit 1
+          fi
+
+          if [ ! -f passing-ratings.json ]; then
+            echo "passing-ratings.json was not created."
             exit 1
           fi
 
@@ -72,17 +80,31 @@ jobs:
           });
           "
 
+          echo "Passing ratings summary:"
+          node -e "
+          const data = require('./passing-ratings.json');
+          console.log({
+            statsSeason: data.statsSeason,
+            teams: data.teamCount,
+            topPassingTeam: data.teams?.[0]?.team,
+            topPassingRating: data.teams?.[0]?.rating
+          });
+          "
+
       - name: Commit updated NFL data
         run: |
           git config user.name "POPS Pickz Bot"
           git config user.email "actions@github.com"
 
-          git add schedule.json team-stats.json
+          git add \
+            schedule.json \
+            team-stats.json \
+            passing-ratings.json
 
           if git diff --cached --quiet; then
             echo "No NFL data changes to commit."
             exit 0
           fi
 
-          git commit -m "Update NFL schedule and team stats"
+          git commit -m "Update NFL data and passing ratings"
           git push
