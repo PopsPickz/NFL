@@ -1,1 +1,213 @@
-variables 
+/*
+=========================================================
+POPS PICKZ NFL — DESIGN VARIABLES
+File: variables.css
+=========================================================
+*/
+
+:root {
+  /*
+  =======================================================
+  BRAND COLORS
+  =======================================================
+  */
+
+  --color-background: #050505;
+  --color-background-soft: #0b0b0b;
+
+  --color-panel: #111111;
+  --color-panel-soft: #171717;
+  --color-panel-deep: #090909;
+
+  --color-orange: #ff6a00;
+  --color-orange-light: #ff9a2f;
+  --color-orange-dark: #b94d00;
+
+  --color-gold: #ffc15a;
+  --color-gold-soft: #d99a32;
+
+  --color-text: #f5f5f5;
+  --color-text-soft: #d7d7d7;
+  --color-muted: #9d9d9d;
+
+  --color-line: rgba(255, 106, 0, 0.42);
+  --color-line-soft: rgba(255, 255, 255, 0.09);
+
+  --color-success: #56e36c;
+  --color-danger: #ff4d4d;
+  --color-warning: #ffc15a;
+  --color-info: #4aa3ff;
+
+  /*
+  =======================================================
+  TEAM PANEL COLORS
+  =======================================================
+  */
+
+  --color-away-panel: rgba(29, 49, 82, 0.48);
+  --color-home-panel: rgba(43, 79, 42, 0.48);
+
+  /*
+  =======================================================
+  SHADOWS
+  =======================================================
+  */
+
+  --shadow-small:
+    0 6px 18px rgba(0, 0, 0, 0.28);
+
+  --shadow-medium:
+    0 14px 34px rgba(0, 0, 0, 0.42);
+
+  --shadow-large:
+    0 24px 60px rgba(0, 0, 0, 0.58);
+
+  --shadow-orange:
+    0 0 24px rgba(255, 106, 0, 0.18);
+
+  --shadow-orange-strong:
+    0 0 34px rgba(255, 106, 0, 0.3);
+
+  /*
+  =======================================================
+  GRADIENTS
+  =======================================================
+  */
+
+  --gradient-page:
+    linear-gradient(
+      180deg,
+      #050505 0%,
+      #090909 48%,
+      #050505 100%
+    );
+
+  --gradient-panel:
+    linear-gradient(
+      145deg,
+      rgba(23, 23, 23, 0.98),
+      rgba(10, 10, 10, 0.98)
+    );
+
+  --gradient-orange:
+    linear-gradient(
+      135deg,
+      var(--color-orange),
+      var(--color-orange-light)
+    );
+
+  --gradient-gold:
+    linear-gradient(
+      135deg,
+      var(--color-gold),
+      var(--color-orange)
+    );
+
+  --gradient-hero-overlay:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.95) 0%,
+      rgba(0, 0, 0, 0.76) 48%,
+      rgba(0, 0, 0, 0.18) 100%
+    );
+
+  /*
+  =======================================================
+  TYPOGRAPHY
+  =======================================================
+  */
+
+  --font-main:
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  --font-display:
+    Impact,
+    Haettenschweiler,
+    "Arial Narrow Bold",
+    sans-serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.4rem;
+  --font-size-2xl: 1.9rem;
+  --font-size-3xl: 2.8rem;
+  --font-size-hero: clamp(2.7rem, 7vw, 5.8rem);
+
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+
+  --line-height-tight: 1.08;
+  --line-height-normal: 1.55;
+
+  /*
+  =======================================================
+  SPACING
+  =======================================================
+  */
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 1.75rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+
+  /*
+  =======================================================
+  BORDER RADIUS
+  =======================================================
+  */
+
+  --radius-small: 8px;
+  --radius-medium: 14px;
+  --radius-large: 20px;
+  --radius-xl: 28px;
+  --radius-round: 999px;
+
+  /*
+  =======================================================
+  LAYOUT
+  =======================================================
+  */
+
+  --site-width: 1440px;
+  --content-width: 1240px;
+  --header-height: 76px;
+
+  /*
+  =======================================================
+  TRANSITIONS
+  =======================================================
+  */
+
+  --transition-fast: 160ms ease;
+  --transition-normal: 260ms ease;
+  --transition-slow: 420ms ease;
+
+  /*
+  =======================================================
+  Z-INDEX
+  =======================================================
+  */
+
+  --z-header: 100;
+  --z-modal-backdrop: 900;
+  --z-modal: 1000;
+}
