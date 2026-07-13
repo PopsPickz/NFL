@@ -4,13 +4,13 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 7:00 AM Eastern during daylight time
+    # 7:00 AM Eastern
     - cron: "0 11 * * *"
 
-    # 1:00 PM Eastern during daylight time
+    # 1:00 PM Eastern
     - cron: "0 17 * * *"
 
-    # 7:00 PM Eastern during daylight time
+    # 7:00 PM Eastern
     - cron: "0 23 * * *"
 
 permissions:
@@ -25,86 +25,132 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "22"
 
-      - name: Build NFL schedule
+      #################################################
+      # BUILD DATA
+      #################################################
+
+      - name: Build NFL Schedule
         run: node build-schedule.js
 
-      - name: Build NFL team statistics
+      - name: Build Team Statistics
         run: node build-team-stats.js
 
-      - name: Build POPS passing ratings
+      - name: Build Passing Ratings
         run: node passing-formula.js
 
-      - name: Verify data files
+      - name: Build Rushing Ratings
+        run: node rushing-formula.js
+
+      #################################################
+      # VERIFY FILES
+      #################################################
+
+      - name: Verify Generated Files
         run: |
+
           if [ ! -f schedule.json ]; then
-            echo "schedule.json was not created."
+            echo "schedule.json missing"
             exit 1
           fi
 
           if [ ! -f team-stats.json ]; then
-            echo "team-stats.json was not created."
+            echo "team-stats.json missing"
             exit 1
           fi
 
           if [ ! -f passing-ratings.json ]; then
-            echo "passing-ratings.json was not created."
+            echo "passing-ratings.json missing"
             exit 1
           fi
 
-          echo "NFL data files were created successfully."
+          if [ ! -f rushing-ratings.json ]; then
+            echo "rushing-ratings.json missing"
+            exit 1
+          fi
 
-          echo "Schedule summary:"
-          node -e "
-          const data = require('./schedule.json');
-          console.log({
-            season: data.season,
-            week: data.week,
-            games: data.gameCount
-          });
-          "
+          echo "All files generated successfully."
 
-          echo "Team statistics summary:"
-          node -e "
-          const data = require('./team-stats.json');
-          console.log({
-            statsSeason: data.statsSeason,
-            teams: data.teamCount
-          });
-          "
+      #################################################
+      # SHOW SUMMARY
+      #################################################
 
-          echo "Passing ratings summary:"
-          node -e "
-          const data = require('./passing-ratings.json');
-          console.log({
-            statsSeason: data.statsSeason,
-            teams: data.teamCount,
-            topPassingTeam: data.teams?.[0]?.team,
-            topPassingRating: data.teams?.[0]?.rating
-          });
-          "
-
-      - name: Commit updated NFL data
+      - name: Print Summary
         run: |
+
+          echo ""
+          echo "===== SCHEDULE ====="
+
+          node -e "
+          const s=require('./schedule.json');
+          console.log({
+            season:s.season,
+            week:s.week,
+            games:s.gameCount
+          });
+          "
+
+          echo ""
+          echo "===== TEAM STATS ====="
+
+          node -e "
+          const t=require('./team-stats.json');
+          console.log({
+            season:t.statsSeason,
+            teams:t.teamCount
+          });
+          "
+
+          echo ""
+          echo "===== PASSING ====="
+
+          node -e "
+          const p=require('./passing-ratings.json');
+          console.log({
+            top:p.teams[0].team,
+            rating:p.teams[0].rating
+          });
+          "
+
+          echo ""
+          echo "===== RUSHING ====="
+
+          node -e "
+          const r=require('./rushing-ratings.json');
+          console.log({
+            top:r.teams[0].team,
+            rating:r.teams[0].rating
+          });
+          "
+
+      #################################################
+      # COMMIT CHANGES
+      #################################################
+
+      - name: Commit Updated Files
+        run: |
+
           git config user.name "POPS Pickz Bot"
           git config user.email "actions@github.com"
 
           git add \
             schedule.json \
             team-stats.json \
-            passing-ratings.json
+            passing-ratings.json \
+            rushing-ratings.json
 
           if git diff --cached --quiet; then
-            echo "No NFL data changes to commit."
+            echo "No changes detected."
             exit 0
           fi
 
-          git commit -m "Update NFL data and passing ratings"
+          git commit -m "Update POPS NFL data"
+
           git push
