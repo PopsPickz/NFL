@@ -1,27 +1,27 @@
-name: Update POPS NFL Schedule
+name: Update POPS NFL Data
 
 on:
   workflow_dispatch:
 
   schedule:
-    # Runs daily at 7:00 AM Eastern during daylight time.
+    # 7:00 AM Eastern during daylight time
     - cron: "0 11 * * *"
 
-    # Runs daily at 1:00 PM Eastern during daylight time.
+    # 1:00 PM Eastern during daylight time
     - cron: "0 17 * * *"
 
-    # Runs daily at 7:00 PM Eastern during daylight time.
+    # 7:00 PM Eastern during daylight time
     - cron: "0 23 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-pops-nfl-schedule
+  group: update-pops-nfl-data
   cancel-in-progress: false
 
 jobs:
-  update-schedule:
+  update-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -36,27 +36,53 @@ jobs:
       - name: Build NFL schedule
         run: node build-schedule.js
 
-      - name: Verify schedule file
+      - name: Build NFL team statistics
+        run: node build-team-stats.js
+
+      - name: Verify data files
         run: |
           if [ ! -f schedule.json ]; then
             echo "schedule.json was not created."
             exit 1
           fi
 
-          echo "schedule.json was created successfully."
-          cat schedule.json
+          if [ ! -f team-stats.json ]; then
+            echo "team-stats.json was not created."
+            exit 1
+          fi
 
-      - name: Commit updated schedule
+          echo "NFL data files were created successfully."
+
+          echo "Schedule summary:"
+          node -e "
+          const data = require('./schedule.json');
+          console.log({
+            season: data.season,
+            week: data.week,
+            games: data.gameCount
+          });
+          "
+
+          echo "Team statistics summary:"
+          node -e "
+          const data = require('./team-stats.json');
+          console.log({
+            statsSeason: data.statsSeason,
+            teams: data.teamCount
+          });
+          "
+
+      - name: Commit updated NFL data
         run: |
           git config user.name "POPS Pickz Bot"
           git config user.email "actions@github.com"
 
-          git add schedule.json
+          git add schedule.json team-stats.json
 
           if git diff --cached --quiet; then
-            echo "No schedule changes to commit."
+            echo "No NFL data changes to commit."
             exit 0
           fi
 
-          git commit -m "Update NFL schedule"
+          git commit -m "Update NFL schedule and team stats"
           git push
