@@ -4,13 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 7:00 AM Eastern
     - cron: "0 11 * * *"
-
-    # 1:00 PM Eastern
     - cron: "0 17 * * *"
-
-    # 7:00 PM Eastern
     - cron: "0 23 * * *"
 
 permissions:
@@ -25,22 +20,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: 22
 
       #################################################
-      # BUILD DATA
+      # BUILD FILES
       #################################################
 
-      - name: Build NFL Schedule
+      - name: Build Schedule
         run: node build-schedule.js
 
-      - name: Build Team Statistics
+      - name: Build Team Stats
         run: node build-team-stats.js
 
       - name: Build Passing Ratings
@@ -49,40 +45,29 @@ jobs:
       - name: Build Rushing Ratings
         run: node rushing-formula.js
 
+      - name: Build Receiving Ratings
+        run: node receiving-formula.js
+
       #################################################
       # VERIFY FILES
       #################################################
 
-      - name: Verify Generated Files
+      - name: Verify Files
         run: |
 
-          if [ ! -f schedule.json ]; then
-            echo "schedule.json missing"
-            exit 1
-          fi
-
-          if [ ! -f team-stats.json ]; then
-            echo "team-stats.json missing"
-            exit 1
-          fi
-
-          if [ ! -f passing-ratings.json ]; then
-            echo "passing-ratings.json missing"
-            exit 1
-          fi
-
-          if [ ! -f rushing-ratings.json ]; then
-            echo "rushing-ratings.json missing"
-            exit 1
-          fi
+          test -f schedule.json
+          test -f team-stats.json
+          test -f passing-ratings.json
+          test -f rushing-ratings.json
+          test -f receiving-ratings.json
 
           echo "All files generated successfully."
 
       #################################################
-      # SHOW SUMMARY
+      # PRINT SUMMARY
       #################################################
 
-      - name: Print Summary
+      - name: Summary
         run: |
 
           echo ""
@@ -91,20 +76,8 @@ jobs:
           node -e "
           const s=require('./schedule.json');
           console.log({
-            season:s.season,
             week:s.week,
             games:s.gameCount
-          });
-          "
-
-          echo ""
-          echo "===== TEAM STATS ====="
-
-          node -e "
-          const t=require('./team-stats.json');
-          console.log({
-            season:t.statsSeason,
-            teams:t.teamCount
           });
           "
 
@@ -114,7 +87,7 @@ jobs:
           node -e "
           const p=require('./passing-ratings.json');
           console.log({
-            top:p.teams[0].team,
+            team:p.teams[0].team,
             rating:p.teams[0].rating
           });
           "
@@ -125,16 +98,27 @@ jobs:
           node -e "
           const r=require('./rushing-ratings.json');
           console.log({
-            top:r.teams[0].team,
+            team:r.teams[0].team,
+            rating:r.teams[0].rating
+          });
+          "
+
+          echo ""
+          echo "===== RECEIVING ====="
+
+          node -e "
+          const r=require('./receiving-ratings.json');
+          console.log({
+            team:r.teams[0].team,
             rating:r.teams[0].rating
           });
           "
 
       #################################################
-      # COMMIT CHANGES
+      # COMMIT
       #################################################
 
-      - name: Commit Updated Files
+      - name: Commit Updated Data
         run: |
 
           git config user.name "POPS Pickz Bot"
@@ -144,10 +128,12 @@ jobs:
             schedule.json \
             team-stats.json \
             passing-ratings.json \
-            rushing-ratings.json
+            rushing-ratings.json \
+            receiving-ratings.json
 
-          if git diff --cached --quiet; then
-            echo "No changes detected."
+          if git diff --cached --quiet
+          then
+            echo "Nothing changed."
             exit 0
           fi
 
