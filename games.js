@@ -3,11 +3,16 @@
 POPS PICKZ NFL — GAME SCHEDULE DISPLAY
 File: games.js
 =========================================================
+
+Loads the NFL schedule, displays clickable game cards,
+and opens the completed POPS matchup projection view.
+=========================================================
 */
 
 const Games = {
   games: [],
   selectedGame: null,
+  modalRequestId: 0,
 
   elements: {
     container: null,
@@ -55,7 +60,7 @@ const Games = {
 
     const scheduleData =
       await Helpers.fetchJSONSafe(
-        "schedule.json",
+        "./schedule.json",
         {
           season: new Date().getFullYear(),
           week: 1,
@@ -104,7 +109,7 @@ const Games = {
 
   /*
   =======================================================
-  RENDER GAME CARDS
+  GAME CARDS
   =======================================================
   */
 
@@ -116,11 +121,15 @@ const Games = {
     const sortedGames = [...this.games].sort(
       (gameA, gameB) => {
         const dateA = new Date(
-          gameA.date || gameA.startTime || 0
+          gameA.date ||
+          gameA.startTime ||
+          0
         );
 
         const dateB = new Date(
-          gameB.date || gameB.startTime || 0
+          gameB.date ||
+          gameB.startTime ||
+          0
         );
 
         return dateA - dateB;
@@ -129,7 +138,9 @@ const Games = {
 
     this.elements.container.innerHTML =
       sortedGames
-        .map((game) => this.createGameCard(game))
+        .map((game) => {
+          return this.createGameCard(game);
+        })
         .join("");
 
     this.attachGameListeners();
@@ -229,9 +240,7 @@ const Games = {
                 Away
               </span>
 
-              <strong>
-                ${awayName}
-              </strong>
+              <strong>${awayName}</strong>
 
               <span class="team-record">
                 ${awayRecord}
@@ -256,9 +265,7 @@ const Games = {
                 Home
               </span>
 
-              <strong>
-                ${homeName}
-              </strong>
+              <strong>${homeName}</strong>
 
               <span class="team-record">
                 ${homeRecord}
@@ -289,34 +296,33 @@ const Games = {
   },
 
   createTeamLogo(logo, teamName) {
-    if (!logo) {
-      const abbreviation =
-        teamName
-          .split(" ")
-          .map((word) => word.charAt(0))
-          .join("")
-          .slice(0, 3);
-
+    if (logo) {
       return `
-        <div class="team-logo-fallback">
-          ${Helpers.escapeHTML(abbreviation)}
-        </div>
+        <img
+          class="team-logo"
+          src="${logo}"
+          alt="${teamName} logo"
+          loading="lazy"
+        />
       `;
     }
 
+    const abbreviation = teamName
+      .split(" ")
+      .map((word) => word.charAt(0))
+      .join("")
+      .slice(0, 3);
+
     return `
-      <img
-        class="team-logo"
-        src="${logo}"
-        alt="${teamName} logo"
-        loading="lazy"
-      />
+      <div class="team-logo-fallback">
+        ${Helpers.escapeHTML(abbreviation)}
+      </div>
     `;
   },
 
   /*
   =======================================================
-  CLICK EVENTS
+  GAME EVENTS
   =======================================================
   */
 
@@ -327,19 +333,30 @@ const Games = {
       );
 
     gameCards.forEach((card) => {
-      card.addEventListener("click", () => {
-        this.openGame(card.dataset.gameId);
-      });
-
-      card.addEventListener("keydown", (event) => {
-        if (
-          event.key === "Enter" ||
-          event.key === " "
-        ) {
-          event.preventDefault();
-          this.openGame(card.dataset.gameId);
+      card.addEventListener(
+        "click",
+        () => {
+          this.openGame(
+            card.dataset.gameId
+          );
         }
-      });
+      );
+
+      card.addEventListener(
+        "keydown",
+        (event) => {
+          if (
+            event.key === "Enter" ||
+            event.key === " "
+          ) {
+            event.preventDefault();
+
+            this.openGame(
+              card.dataset.gameId
+            );
+          }
+        }
+      );
     });
   },
 
@@ -349,7 +366,7 @@ const Games = {
   =======================================================
   */
 
-  openGame(gameId) {
+  async openGame(gameId) {
     const game = this.games.find((item) => {
       return String(
         Helpers.getGameId(item)
@@ -362,34 +379,65 @@ const Games = {
 
     this.selectedGame = game;
 
-    this.renderGameModal(game);
+    const requestId =
+      ++this.modalRequestId;
 
-    this.elements.modal.classList.add("open");
+    this.setModalTitle(game);
+    this.showModalLoading();
+
+    this.elements.modal.classList.add(
+      "open"
+    );
+
     this.elements.modal.setAttribute(
       "aria-hidden",
       "false"
     );
 
-    document.body.classList.add("modal-open");
-  },
-
-  closeGame() {
-    if (!this.elements.modal) {
-      return;
-    }
-
-    this.elements.modal.classList.remove("open");
-    this.elements.modal.setAttribute(
-      "aria-hidden",
-      "true"
+    document.body.classList.add(
+      "modal-open"
     );
 
-    document.body.classList.remove("modal-open");
+    try {
+      if (
+        typeof MatchupView === "undefined" ||
+        typeof MatchupView.render !==
+          "function"
+      ) {
+        throw new Error(
+          "matchup-view.js is not loaded"
+        );
+      }
 
-    this.selectedGame = null;
+      const matchupHTML =
+        await MatchupView.render(game);
+
+      if (
+        requestId !== this.modalRequestId ||
+        this.selectedGame !== game
+      ) {
+        return;
+      }
+
+      this.elements.modalContent.innerHTML =
+        matchupHTML;
+    } catch (error) {
+      console.error(
+        "POPS matchup display error:",
+        error
+      );
+
+      if (
+        requestId !== this.modalRequestId
+      ) {
+        return;
+      }
+
+      this.showModalError(error);
+    }
   },
 
-  renderGameModal(game) {
+  setModalTitle(game) {
     const awayTeam =
       game.awayTeam ||
       game.away ||
@@ -400,129 +448,128 @@ const Games = {
       game.home ||
       {};
 
-    const awayName = Helpers.escapeHTML(
-      Helpers.getTeamName(awayTeam)
+    const awayName =
+      Helpers.getTeamName(awayTeam);
+
+    const homeName =
+      Helpers.getTeamName(homeTeam);
+
+    if (this.elements.modalTitle) {
+      this.elements.modalTitle.textContent =
+        `${awayName} at ${homeName}`;
+    }
+  },
+
+  closeGame() {
+    if (!this.elements.modal) {
+      return;
+    }
+
+    this.modalRequestId += 1;
+
+    this.elements.modal.classList.remove(
+      "open"
     );
 
-    const homeName = Helpers.escapeHTML(
-      Helpers.getTeamName(homeTeam)
+    this.elements.modal.setAttribute(
+      "aria-hidden",
+      "true"
     );
 
-    this.elements.modalTitle.textContent =
-      `${awayName} at ${homeName}`;
+    document.body.classList.remove(
+      "modal-open"
+    );
+
+    this.selectedGame = null;
+  },
+
+  showModalLoading() {
+    if (!this.elements.modalContent) {
+      return;
+    }
 
     this.elements.modalContent.innerHTML = `
-      <section class="matchup-preview">
+      <div class="loading-card">
 
-        <p class="section-kicker">
-          POPS PICKZ GAME PROJECTION
+        <div class="loading-spinner"></div>
+
+        <p>
+          Loading POPS Pickz matchup...
         </p>
 
-        <div class="matchup-preview-teams">
-
-          <div class="preview-team">
-            <span>Away Team</span>
-            <h3>${awayName}</h3>
-          </div>
-
-          <div class="preview-versus">
-            VS
-          </div>
-
-          <div class="preview-team">
-            <span>Home Team</span>
-            <h3>${homeName}</h3>
-          </div>
-
-        </div>
-
-        <div class="projection-placeholder-grid">
-
-          ${this.createProjectionPlaceholder(
-            "🏈",
-            "Passing"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "🏃",
-            "Rushing"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "🙌",
-            "Receiving"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "🛡️",
-            "Defense"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "🔥",
-            "Average Points"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "🏥",
-            "Injury Report"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "💰",
-            "POPS Moneyline"
-          )}
-
-          ${this.createProjectionPlaceholder(
-            "🎯",
-            "TD Scorers"
-          )}
-
-        </div>
-
-      </section>
+      </div>
     `;
   },
 
-  createProjectionPlaceholder(icon, title) {
-    return `
-      <div class="projection-placeholder">
-        <span>${icon}</span>
-        <strong>${title}</strong>
-        <small>Coming next</small>
+  showModalError(error) {
+    if (!this.elements.modalContent) {
+      return;
+    }
+
+    const message =
+      error?.message ||
+      "The matchup projection could not be loaded.";
+
+    this.elements.modalContent.innerHTML = `
+      <div class="placeholder-card">
+
+        <span>⚠️</span>
+
+        <h3>
+          POPS projection unavailable
+        </h3>
+
+        <p>
+          ${Helpers.escapeHTML(message)}
+        </p>
+
       </div>
     `;
   },
 
   /*
   =======================================================
-  LOADING AND EMPTY STATES
+  SCHEDULE STATES
   =======================================================
   */
 
   showLoading() {
+    if (!this.elements.container) {
+      return;
+    }
+
     this.elements.container.innerHTML = `
       <div class="loading-card">
+
         <div class="loading-spinner"></div>
 
         <p>
           Loading updated NFL schedule...
         </p>
+
       </div>
     `;
   },
 
   showEmptyState() {
+    if (!this.elements.container) {
+      return;
+    }
+
     this.elements.container.innerHTML = `
       <div class="placeholder-card">
+
         <span>🏈</span>
 
-        <h3>No NFL games found</h3>
+        <h3>
+          No NFL games found
+        </h3>
 
         <p>
-          The schedule file is empty. We will connect
-          the live schedule builder next.
+          The current NFL schedule file does not contain
+          any games.
         </p>
+
       </div>
     `;
   }
