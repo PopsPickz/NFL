@@ -1,0 +1,62 @@
+name: Update POPS NFL Schedule
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Runs daily at 7:00 AM Eastern during daylight time.
+    - cron: "0 11 * * *"
+
+    # Runs daily at 1:00 PM Eastern during daylight time.
+    - cron: "0 17 * * *"
+
+    # Runs daily at 7:00 PM Eastern during daylight time.
+    - cron: "0 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-pops-nfl-schedule
+  cancel-in-progress: false
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build NFL schedule
+        run: node build-schedule.js
+
+      - name: Verify schedule file
+        run: |
+          if [ ! -f schedule.json ]; then
+            echo "schedule.json was not created."
+            exit 1
+          fi
+
+          echo "schedule.json was created successfully."
+          cat schedule.json
+
+      - name: Commit updated schedule
+        run: |
+          git config user.name "POPS Pickz Bot"
+          git config user.email "actions@github.com"
+
+          git add schedule.json
+
+          if git diff --cached --quiet; then
+            echo "No schedule changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update NFL schedule"
+          git push
