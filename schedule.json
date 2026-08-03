@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T17:28:51.631Z",
+  "updatedAt": "2026-08-03T20:46:51.236Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -499,8 +499,8 @@
         "location": "Houston",
         "nickname": "Texans",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-        "color": "00143f",
-        "alternateColor": "c41230",
+        "color": "021018",
+        "alternateColor": "eb0028",
         "record": "0-0",
         "score": 0,
         "winner": false
