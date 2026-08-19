@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:30:52.785Z",
+  "updatedAt": "2026-08-19T23:22:19.443Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -811,7 +811,7 @@
         "score": 0,
         "winner": false
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "state": "MO",
       "network": "ESPN, ABC",
