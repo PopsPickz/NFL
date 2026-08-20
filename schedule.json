@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:22:19.443Z",
+  "updatedAt": "2026-08-20T11:19:36.201Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -505,7 +505,7 @@
         "score": 0,
         "winner": false
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "city": "Houston",
       "state": "TX",
       "network": "CBS",
