@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:38:25.344Z",
+  "updatedAt": "2026-09-10T00:52:39.273Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -51,10 +51,10 @@
       "state": "WA",
       "network": "NBC",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Wed, September 9th at 8:20 PM EDT",
-        "shortDetail": "9/9 - 8:20 PM EDT"
+        "detail": "1:22 - 1st Quarter",
+        "shortDetail": "1:22 - 1st"
       }
     },
     {
