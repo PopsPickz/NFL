@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T00:52:45.611Z",
+  "updatedAt": "2026-09-10T14:42:58.927Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 32,
@@ -10,40 +10,40 @@
       "abbreviation": "NE",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
       "season": 2026,
-      "gamesPlayed": 0,
+      "gamesPlayed": 1,
       "offense": {
-        "points": 0,
-        "pointsPerGame": 0,
+        "points": 10,
+        "pointsPerGame": 10,
         "totalYards": 0,
-        "yardsPerGame": 0,
+        "yardsPerGame": 287,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 0
+        "turnovers": 3
       },
       "passing": {
-        "yards": 0,
-        "yardsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "completionPercentage": 0,
-        "touchdowns": 0,
+        "yards": 168,
+        "yardsPerGame": 168,
+        "yardsPerAttempt": 5.394,
+        "completionPercentage": 69.697,
+        "touchdowns": 1,
         "interceptions": 0,
-        "sacksAllowed": 0,
-        "quarterbackRating": 0
+        "sacksAllowed": 2,
+        "quarterbackRating": 54.86
       },
       "rushing": {
-        "yards": 0,
-        "yardsPerGame": 0,
-        "yardsPerCarry": 0,
+        "yards": 109,
+        "yardsPerGame": 109,
+        "yardsPerCarry": 3.516,
         "touchdowns": 0,
-        "attempts": 0,
-        "firstDowns": 0
+        "attempts": 31,
+        "firstDowns": 7
       },
       "receiving": {
-        "yards": 0,
-        "yardsPerGame": 0,
-        "receptions": 0,
-        "touchdowns": 0,
-        "yardsPerReception": 0
+        "yards": 178,
+        "yardsPerGame": 178,
+        "receptions": 23,
+        "touchdowns": 1,
+        "yardsPerReception": 7.739
       },
       "defense": {
         "pointsAllowed": 0,
@@ -52,7 +52,7 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 0,
+        "sacks": 2,
         "interceptions": 0,
         "takeaways": 0,
         "thirdDownPercentageAllowed": 0,
@@ -65,40 +65,40 @@
       "abbreviation": "SEA",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
       "season": 2026,
-      "gamesPlayed": 0,
+      "gamesPlayed": 1,
       "offense": {
-        "points": 0,
-        "pointsPerGame": 0,
+        "points": 13,
+        "pointsPerGame": 13,
         "totalYards": 0,
-        "yardsPerGame": 0,
+        "yardsPerGame": 297,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 0
       },
       "passing": {
-        "yards": 0,
-        "yardsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "completionPercentage": 0,
-        "touchdowns": 0,
+        "yards": 188,
+        "yardsPerGame": 188,
+        "yardsPerAttempt": 8.333,
+        "completionPercentage": 70.833,
+        "touchdowns": 1,
         "interceptions": 0,
-        "sacksAllowed": 0,
-        "quarterbackRating": 0
+        "sacksAllowed": 3,
+        "quarterbackRating": 109.722
       },
       "rushing": {
-        "yards": 0,
-        "yardsPerGame": 0,
-        "yardsPerCarry": 0,
+        "yards": 97,
+        "yardsPerGame": 97,
+        "yardsPerCarry": 4.409,
         "touchdowns": 0,
-        "attempts": 0,
-        "firstDowns": 0
+        "attempts": 22,
+        "firstDowns": 4
       },
       "receiving": {
-        "yards": 0,
-        "yardsPerGame": 0,
-        "receptions": 0,
-        "touchdowns": 0,
-        "yardsPerReception": 0
+        "yards": 200,
+        "yardsPerGame": 200,
+        "receptions": 17,
+        "touchdowns": 1,
+        "yardsPerReception": 11.765
       },
       "defense": {
         "pointsAllowed": 0,
@@ -107,9 +107,9 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 0,
-        "interceptions": 0,
-        "takeaways": 0,
+        "sacks": 3,
+        "interceptions": 3,
+        "takeaways": 3,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
