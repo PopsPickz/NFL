@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T00:50:40.799Z",
+  "updatedAt": "2026-09-11T14:45:36.301Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -78,9 +78,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
         "color": "aa0000",
         "alternateColor": "b3995d",
-        "record": "0-0",
-        "score": 3,
-        "winner": false
+        "record": "1-0",
+        "score": 27,
+        "winner": true
       },
       "homeTeam": {
         "id": "14",
@@ -93,8 +93,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
         "color": "003594",
         "alternateColor": "ffd100",
-        "record": "0-0",
-        "score": 0,
+        "record": "0-1",
+        "score": 7,
         "winner": false
       },
       "venue": "Melbourne Cricket Ground",
@@ -102,10 +102,10 @@
       "state": "VIC",
       "network": "Netflix",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "6:15 - 1st Quarter",
-        "shortDetail": "6:15 - 1st"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
