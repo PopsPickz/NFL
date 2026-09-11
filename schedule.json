@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:29:25.151Z",
+  "updatedAt": "2026-09-11T00:50:40.799Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "aa0000",
         "alternateColor": "b3995d",
         "record": "0-0",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "homeTeam": {
@@ -102,10 +102,10 @@
       "state": "VIC",
       "network": "Netflix",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, September 10th at 8:35 PM EDT",
-        "shortDetail": "9/10 - 8:35 PM EDT"
+        "detail": "6:15 - 1st Quarter",
+        "shortDetail": "6:15 - 1st"
       }
     },
     {
