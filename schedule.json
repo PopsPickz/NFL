@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T19:14:42.521Z",
+  "updatedAt": "2026-09-14T00:47:09.351Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -129,8 +129,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
         "color": "bd1c36",
         "alternateColor": "3e3a35",
-        "record": "0-0",
-        "score": 20,
+        "record": "0-1",
+        "score": 27,
         "winner": false
       },
       "homeTeam": {
@@ -144,19 +144,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
         "color": "fb4f14",
         "alternateColor": "000000",
-        "record": "0-0",
-        "score": 27,
-        "winner": false
+        "record": "1-0",
+        "score": 33,
+        "winner": true
       },
       "venue": "Paycor Stadium",
       "city": "Cincinnati",
       "state": "OH",
       "network": "FOX",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "2:11 - 3rd Quarter",
-        "shortDetail": "2:11 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -180,8 +180,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
         "color": "d3bc8d",
         "alternateColor": "000000",
-        "record": "0-0",
-        "score": 0,
+        "record": "0-1",
+        "score": 30,
         "winner": false
       },
       "homeTeam": {
@@ -195,19 +195,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
         "color": "0076b6",
         "alternateColor": "bbbbbb",
-        "record": "0-0",
-        "score": 21,
-        "winner": false
+        "record": "1-0",
+        "score": 31,
+        "winner": true
       },
       "venue": "Ford Field",
       "city": "Detroit",
       "state": "MI",
       "network": "FOX",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "5:45 - 3rd Quarter",
-        "shortDetail": "5:45 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final/OT",
+        "shortDetail": "Final/OT"
       }
     },
     {
@@ -231,9 +231,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
         "color": "115740",
         "alternateColor": "ffffff",
-        "record": "0-0",
-        "score": 20,
-        "winner": false
+        "record": "1-0",
+        "score": 23,
+        "winner": true
       },
       "homeTeam": {
         "id": "10",
@@ -246,8 +246,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
         "color": "4495d2",
         "alternateColor": "001532",
-        "record": "0-0",
-        "score": 3,
+        "record": "0-1",
+        "score": 10,
         "winner": false
       },
       "venue": "Nissan Stadium",
@@ -255,10 +255,10 @@
       "state": "TN",
       "network": "CBS",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "3:53 - 3rd Quarter",
-        "shortDetail": "3:53 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -282,9 +282,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
         "color": "29126f",
         "alternateColor": "000000",
-        "record": "0-0",
-        "score": 31,
-        "winner": false
+        "record": "1-0",
+        "score": 41,
+        "winner": true
       },
       "homeTeam": {
         "id": "11",
@@ -297,8 +297,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
         "color": "003b75",
         "alternateColor": "ffffff",
-        "record": "0-0",
-        "score": 16,
+        "record": "0-1",
+        "score": 23,
         "winner": false
       },
       "venue": "Lucas Oil Stadium",
@@ -306,10 +306,10 @@
       "state": "IN",
       "network": "CBS",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "7:55 - 3rd Quarter",
-        "shortDetail": "7:55 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -333,8 +333,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
         "color": "a71930",
         "alternateColor": "000000",
-        "record": "0-0",
-        "score": 7,
+        "record": "0-1",
+        "score": 13,
         "winner": false
       },
       "homeTeam": {
@@ -348,19 +348,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
         "color": "000000",
         "alternateColor": "ffb612",
-        "record": "0-0",
-        "score": 13,
-        "winner": false
+        "record": "1-0",
+        "score": 20,
+        "winner": true
       },
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "state": "PA",
       "network": "FOX",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "6:58 - 3rd Quarter",
-        "shortDetail": "6:58 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -384,9 +384,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
         "color": "0b1c3a",
         "alternateColor": "e64100",
-        "record": "0-0",
-        "score": 31,
-        "winner": false
+        "record": "1-0",
+        "score": 59,
+        "winner": true
       },
       "homeTeam": {
         "id": "29",
@@ -399,8 +399,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
         "color": "0085ca",
         "alternateColor": "000000",
-        "record": "0-0",
-        "score": 24,
+        "record": "0-1",
+        "score": 37,
         "winner": false
       },
       "venue": "Bank of America Stadium",
@@ -408,10 +408,10 @@
       "state": "NC",
       "network": "FOX",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "10:30 - 3rd Quarter",
-        "shortDetail": "10:30 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -435,8 +435,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
         "color": "472a08",
         "alternateColor": "ff3c00",
-        "record": "0-0",
-        "score": 3,
+        "record": "0-1",
+        "score": 10,
         "winner": false
       },
       "homeTeam": {
@@ -450,19 +450,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
         "color": "007487",
         "alternateColor": "d7a22a",
-        "record": "0-0",
+        "record": "1-0",
         "score": 34,
-        "winner": false
+        "winner": true
       },
       "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "state": "FL",
       "network": "CBS",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "15:00 - 4th Quarter",
-        "shortDetail": "15:00 - 4th"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -486,9 +486,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
         "color": "00338d",
         "alternateColor": "d50a0a",
-        "record": "0-0",
-        "score": 24,
-        "winner": false
+        "record": "1-0",
+        "score": 36,
+        "winner": true
       },
       "homeTeam": {
         "id": "34",
@@ -501,8 +501,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
         "color": "021018",
         "alternateColor": "eb0028",
-        "record": "0-0",
-        "score": 21,
+        "record": "0-1",
+        "score": 31,
         "winner": false
       },
       "venue": "Reliant Stadium",
@@ -510,10 +510,10 @@
       "state": "TX",
       "network": "CBS",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "5:56 - 3rd Quarter",
-        "shortDetail": "5:56 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -537,8 +537,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
         "color": "008e97",
         "alternateColor": "fc4c02",
-        "record": "0-0",
-        "score": 0,
+        "record": "0-1",
+        "score": 13,
         "winner": false
       },
       "homeTeam": {
@@ -552,19 +552,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
         "color": "000000",
         "alternateColor": "a5acaf",
-        "record": "0-0",
-        "score": 0,
-        "winner": false
+        "record": "1-0",
+        "score": 27,
+        "winner": true
       },
       "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "state": "NV",
       "network": "FOX",
       "status": {
-        "state": "pre",
-        "completed": false,
-        "detail": "Sun, September 13th at 4:25 PM EDT",
-        "shortDetail": "9/13 - 4:25 PM EDT"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -588,8 +588,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
         "color": "204e32",
         "alternateColor": "ffb612",
-        "record": "0-0",
-        "score": 0,
+        "record": "0-1",
+        "score": 22,
         "winner": false
       },
       "homeTeam": {
@@ -603,19 +603,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
         "color": "4f2683",
         "alternateColor": "ffc62f",
-        "record": "0-0",
-        "score": 0,
-        "winner": false
+        "record": "1-0",
+        "score": 39,
+        "winner": true
       },
       "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "state": "MN",
       "network": "CBS",
       "status": {
-        "state": "pre",
-        "completed": false,
-        "detail": "Sun, September 13th at 4:25 PM EDT",
-        "shortDetail": "9/13 - 4:25 PM EDT"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -639,8 +639,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
         "color": "5a1414",
         "alternateColor": "ffb612",
-        "record": "0-0",
-        "score": 0,
+        "record": "0-1",
+        "score": 22,
         "winner": false
       },
       "homeTeam": {
@@ -654,19 +654,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
         "color": "06424d",
         "alternateColor": "000000",
-        "record": "0-0",
-        "score": 0,
-        "winner": false
+        "record": "1-0",
+        "score": 24,
+        "winner": true
       },
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state": "PA",
       "network": "FOX",
       "status": {
-        "state": "pre",
-        "completed": false,
-        "detail": "Sun, September 13th at 4:25 PM EDT",
-        "shortDetail": "9/13 - 4:25 PM EDT"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -690,9 +690,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
         "color": "a40227",
         "alternateColor": "ffffff",
-        "record": "0-0",
-        "score": 0,
-        "winner": false
+        "record": "1-0",
+        "score": 26,
+        "winner": true
       },
       "homeTeam": {
         "id": "24",
@@ -705,8 +705,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
         "color": "0080c6",
         "alternateColor": "ffc20e",
-        "record": "0-0",
-        "score": 0,
+        "record": "0-1",
+        "score": 14,
         "winner": false
       },
       "venue": "SoFi Stadium",
@@ -714,10 +714,10 @@
       "state": "CA",
       "network": "CBS",
       "status": {
-        "state": "pre",
-        "completed": false,
-        "detail": "Sun, September 13th at 4:25 PM EDT",
-        "shortDetail": "9/13 - 4:25 PM EDT"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -757,7 +757,7 @@
         "color": "003c7f",
         "alternateColor": "c9243f",
         "record": "0-0",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "venue": "MetLife Stadium",
@@ -765,10 +765,10 @@
       "state": "NJ",
       "network": "NBC",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 13th at 8:20 PM EDT",
-        "shortDetail": "9/13 - 8:20 PM EDT"
+        "detail": "6:05 - 1st Quarter",
+        "shortDetail": "6:05 - 1st"
       }
     },
     {
