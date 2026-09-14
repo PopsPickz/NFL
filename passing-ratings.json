@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:47:15.875Z",
+  "updatedAt": "2026-09-14T16:43:21.030Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -12,6 +12,39 @@
   },
   "teamCount": 32,
   "teams": [
+    {
+      "teamId": "19",
+      "team": "New York Giants",
+      "abbreviation": "NYG",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 79.3,
+      "tier": "Strong",
+      "stars": 4,
+      "metrics": {
+        "passingYardsPerGame": 229,
+        "quarterbackRating": 134.2,
+        "completionPercentage": 79.3,
+        "passingTouchdownsPerGame": 3,
+        "yardsPerAttempt": 7.93,
+        "sacksAllowedPerGame": 0
+      },
+      "breakdown": {
+        "yardsPerGame": 15.15,
+        "quarterbackRating": 22.27,
+        "completionPercentage": 14.48,
+        "touchdownsPerGame": 11.25,
+        "yardsPerAttempt": 6.12,
+        "protection": 10
+      },
+      "reasons": [
+        "Strong quarterback efficiency",
+        "High completion percentage",
+        "Strong passing touchdown rate"
+      ],
+      "rank": 1
+    },
     {
       "teamId": "30",
       "team": "Jacksonville Jaguars",
@@ -43,7 +76,7 @@
         "High completion percentage",
         "Strong passing touchdown rate"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "teamId": "29",
@@ -75,7 +108,7 @@
         "Top-level passing yard production",
         "Strong passing touchdown rate"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "teamId": "2",
@@ -108,7 +141,7 @@
         "Strong quarterback efficiency",
         "High completion percentage"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "teamId": "18",
@@ -141,7 +174,7 @@
         "High completion percentage",
         "Strong passing touchdown rate"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "teamId": "33",
@@ -174,7 +207,7 @@
         "Strong quarterback efficiency",
         "High completion percentage"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "teamId": "3",
@@ -206,7 +239,7 @@
         "Strong quarterback efficiency",
         "High completion percentage"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "teamId": "25",
@@ -239,7 +272,40 @@
         "Strong passing touchdown rate",
         "Good quarterback protection"
       ],
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "teamId": "21",
+      "team": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 68.1,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 182,
+        "quarterbackRating": 122.2,
+        "completionPercentage": 56,
+        "passingTouchdownsPerGame": 3,
+        "yardsPerAttempt": 8.12,
+        "sacksAllowedPerGame": 1
+      },
+      "breakdown": {
+        "yardsPerGame": 12.04,
+        "quarterbackRating": 20.28,
+        "completionPercentage": 10.23,
+        "touchdownsPerGame": 11.25,
+        "yardsPerAttempt": 6.27,
+        "protection": 8
+      },
+      "reasons": [
+        "Strong quarterback efficiency",
+        "Strong passing touchdown rate",
+        "Good quarterback protection"
+      ],
+      "rank": 9
     },
     {
       "teamId": "34",
@@ -270,7 +336,69 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 8
+      "rank": 10
+    },
+    {
+      "teamId": "9",
+      "team": "Green Bay Packers",
+      "abbreviation": "GB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 65.7,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 353,
+        "quarterbackRating": 88.1,
+        "completionPercentage": 50,
+        "passingTouchdownsPerGame": 2,
+        "yardsPerAttempt": 9.21,
+        "sacksAllowedPerGame": 3
+      },
+      "breakdown": {
+        "yardsPerGame": 23.35,
+        "quarterbackRating": 14.62,
+        "completionPercentage": 9.13,
+        "touchdownsPerGame": 7.5,
+        "yardsPerAttempt": 7.11,
+        "protection": 4
+      },
+      "reasons": [
+        "Top-level passing yard production"
+      ],
+      "rank": 11
+    },
+    {
+      "teamId": "22",
+      "team": "Arizona Cardinals",
+      "abbreviation": "ARI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 62.3,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 277,
+        "quarterbackRating": 103.1,
+        "completionPercentage": 73,
+        "passingTouchdownsPerGame": 1,
+        "yardsPerAttempt": 7.49,
+        "sacksAllowedPerGame": 3
+      },
+      "breakdown": {
+        "yardsPerGame": 18.32,
+        "quarterbackRating": 17.11,
+        "completionPercentage": 13.33,
+        "touchdownsPerGame": 3.75,
+        "yardsPerAttempt": 5.78,
+        "protection": 4
+      },
+      "reasons": [
+        "High completion percentage"
+      ],
+      "rank": 12
     },
     {
       "teamId": "5",
@@ -302,7 +430,7 @@
         "High completion percentage",
         "Good quarterback protection"
       ],
-      "rank": 9
+      "rank": 13
     },
     {
       "teamId": "27",
@@ -334,7 +462,7 @@
         "High completion percentage",
         "Good quarterback protection"
       ],
-      "rank": 10
+      "rank": 14
     },
     {
       "teamId": "26",
@@ -365,7 +493,7 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 11
+      "rank": 15
     },
     {
       "teamId": "20",
@@ -396,7 +524,39 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 12
+      "rank": 16
+    },
+    {
+      "teamId": "24",
+      "team": "Los Angeles Chargers",
+      "abbreviation": "LAC",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 55.5,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 187,
+        "quarterbackRating": 83.7,
+        "completionPercentage": 63,
+        "passingTouchdownsPerGame": 1,
+        "yardsPerAttempt": 7.74,
+        "sacksAllowedPerGame": 1
+      },
+      "breakdown": {
+        "yardsPerGame": 12.37,
+        "quarterbackRating": 13.89,
+        "completionPercentage": 11.5,
+        "touchdownsPerGame": 3.75,
+        "yardsPerAttempt": 5.97,
+        "protection": 8
+      },
+      "reasons": [
+        "High completion percentage",
+        "Good quarterback protection"
+      ],
+      "rank": 17
     },
     {
       "teamId": "4",
@@ -427,7 +587,102 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 13
+      "rank": 18
+    },
+    {
+      "teamId": "16",
+      "team": "Minnesota Vikings",
+      "abbreviation": "MIN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 55.3,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 132,
+        "quarterbackRating": 102.6,
+        "completionPercentage": 62.5,
+        "passingTouchdownsPerGame": 3,
+        "yardsPerAttempt": 6.29,
+        "sacksAllowedPerGame": 4
+      },
+      "breakdown": {
+        "yardsPerGame": 8.73,
+        "quarterbackRating": 17.03,
+        "completionPercentage": 11.41,
+        "touchdownsPerGame": 11.25,
+        "yardsPerAttempt": 4.85,
+        "protection": 2
+      },
+      "reasons": [
+        "High completion percentage",
+        "Strong passing touchdown rate"
+      ],
+      "rank": 19
+    },
+    {
+      "teamId": "6",
+      "team": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 54.9,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 175,
+        "quarterbackRating": 84.8,
+        "completionPercentage": 64.7,
+        "passingTouchdownsPerGame": 2,
+        "yardsPerAttempt": 5.15,
+        "sacksAllowedPerGame": 2
+      },
+      "breakdown": {
+        "yardsPerGame": 11.57,
+        "quarterbackRating": 14.07,
+        "completionPercentage": 11.82,
+        "touchdownsPerGame": 7.5,
+        "yardsPerAttempt": 3.97,
+        "protection": 6
+      },
+      "reasons": [
+        "High completion percentage"
+      ],
+      "rank": 20
+    },
+    {
+      "teamId": "13",
+      "team": "Las Vegas Raiders",
+      "abbreviation": "LV",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 53.4,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 160,
+        "quarterbackRating": 88.2,
+        "completionPercentage": 70,
+        "passingTouchdownsPerGame": 3,
+        "yardsPerAttempt": 5.33,
+        "sacksAllowedPerGame": 5
+      },
+      "breakdown": {
+        "yardsPerGame": 10.58,
+        "quarterbackRating": 14.64,
+        "completionPercentage": 12.78,
+        "touchdownsPerGame": 11.25,
+        "yardsPerAttempt": 4.11,
+        "protection": 0
+      },
+      "reasons": [
+        "High completion percentage",
+        "Strong passing touchdown rate"
+      ],
+      "rank": 21
     },
     {
       "teamId": "8",
@@ -458,7 +713,38 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 14
+      "rank": 22
+    },
+    {
+      "teamId": "28",
+      "team": "Washington Commanders",
+      "abbreviation": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 49.9,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 163,
+        "quarterbackRating": 85.9,
+        "completionPercentage": 52.9,
+        "passingTouchdownsPerGame": 2,
+        "yardsPerAttempt": 4.82,
+        "sacksAllowedPerGame": 3
+      },
+      "breakdown": {
+        "yardsPerGame": 10.78,
+        "quarterbackRating": 14.26,
+        "completionPercentage": 9.67,
+        "touchdownsPerGame": 7.5,
+        "yardsPerAttempt": 3.72,
+        "protection": 4
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 23
     },
     {
       "teamId": "10",
@@ -489,7 +775,38 @@
       "reasons": [
         "Good quarterback protection"
       ],
-      "rank": 15
+      "rank": 24
+    },
+    {
+      "teamId": "15",
+      "team": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 47.9,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 185,
+        "quarterbackRating": 61.5,
+        "completionPercentage": 55.6,
+        "passingTouchdownsPerGame": 0,
+        "yardsPerAttempt": 6.85,
+        "sacksAllowedPerGame": 0
+      },
+      "breakdown": {
+        "yardsPerGame": 12.24,
+        "quarterbackRating": 10.21,
+        "completionPercentage": 10.14,
+        "touchdownsPerGame": 0,
+        "yardsPerAttempt": 5.29,
+        "protection": 10
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 25
     },
     {
       "teamId": "23",
@@ -520,7 +837,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 16
+      "rank": 26
     },
     {
       "teamId": "14",
@@ -551,7 +868,7 @@
       "reasons": [
         "Good quarterback protection"
       ],
-      "rank": 17
+      "rank": 27
     },
     {
       "teamId": "11",
@@ -582,7 +899,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 18
+      "rank": 28
     },
     {
       "teamId": "17",
@@ -613,7 +930,7 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 19
+      "rank": 29
     },
     {
       "teamId": "1",
@@ -643,316 +960,6 @@
       },
       "reasons": [
         "Balanced passing profile"
-      ],
-      "rank": 20
-    },
-    {
-      "teamId": "15",
-      "team": "Miami Dolphins",
-      "abbreviation": "MIA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 21
-    },
-    {
-      "teamId": "13",
-      "team": "Las Vegas Raiders",
-      "abbreviation": "LV",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 22
-    },
-    {
-      "teamId": "9",
-      "team": "Green Bay Packers",
-      "abbreviation": "GB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 23
-    },
-    {
-      "teamId": "16",
-      "team": "Minnesota Vikings",
-      "abbreviation": "MIN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 24
-    },
-    {
-      "teamId": "28",
-      "team": "Washington Commanders",
-      "abbreviation": "WSH",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 25
-    },
-    {
-      "teamId": "21",
-      "team": "Philadelphia Eagles",
-      "abbreviation": "PHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 26
-    },
-    {
-      "teamId": "22",
-      "team": "Arizona Cardinals",
-      "abbreviation": "ARI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 27
-    },
-    {
-      "teamId": "24",
-      "team": "Los Angeles Chargers",
-      "abbreviation": "LAC",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 28
-    },
-    {
-      "teamId": "6",
-      "team": "Dallas Cowboys",
-      "abbreviation": "DAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 29
-    },
-    {
-      "teamId": "19",
-      "team": "New York Giants",
-      "abbreviation": "NYG",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-      "season": 2026,
-      "gamesPlayed": 0,
-      "rating": 10,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "passingTouchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "sacksAllowedPerGame": 0
-      },
-      "breakdown": {
-        "yardsPerGame": 0,
-        "quarterbackRating": 0,
-        "completionPercentage": 0,
-        "touchdownsPerGame": 0,
-        "yardsPerAttempt": 0,
-        "protection": 10
-      },
-      "reasons": [
-        "Good quarterback protection"
       ],
       "rank": 30
     },
