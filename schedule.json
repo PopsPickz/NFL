@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:49:49.278Z",
+  "updatedAt": "2026-09-15T01:12:20.458Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -793,7 +793,7 @@
         "color": "0a2343",
         "alternateColor": "fc4c02",
         "record": "0-0",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "homeTeam": {
@@ -808,7 +808,7 @@
         "color": "e31837",
         "alternateColor": "ffb612",
         "record": "0-0",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "venue": "Arrowhead Stadium",
@@ -816,10 +816,10 @@
       "state": "MO",
       "network": "ESPN, ABC",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, September 14th at 8:15 PM EDT",
-        "shortDetail": "9/14 - 8:15 PM EDT"
+        "detail": "9:21 - 2nd Quarter",
+        "shortDetail": "9:21 - 2nd"
       }
     }
   ]
