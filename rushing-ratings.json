@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T01:12:27.374Z",
+  "updatedAt": "2026-09-15T15:22:08.543Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -425,35 +425,6 @@
       "rank": 14
     },
     {
-      "teamId": "30",
-      "team": "Jacksonville Jaguars",
-      "abbreviation": "JAX",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 43,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "rushingYardsPerGame": 126,
-        "yardsPerCarry": 3.94,
-        "rushingTouchdownsPerGame": 0,
-        "rushingFirstDownsPerGame": 8,
-        "rushingAttemptsPerGame": 32
-      },
-      "breakdown": {
-        "yardsPerGame": 12.99,
-        "yardsPerCarry": 13.19,
-        "touchdownsPerGame": 0,
-        "firstDownsPerGame": 8.57,
-        "rushingVolume": 8.21
-      },
-      "reasons": [
-        "High rushing volume"
-      ],
-      "rank": 15
-    },
-    {
       "teamId": "21",
       "team": "Philadelphia Eagles",
       "abbreviation": "PHI",
@@ -479,6 +450,35 @@
       },
       "reasons": [
         "Balanced rushing profile"
+      ],
+      "rank": 15
+    },
+    {
+      "teamId": "30",
+      "team": "Jacksonville Jaguars",
+      "abbreviation": "JAX",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+      "season": 2026,
+      "gamesPlayed": 1,
+      "rating": 43,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "rushingYardsPerGame": 126,
+        "yardsPerCarry": 3.94,
+        "rushingTouchdownsPerGame": 0,
+        "rushingFirstDownsPerGame": 8,
+        "rushingAttemptsPerGame": 32
+      },
+      "breakdown": {
+        "yardsPerGame": 12.99,
+        "yardsPerCarry": 13.19,
+        "touchdownsPerGame": 0,
+        "firstDownsPerGame": 8.57,
+        "rushingVolume": 8.21
+      },
+      "reasons": [
+        "High rushing volume"
       ],
       "rank": 16
     },
