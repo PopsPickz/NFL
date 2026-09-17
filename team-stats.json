@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T01:06:19.745Z",
+  "updatedAt": "2026-09-17T15:23:29.323Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 32,
@@ -15,20 +15,20 @@
         "points": 31,
         "pointsPerGame": 31,
         "totalYards": 0,
-        "yardsPerGame": 371,
+        "yardsPerGame": 369,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 204,
-        "yardsPerGame": 204,
-        "yardsPerAttempt": 5.282,
-        "completionPercentage": 66.667,
+        "yards": 206,
+        "yardsPerGame": 206,
+        "yardsPerAttempt": 5.3,
+        "completionPercentage": 66.7,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 5,
-        "quarterbackRating": 96.741
+        "quarterbackRating": 96.7
       },
       "rushing": {
         "yards": 165,
@@ -43,7 +43,7 @@
         "yardsPerGame": 206,
         "receptions": 26,
         "touchdowns": 2,
-        "yardsPerReception": 7.923
+        "yardsPerReception": 7.9
       },
       "defense": {
         "pointsAllowed": 0,
@@ -70,25 +70,25 @@
         "points": 36,
         "pointsPerGame": 36,
         "totalYards": 0,
-        "yardsPerGame": 420,
+        "yardsPerGame": 409,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 0
       },
       "passing": {
-        "yards": 323,
-        "yardsPerGame": 323,
-        "yardsPerAttempt": 11.517,
-        "completionPercentage": 68.966,
+        "yards": 334,
+        "yardsPerGame": 334,
+        "yardsPerAttempt": 11.5,
+        "completionPercentage": 69,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 3,
-        "quarterbackRating": 130.533
+        "quarterbackRating": 130.5
       },
       "rushing": {
         "yards": 86,
         "yardsPerGame": 86,
-        "yardsPerCarry": 4.095,
+        "yardsPerCarry": 4.1,
         "touchdowns": 2,
         "attempts": 21,
         "firstDowns": 5
@@ -125,25 +125,25 @@
         "points": 37,
         "pointsPerGame": 37,
         "totalYards": 0,
-        "yardsPerGame": 486,
+        "yardsPerGame": 478,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 3
       },
       "passing": {
-        "yards": 353,
-        "yardsPerGame": 353,
+        "yards": 361,
+        "yardsPerGame": 361,
         "yardsPerAttempt": 9.5,
-        "completionPercentage": 60.526,
+        "completionPercentage": 60.5,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 107.455
+        "quarterbackRating": 107.5
       },
       "rushing": {
         "yards": 125,
         "yardsPerGame": 125,
-        "yardsPerCarry": 5.682,
+        "yardsPerCarry": 5.7,
         "touchdowns": 2,
         "attempts": 22,
         "firstDowns": 5
@@ -153,7 +153,7 @@
         "yardsPerGame": 361,
         "receptions": 23,
         "touchdowns": 3,
-        "yardsPerReception": 15.696
+        "yardsPerReception": 15.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -180,25 +180,25 @@
         "points": 13,
         "pointsPerGame": 13,
         "totalYards": 0,
-        "yardsPerGame": 263,
+        "yardsPerGame": 238,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 118,
-        "yardsPerGame": 118,
+        "yards": 143,
+        "yardsPerGame": 143,
         "yardsPerAttempt": 6.5,
-        "completionPercentage": 54.545,
+        "completionPercentage": 54.5,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 51.892
+        "quarterbackRating": 51.9
       },
       "rushing": {
         "yards": 120,
         "yardsPerGame": 120,
-        "yardsPerCarry": 3.871,
+        "yardsPerCarry": 3.9,
         "touchdowns": 0,
         "attempts": 31,
         "firstDowns": 9
@@ -208,7 +208,7 @@
         "yardsPerGame": 143,
         "receptions": 12,
         "touchdowns": 1,
-        "yardsPerReception": 11.917
+        "yardsPerReception": 11.9
       },
       "defense": {
         "pointsAllowed": 0,
@@ -235,25 +235,25 @@
         "points": 39,
         "pointsPerGame": 39,
         "totalYards": 0,
-        "yardsPerGame": 258,
+        "yardsPerGame": 239,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 132,
-        "yardsPerGame": 132,
-        "yardsPerAttempt": 6.292,
+        "yards": 151,
+        "yardsPerGame": 151,
+        "yardsPerAttempt": 6.3,
         "completionPercentage": 62.5,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 4,
-        "quarterbackRating": 102.604
+        "quarterbackRating": 102.6
       },
       "rushing": {
         "yards": 107,
         "yardsPerGame": 107,
-        "yardsPerCarry": 3.147,
+        "yardsPerCarry": 3.1,
         "touchdowns": 2,
         "attempts": 34,
         "firstDowns": 6
@@ -263,7 +263,7 @@
         "yardsPerGame": 151,
         "receptions": 15,
         "touchdowns": 3,
-        "yardsPerReception": 10.067
+        "yardsPerReception": 10.1
       },
       "defense": {
         "pointsAllowed": 0,
@@ -290,25 +290,25 @@
         "points": 59,
         "pointsPerGame": 59,
         "totalYards": 0,
-        "yardsPerGame": 560,
+        "yardsPerGame": 552,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 261,
-        "yardsPerGame": 261,
-        "yardsPerAttempt": 9.276,
-        "completionPercentage": 72.414,
+        "yards": 269,
+        "yardsPerGame": 269,
+        "yardsPerAttempt": 9.3,
+        "completionPercentage": 72.4,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 124.068
+        "quarterbackRating": 124.1
       },
       "rushing": {
         "yards": 291,
         "yardsPerGame": 291,
-        "yardsPerCarry": 7.462,
+        "yardsPerCarry": 7.5,
         "touchdowns": 6,
         "attempts": 39,
         "firstDowns": 11
@@ -318,7 +318,7 @@
         "yardsPerGame": 269,
         "receptions": 21,
         "touchdowns": 2,
-        "yardsPerReception": 12.81
+        "yardsPerReception": 12.8
       },
       "defense": {
         "pointsAllowed": 0,
@@ -345,25 +345,25 @@
         "points": 24,
         "pointsPerGame": 24,
         "totalYards": 0,
-        "yardsPerGame": 339,
+        "yardsPerGame": 318,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 0
       },
       "passing": {
-        "yards": 182,
-        "yardsPerGame": 182,
-        "yardsPerAttempt": 8.12,
+        "yards": 203,
+        "yardsPerGame": 203,
+        "yardsPerAttempt": 8.1,
         "completionPercentage": 56,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 1,
-        "quarterbackRating": 122.167
+        "quarterbackRating": 122.2
       },
       "rushing": {
         "yards": 136,
         "yardsPerGame": 136,
-        "yardsPerCarry": 5.44,
+        "yardsPerCarry": 5.4,
         "touchdowns": 0,
         "attempts": 25,
         "firstDowns": 4
@@ -400,25 +400,25 @@
         "points": 10,
         "pointsPerGame": 10,
         "totalYards": 0,
-        "yardsPerGame": 208,
+        "yardsPerGame": 195,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 127,
-        "yardsPerGame": 127,
-        "yardsPerAttempt": 4.375,
-        "completionPercentage": 59.375,
+        "yards": 140,
+        "yardsPerGame": 140,
+        "yardsPerAttempt": 4.4,
+        "completionPercentage": 59.4,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 0,
-        "quarterbackRating": 80.208
+        "quarterbackRating": 80.2
       },
       "rushing": {
         "yards": 68,
         "yardsPerGame": 68,
-        "yardsPerCarry": 4.857,
+        "yardsPerCarry": 4.9,
         "touchdowns": 0,
         "attempts": 14,
         "firstDowns": 4
@@ -428,7 +428,7 @@
         "yardsPerGame": 140,
         "receptions": 19,
         "touchdowns": 1,
-        "yardsPerReception": 7.368
+        "yardsPerReception": 7.4
       },
       "defense": {
         "pointsAllowed": 0,
@@ -455,25 +455,25 @@
         "points": 20,
         "pointsPerGame": 20,
         "totalYards": 0,
-        "yardsPerGame": 279,
+        "yardsPerGame": 264,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 206,
-        "yardsPerGame": 206,
-        "yardsPerAttempt": 5.39,
-        "completionPercentage": 58.537,
+        "yards": 221,
+        "yardsPerGame": 221,
+        "yardsPerAttempt": 5.4,
+        "completionPercentage": 58.5,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 4,
-        "quarterbackRating": 81.453
+        "quarterbackRating": 81.5
       },
       "rushing": {
         "yards": 58,
         "yardsPerGame": 58,
-        "yardsPerCarry": 2.762,
+        "yardsPerCarry": 2.8,
         "touchdowns": 0,
         "attempts": 21,
         "firstDowns": 3
@@ -483,7 +483,7 @@
         "yardsPerGame": 221,
         "receptions": 24,
         "touchdowns": 1,
-        "yardsPerReception": 9.208
+        "yardsPerReception": 9.2
       },
       "defense": {
         "pointsAllowed": 0,
@@ -510,25 +510,25 @@
         "points": 10,
         "pointsPerGame": 10,
         "totalYards": 0,
-        "yardsPerGame": 287,
+        "yardsPerGame": 277,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 3
       },
       "passing": {
-        "yards": 168,
-        "yardsPerGame": 168,
-        "yardsPerAttempt": 5.394,
-        "completionPercentage": 69.697,
+        "yards": 178,
+        "yardsPerGame": 178,
+        "yardsPerAttempt": 5.4,
+        "completionPercentage": 69.7,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 54.86
+        "quarterbackRating": 54.9
       },
       "rushing": {
         "yards": 109,
         "yardsPerGame": 109,
-        "yardsPerCarry": 3.516,
+        "yardsPerCarry": 3.5,
         "touchdowns": 0,
         "attempts": 31,
         "firstDowns": 7
@@ -538,7 +538,7 @@
         "yardsPerGame": 178,
         "receptions": 23,
         "touchdowns": 1,
-        "yardsPerReception": 7.739
+        "yardsPerReception": 7.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -565,25 +565,25 @@
         "points": 22,
         "pointsPerGame": 22,
         "totalYards": 0,
-        "yardsPerGame": 453,
+        "yardsPerGame": 419,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 353,
-        "yardsPerGame": 353,
-        "yardsPerAttempt": 9.214,
+        "yards": 387,
+        "yardsPerGame": 387,
+        "yardsPerAttempt": 9.2,
         "completionPercentage": 50,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 3,
-        "quarterbackRating": 88.094
+        "quarterbackRating": 88.1
       },
       "rushing": {
         "yards": 66,
         "yardsPerGame": 66,
-        "yardsPerCarry": 3.143,
+        "yardsPerCarry": 3.1,
         "touchdowns": 0,
         "attempts": 21,
         "firstDowns": 3
@@ -593,7 +593,7 @@
         "yardsPerGame": 387,
         "receptions": 21,
         "touchdowns": 2,
-        "yardsPerReception": 18.429
+        "yardsPerReception": 18.4
       },
       "defense": {
         "pointsAllowed": 0,
@@ -628,17 +628,17 @@
       "passing": {
         "yards": 215,
         "yardsPerGame": 215,
-        "yardsPerAttempt": 8.958,
-        "completionPercentage": 79.167,
+        "yardsPerAttempt": 9,
+        "completionPercentage": 79.2,
         "touchdowns": 0,
         "interceptions": 0,
         "sacksAllowed": 3,
-        "quarterbackRating": 103.992
+        "quarterbackRating": 104
       },
       "rushing": {
         "yards": 152,
         "yardsPerGame": 152,
-        "yardsPerCarry": 3.897,
+        "yardsPerCarry": 3.9,
         "touchdowns": 2,
         "attempts": 39,
         "firstDowns": 11
@@ -648,7 +648,7 @@
         "yardsPerGame": 215,
         "receptions": 19,
         "touchdowns": 0,
-        "yardsPerReception": 11.316
+        "yardsPerReception": 11.3
       },
       "defense": {
         "pointsAllowed": 0,
@@ -675,25 +675,25 @@
         "points": 10,
         "pointsPerGame": 10,
         "totalYards": 0,
-        "yardsPerGame": 292,
+        "yardsPerGame": 272,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 185,
-        "yardsPerGame": 185,
-        "yardsPerAttempt": 9.318,
-        "completionPercentage": 72.727,
+        "yards": 205,
+        "yardsPerGame": 205,
+        "yardsPerAttempt": 9.3,
+        "completionPercentage": 72.7,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 1,
-        "quarterbackRating": 97.727
+        "quarterbackRating": 97.7
       },
       "rushing": {
         "yards": 87,
         "yardsPerGame": 87,
-        "yardsPerCarry": 3.955,
+        "yardsPerCarry": 4,
         "touchdowns": 0,
         "attempts": 22,
         "firstDowns": 5
@@ -703,7 +703,7 @@
         "yardsPerGame": 205,
         "receptions": 16,
         "touchdowns": 1,
-        "yardsPerReception": 12.813
+        "yardsPerReception": 12.8
       },
       "defense": {
         "pointsAllowed": 0,
@@ -730,25 +730,25 @@
         "points": 27,
         "pointsPerGame": 27,
         "totalYards": 0,
-        "yardsPerGame": 305,
+        "yardsPerGame": 282,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 4
       },
       "passing": {
-        "yards": 193,
-        "yardsPerGame": 193,
-        "yardsPerAttempt": 7.714,
-        "completionPercentage": 82.143,
+        "yards": 216,
+        "yardsPerGame": 216,
+        "yardsPerAttempt": 7.7,
+        "completionPercentage": 82.1,
         "touchdowns": 0,
         "interceptions": 0,
         "sacksAllowed": 1,
-        "quarterbackRating": 98.808
+        "quarterbackRating": 98.8
       },
       "rushing": {
         "yards": 89,
         "yardsPerGame": 89,
-        "yardsPerCarry": 4.45,
+        "yardsPerCarry": 4.5,
         "touchdowns": 2,
         "attempts": 20,
         "firstDowns": 5
@@ -758,7 +758,7 @@
         "yardsPerGame": 216,
         "receptions": 23,
         "touchdowns": 0,
-        "yardsPerReception": 9.391
+        "yardsPerReception": 9.4
       },
       "defense": {
         "pointsAllowed": 0,
@@ -785,25 +785,25 @@
         "points": 30,
         "pointsPerGame": 30,
         "totalYards": 0,
-        "yardsPerGame": 501,
+        "yardsPerGame": 469,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 3
       },
       "passing": {
-        "yards": 378,
-        "yardsPerGame": 378,
-        "yardsPerAttempt": 7.321,
+        "yards": 410,
+        "yardsPerGame": 410,
+        "yardsPerAttempt": 7.3,
         "completionPercentage": 62.5,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 1,
-        "quarterbackRating": 87.648
+        "quarterbackRating": 87.6
       },
       "rushing": {
         "yards": 91,
         "yardsPerGame": 91,
-        "yardsPerCarry": 3.64,
+        "yardsPerCarry": 3.6,
         "touchdowns": 1,
         "attempts": 25,
         "firstDowns": 7
@@ -813,7 +813,7 @@
         "yardsPerGame": 410,
         "receptions": 35,
         "touchdowns": 3,
-        "yardsPerReception": 11.714
+        "yardsPerReception": 11.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -840,25 +840,25 @@
         "points": 41,
         "pointsPerGame": 41,
         "totalYards": 0,
-        "yardsPerGame": 526,
+        "yardsPerGame": 506,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 304,
-        "yardsPerGame": 304,
-        "yardsPerAttempt": 12.96,
+        "yards": 324,
+        "yardsPerGame": 324,
+        "yardsPerAttempt": 13,
         "completionPercentage": 68,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 124.167
+        "quarterbackRating": 124.2
       },
       "rushing": {
         "yards": 202,
         "yardsPerGame": 202,
-        "yardsPerCarry": 5.459,
+        "yardsPerCarry": 5.5,
         "touchdowns": 4,
         "attempts": 37,
         "firstDowns": 12
@@ -868,7 +868,7 @@
         "yardsPerGame": 324,
         "receptions": 17,
         "touchdowns": 1,
-        "yardsPerReception": 19.059
+        "yardsPerReception": 19.1
       },
       "defense": {
         "pointsAllowed": 0,
@@ -895,25 +895,25 @@
         "points": 33,
         "pointsPerGame": 33,
         "totalYards": 0,
-        "yardsPerGame": 360,
+        "yardsPerGame": 351,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 245,
-        "yardsPerGame": 245,
-        "yardsPerAttempt": 7.257,
-        "completionPercentage": 71.429,
+        "yards": 254,
+        "yardsPerGame": 254,
+        "yardsPerAttempt": 7.3,
+        "completionPercentage": 71.4,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 4,
-        "quarterbackRating": 89.464
+        "quarterbackRating": 89.5
       },
       "rushing": {
         "yards": 106,
         "yardsPerGame": 106,
-        "yardsPerCarry": 3.926,
+        "yardsPerCarry": 3.9,
         "touchdowns": 1,
         "attempts": 27,
         "firstDowns": 10
@@ -923,7 +923,7 @@
         "yardsPerGame": 254,
         "receptions": 25,
         "touchdowns": 1,
-        "yardsPerReception": 10.16
+        "yardsPerReception": 10.2
       },
       "defense": {
         "pointsAllowed": 0,
@@ -950,25 +950,25 @@
         "points": 31,
         "pointsPerGame": 31,
         "totalYards": 0,
-        "yardsPerGame": 398,
+        "yardsPerGame": 381,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 257,
-        "yardsPerGame": 257,
-        "yardsPerAttempt": 7.211,
-        "completionPercentage": 68.421,
+        "yards": 274,
+        "yardsPerGame": 274,
+        "yardsPerAttempt": 7.2,
+        "completionPercentage": 68.4,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 106.69
+        "quarterbackRating": 106.7
       },
       "rushing": {
         "yards": 124,
         "yardsPerGame": 124,
-        "yardsPerCarry": 3.875,
+        "yardsPerCarry": 3.9,
         "touchdowns": 2,
         "attempts": 32,
         "firstDowns": 10
@@ -978,7 +978,7 @@
         "yardsPerGame": 274,
         "receptions": 26,
         "touchdowns": 2,
-        "yardsPerReception": 10.538
+        "yardsPerReception": 10.5
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1005,25 +1005,25 @@
         "points": 34,
         "pointsPerGame": 34,
         "totalYards": 0,
-        "yardsPerGame": 371,
+        "yardsPerGame": 360,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 0
       },
       "passing": {
-        "yards": 234,
-        "yardsPerGame": 234,
-        "yardsPerAttempt": 10.652,
-        "completionPercentage": 78.261,
+        "yards": 245,
+        "yardsPerGame": 245,
+        "yardsPerAttempt": 10.7,
+        "completionPercentage": 78.3,
         "touchdowns": 4,
         "interceptions": 0,
         "sacksAllowed": 5,
-        "quarterbackRating": 150.633
+        "quarterbackRating": 150.6
       },
       "rushing": {
         "yards": 126,
         "yardsPerGame": 126,
-        "yardsPerCarry": 3.938,
+        "yardsPerCarry": 3.9,
         "touchdowns": 0,
         "attempts": 32,
         "firstDowns": 8
@@ -1033,7 +1033,7 @@
         "yardsPerGame": 245,
         "receptions": 18,
         "touchdowns": 4,
-        "yardsPerReception": 13.611
+        "yardsPerReception": 13.6
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1060,25 +1060,25 @@
         "points": 10,
         "pointsPerGame": 10,
         "totalYards": 0,
-        "yardsPerGame": 192,
+        "yardsPerGame": 176,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 115,
-        "yardsPerGame": 115,
-        "yardsPerAttempt": 4.679,
-        "completionPercentage": 60.714,
+        "yards": 131,
+        "yardsPerGame": 131,
+        "yardsPerAttempt": 4.7,
+        "completionPercentage": 60.7,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 69.198
+        "quarterbackRating": 69.2
       },
       "rushing": {
         "yards": 61,
         "yardsPerGame": 61,
-        "yardsPerCarry": 4.067,
+        "yardsPerCarry": 4.1,
         "touchdowns": 0,
         "attempts": 15,
         "firstDowns": 2
@@ -1088,7 +1088,7 @@
         "yardsPerGame": 131,
         "receptions": 17,
         "touchdowns": 1,
-        "yardsPerReception": 7.706
+        "yardsPerReception": 7.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1123,17 +1123,17 @@
       "passing": {
         "yards": 160,
         "yardsPerGame": 160,
-        "yardsPerAttempt": 5.333,
+        "yardsPerAttempt": 5.3,
         "completionPercentage": 70,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 5,
-        "quarterbackRating": 88.192
+        "quarterbackRating": 88.2
       },
       "rushing": {
         "yards": 130,
         "yardsPerGame": 130,
-        "yardsPerCarry": 3.514,
+        "yardsPerCarry": 3.5,
         "touchdowns": 0,
         "attempts": 37,
         "firstDowns": 9
@@ -1143,7 +1143,7 @@
         "yardsPerGame": 160,
         "receptions": 21,
         "touchdowns": 3,
-        "yardsPerReception": 7.619
+        "yardsPerReception": 7.6
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1170,25 +1170,25 @@
         "points": 14,
         "pointsPerGame": 14,
         "totalYards": 0,
-        "yardsPerGame": 290,
+        "yardsPerGame": 268,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 187,
-        "yardsPerGame": 187,
-        "yardsPerAttempt": 7.741,
-        "completionPercentage": 62.963,
+        "yards": 209,
+        "yardsPerGame": 209,
+        "yardsPerAttempt": 7.7,
+        "completionPercentage": 63,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 1,
-        "quarterbackRating": 83.72
+        "quarterbackRating": 83.7
       },
       "rushing": {
         "yards": 81,
         "yardsPerGame": 81,
-        "yardsPerCarry": 3.857,
+        "yardsPerCarry": 3.9,
         "touchdowns": 1,
         "attempts": 21,
         "firstDowns": 6
@@ -1198,7 +1198,7 @@
         "yardsPerGame": 209,
         "receptions": 17,
         "touchdowns": 1,
-        "yardsPerReception": 12.294
+        "yardsPerReception": 12.3
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1225,25 +1225,25 @@
         "points": 22,
         "pointsPerGame": 22,
         "totalYards": 0,
-        "yardsPerGame": 296,
+        "yardsPerGame": 295,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 0
       },
       "passing": {
-        "yards": 163,
-        "yardsPerGame": 163,
-        "yardsPerAttempt": 4.824,
-        "completionPercentage": 52.941,
+        "yards": 164,
+        "yardsPerGame": 164,
+        "yardsPerAttempt": 4.8,
+        "completionPercentage": 52.9,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 3,
-        "quarterbackRating": 85.908
+        "quarterbackRating": 85.9
       },
       "rushing": {
         "yards": 132,
         "yardsPerGame": 132,
-        "yardsPerCarry": 4.125,
+        "yardsPerCarry": 4.1,
         "touchdowns": 1,
         "attempts": 32,
         "firstDowns": 9
@@ -1253,7 +1253,7 @@
         "yardsPerGame": 164,
         "receptions": 18,
         "touchdowns": 2,
-        "yardsPerReception": 9.111
+        "yardsPerReception": 9.1
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1288,17 +1288,17 @@
       "passing": {
         "yards": 175,
         "yardsPerGame": 175,
-        "yardsPerAttempt": 5.147,
-        "completionPercentage": 64.706,
+        "yardsPerAttempt": 5.1,
+        "completionPercentage": 64.7,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 84.803
+        "quarterbackRating": 84.8
       },
       "rushing": {
         "yards": 69,
         "yardsPerGame": 69,
-        "yardsPerCarry": 3.833,
+        "yardsPerCarry": 3.8,
         "touchdowns": 1,
         "attempts": 18,
         "firstDowns": 4
@@ -1308,7 +1308,7 @@
         "yardsPerGame": 175,
         "receptions": 22,
         "touchdowns": 2,
-        "yardsPerReception": 7.955
+        "yardsPerReception": 8
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1335,25 +1335,25 @@
         "points": 13,
         "pointsPerGame": 13,
         "totalYards": 0,
-        "yardsPerGame": 297,
+        "yardsPerGame": 285,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 0
       },
       "passing": {
-        "yards": 188,
-        "yardsPerGame": 188,
-        "yardsPerAttempt": 8.333,
-        "completionPercentage": 70.833,
+        "yards": 200,
+        "yardsPerGame": 200,
+        "yardsPerAttempt": 8.3,
+        "completionPercentage": 70.8,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 3,
-        "quarterbackRating": 109.722
+        "quarterbackRating": 109.7
       },
       "rushing": {
         "yards": 97,
         "yardsPerGame": 97,
-        "yardsPerCarry": 4.409,
+        "yardsPerCarry": 4.4,
         "touchdowns": 0,
         "attempts": 22,
         "firstDowns": 4
@@ -1363,7 +1363,7 @@
         "yardsPerGame": 200,
         "receptions": 17,
         "touchdowns": 1,
-        "yardsPerReception": 11.765
+        "yardsPerReception": 11.8
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1398,17 +1398,17 @@
       "passing": {
         "yards": 277,
         "yardsPerGame": 277,
-        "yardsPerAttempt": 7.486,
-        "completionPercentage": 72.973,
+        "yardsPerAttempt": 7.5,
+        "completionPercentage": 73,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 3,
-        "quarterbackRating": 103.096
+        "quarterbackRating": 103.1
       },
       "rushing": {
         "yards": 116,
         "yardsPerGame": 116,
-        "yardsPerCarry": 3.412,
+        "yardsPerCarry": 3.4,
         "touchdowns": 1,
         "attempts": 34,
         "firstDowns": 7
@@ -1418,7 +1418,7 @@
         "yardsPerGame": 277,
         "receptions": 27,
         "touchdowns": 1,
-        "yardsPerReception": 10.259
+        "yardsPerReception": 10.3
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1451,19 +1451,19 @@
         "turnovers": 2
       },
       "passing": {
-        "yards": 185,
-        "yardsPerGame": 185,
-        "yardsPerAttempt": 6.852,
-        "completionPercentage": 55.556,
+        "yards": 220,
+        "yardsPerGame": 220,
+        "yardsPerAttempt": 8.1,
+        "completionPercentage": 55.6,
         "touchdowns": 0,
         "interceptions": 0,
         "sacksAllowed": 0,
-        "quarterbackRating": 61.497
+        "quarterbackRating": 66.9
       },
       "rushing": {
         "yards": 74,
         "yardsPerGame": 74,
-        "yardsPerCarry": 4.111,
+        "yardsPerCarry": 4.1,
         "touchdowns": 1,
         "attempts": 18,
         "firstDowns": 4
@@ -1473,7 +1473,7 @@
         "yardsPerGame": 220,
         "receptions": 15,
         "touchdowns": 0,
-        "yardsPerReception": 12.333
+        "yardsPerReception": 14.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1508,12 +1508,12 @@
       "passing": {
         "yards": 205,
         "yardsPerGame": 205,
-        "yardsPerAttempt": 6.029,
-        "completionPercentage": 73.529,
+        "yardsPerAttempt": 6,
+        "completionPercentage": 73.5,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 0,
-        "quarterbackRating": 105.638
+        "quarterbackRating": 105.6
       },
       "rushing": {
         "yards": 174,
@@ -1555,20 +1555,20 @@
         "points": 23,
         "pointsPerGame": 23,
         "totalYards": 0,
-        "yardsPerGame": 268,
+        "yardsPerGame": 251,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 2
       },
       "passing": {
-        "yards": 149,
-        "yardsPerGame": 149,
-        "yardsPerAttempt": 5.355,
-        "completionPercentage": 61.29,
+        "yards": 166,
+        "yardsPerGame": 166,
+        "yardsPerAttempt": 5.4,
+        "completionPercentage": 61.3,
         "touchdowns": 1,
         "interceptions": 0,
         "sacksAllowed": 2,
-        "quarterbackRating": 72.783
+        "quarterbackRating": 72.8
       },
       "rushing": {
         "yards": 102,
@@ -1583,7 +1583,7 @@
         "yardsPerGame": 166,
         "receptions": 19,
         "touchdowns": 1,
-        "yardsPerReception": 8.737
+        "yardsPerReception": 8.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1616,19 +1616,19 @@
         "turnovers": 1
       },
       "passing": {
-        "yards": 172,
-        "yardsPerGame": 172,
-        "yardsPerAttempt": 6.37,
-        "completionPercentage": 55.556,
+        "yards": 184,
+        "yardsPerGame": 184,
+        "yardsPerAttempt": 6.8,
+        "completionPercentage": 55.6,
         "touchdowns": 2,
         "interceptions": 0,
         "sacksAllowed": 4,
-        "quarterbackRating": 84.178
+        "quarterbackRating": 86
       },
       "rushing": {
         "yards": 220,
         "yardsPerGame": 220,
-        "yardsPerCarry": 5.789,
+        "yardsPerCarry": 5.8,
         "touchdowns": 2,
         "attempts": 38,
         "firstDowns": 11
@@ -1638,7 +1638,7 @@
         "yardsPerGame": 184,
         "receptions": 15,
         "touchdowns": 2,
-        "yardsPerReception": 11.467
+        "yardsPerReception": 12.3
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1665,25 +1665,25 @@
         "points": 28,
         "pointsPerGame": 28,
         "totalYards": 0,
-        "yardsPerGame": 395,
+        "yardsPerGame": 394,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 1
       },
       "passing": {
-        "yards": 229,
-        "yardsPerGame": 229,
-        "yardsPerAttempt": 7.931,
-        "completionPercentage": 79.31,
+        "yards": 230,
+        "yardsPerGame": 230,
+        "yardsPerAttempt": 7.9,
+        "completionPercentage": 79.3,
         "touchdowns": 3,
         "interceptions": 0,
         "sacksAllowed": 0,
-        "quarterbackRating": 134.196
+        "quarterbackRating": 134.2
       },
       "rushing": {
         "yards": 165,
         "yardsPerGame": 165,
-        "yardsPerCarry": 4.459,
+        "yardsPerCarry": 4.5,
         "touchdowns": 1,
         "attempts": 37,
         "firstDowns": 11
@@ -1729,16 +1729,16 @@
         "yards": 168,
         "yardsPerGame": 168,
         "yardsPerAttempt": 6,
-        "completionPercentage": 60.714,
+        "completionPercentage": 60.7,
         "touchdowns": 0,
         "interceptions": 0,
         "sacksAllowed": 0,
-        "quarterbackRating": 62.799
+        "quarterbackRating": 62.8
       },
       "rushing": {
         "yards": 122,
         "yardsPerGame": 122,
-        "yardsPerCarry": 4.207,
+        "yardsPerCarry": 4.2,
         "touchdowns": 1,
         "attempts": 29,
         "firstDowns": 7
@@ -1748,7 +1748,7 @@
         "yardsPerGame": 168,
         "receptions": 17,
         "touchdowns": 0,
-        "yardsPerReception": 9.882
+        "yardsPerReception": 9.9
       },
       "defense": {
         "pointsAllowed": 0,
