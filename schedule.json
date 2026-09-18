@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:05:45.779Z",
+  "updatedAt": "2026-09-18T01:04:20.789Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -43,7 +43,7 @@
         "color": "00338d",
         "alternateColor": "d50a0a",
         "record": "1-0",
-        "score": 0,
+        "score": 21,
         "winner": false
       },
       "venue": "Highmark Stadium",
@@ -51,10 +51,10 @@
       "state": "NY",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, September 17th at 8:15 PM EDT",
-        "shortDetail": "9/17 - 8:15 PM EDT"
+        "detail": "11:48 - 2nd Quarter",
+        "shortDetail": "11:48 - 2nd"
       }
     },
     {
