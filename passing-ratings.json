@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:04:27.321Z",
+  "updatedAt": "2026-09-18T14:43:21.447Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -79,39 +79,6 @@
       "rank": 2
     },
     {
-      "teamId": "2",
-      "team": "Buffalo Bills",
-      "abbreviation": "BUF",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 68.3,
-      "tier": "Above Average",
-      "stars": 3,
-      "metrics": {
-        "passingYardsPerGame": 323,
-        "quarterbackRating": 130.5,
-        "completionPercentage": 69,
-        "passingTouchdownsPerGame": 2,
-        "yardsPerAttempt": 11.5,
-        "sacksAllowedPerGame": 3
-      },
-      "breakdown": {
-        "yardsPerGame": 19.77,
-        "quarterbackRating": 19.91,
-        "completionPercentage": 8.88,
-        "touchdownsPerGame": 7.5,
-        "yardsPerAttempt": 8.26,
-        "protection": 4
-      },
-      "reasons": [
-        "Top-level passing yard production",
-        "Strong quarterback efficiency",
-        "Creates explosive passing plays"
-      ],
-      "rank": 3
-    },
-    {
       "teamId": "29",
       "team": "Carolina Panthers",
       "abbreviation": "CAR",
@@ -141,7 +108,7 @@
         "Top-level passing yard production",
         "Strong passing touchdown rate"
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "teamId": "33",
@@ -172,7 +139,7 @@
       "reasons": [
         "Creates explosive passing plays"
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "teamId": "18",
@@ -205,7 +172,7 @@
         "Strong passing touchdown rate",
         "Good quarterback protection"
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "teamId": "3",
@@ -232,6 +199,37 @@
         "touchdownsPerGame": 7.5,
         "yardsPerAttempt": 5.7,
         "protection": 6
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 6
+    },
+    {
+      "teamId": "2",
+      "team": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 61,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 283,
+        "quarterbackRating": 125.8,
+        "completionPercentage": 66.7,
+        "passingTouchdownsPerGame": 2.5,
+        "yardsPerAttempt": 9.7,
+        "sacksAllowedPerGame": 3.5
+      },
+      "breakdown": {
+        "yardsPerGame": 15.97,
+        "quarterbackRating": 18.72,
+        "completionPercentage": 7.8,
+        "touchdownsPerGame": 9.38,
+        "yardsPerAttempt": 6.16,
+        "protection": 3
       },
       "reasons": [
         "Balanced passing profile"
@@ -271,6 +269,37 @@
       "rank": 8
     },
     {
+      "teamId": "8",
+      "team": "Detroit Lions",
+      "abbreviation": "DET",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 53.4,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 246.5,
+        "quarterbackRating": 113.2,
+        "completionPercentage": 67.5,
+        "passingTouchdownsPerGame": 3,
+        "yardsPerAttempt": 6.9,
+        "sacksAllowedPerGame": 3.5
+      },
+      "breakdown": {
+        "yardsPerGame": 12.5,
+        "quarterbackRating": 15.53,
+        "completionPercentage": 8.18,
+        "touchdownsPerGame": 11.25,
+        "yardsPerAttempt": 2.91,
+        "protection": 3
+      },
+      "reasons": [
+        "Strong passing touchdown rate"
+      ],
+      "rank": 9
+    },
+    {
       "teamId": "34",
       "team": "Houston Texans",
       "abbreviation": "HOU",
@@ -299,7 +328,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "teamId": "21",
@@ -331,7 +360,7 @@
         "Strong passing touchdown rate",
         "Good quarterback protection"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "teamId": "22",
@@ -362,7 +391,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "teamId": "9",
@@ -393,7 +422,7 @@
       "reasons": [
         "Top-level passing yard production"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "teamId": "5",
@@ -424,7 +453,7 @@
       "reasons": [
         "Good quarterback protection"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "teamId": "27",
@@ -456,7 +485,7 @@
         "High completion percentage",
         "Good quarterback protection"
       ],
-      "rank": 14
+      "rank": 15
     },
     {
       "teamId": "20",
@@ -487,7 +516,7 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 15
+      "rank": 16
     },
     {
       "teamId": "26",
@@ -518,7 +547,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 16
+      "rank": 17
     },
     {
       "teamId": "4",
@@ -549,7 +578,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 17
+      "rank": 18
     },
     {
       "teamId": "24",
@@ -579,37 +608,6 @@
       },
       "reasons": [
         "Good quarterback protection"
-      ],
-      "rank": 18
-    },
-    {
-      "teamId": "8",
-      "team": "Detroit Lions",
-      "abbreviation": "DET",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 36.2,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 204,
-        "quarterbackRating": 96.7,
-        "completionPercentage": 66.7,
-        "passingTouchdownsPerGame": 2,
-        "yardsPerAttempt": 5.3,
-        "sacksAllowedPerGame": 5
-      },
-      "breakdown": {
-        "yardsPerGame": 8.46,
-        "quarterbackRating": 11.35,
-        "completionPercentage": 7.8,
-        "touchdownsPerGame": 7.5,
-        "yardsPerAttempt": 1.05,
-        "protection": 0
-      },
-      "reasons": [
-        "Balanced passing profile"
       ],
       "rank": 19
     },

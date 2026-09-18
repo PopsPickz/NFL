@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:04:27.403Z",
+  "updatedAt": "2026-09-18T14:43:21.532Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -104,35 +104,6 @@
       "rank": 3
     },
     {
-      "teamId": "2",
-      "team": "Buffalo Bills",
-      "abbreviation": "BUF",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 63,
-      "tier": "Above Average",
-      "stars": 3,
-      "metrics": {
-        "receivingYardsPerGame": 334,
-        "yardsPerReception": 16.7,
-        "receivingTouchdownsPerGame": 2,
-        "receptionsPerGame": 20,
-        "efficiencyBalance": 33.4
-      },
-      "breakdown": {
-        "yardsPerGame": 21.83,
-        "yardsPerReception": 19.87,
-        "touchdownsPerGame": 10,
-        "receptionsPerGame": 5.22,
-        "efficiencyBalance": 6.07
-      },
-      "reasons": [
-        "Strong big-play receiving efficiency"
-      ],
-      "rank": 4
-    },
-    {
       "teamId": "30",
       "team": "Jacksonville Jaguars",
       "abbreviation": "JAX",
@@ -160,7 +131,7 @@
         "Strong receiving touchdown rate",
         "Balanced production and efficiency"
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "teamId": "33",
@@ -189,7 +160,65 @@
       "reasons": [
         "Strong big-play receiving efficiency"
       ],
+      "rank": 5
+    },
+    {
+      "teamId": "2",
+      "team": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 57,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "receivingYardsPerGame": 291,
+        "yardsPerReception": 14.6,
+        "receivingTouchdownsPerGame": 2.5,
+        "receptionsPerGame": 20,
+        "efficiencyBalance": 36.5
+      },
+      "breakdown": {
+        "yardsPerGame": 17.2,
+        "yardsPerReception": 15.38,
+        "touchdownsPerGame": 12.5,
+        "receptionsPerGame": 5.22,
+        "efficiencyBalance": 6.65
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
       "rank": 6
+    },
+    {
+      "teamId": "8",
+      "team": "Detroit Lions",
+      "abbreviation": "DET",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 50.5,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "receivingYardsPerGame": 266.5,
+        "yardsPerReception": 10.3,
+        "receivingTouchdownsPerGame": 3,
+        "receptionsPerGame": 26,
+        "efficiencyBalance": 30.9
+      },
+      "breakdown": {
+        "yardsPerGame": 14.57,
+        "yardsPerReception": 6.2,
+        "touchdownsPerGame": 15,
+        "receptionsPerGame": 9.13,
+        "efficiencyBalance": 5.6
+      },
+      "reasons": [
+        "Strong receiving touchdown rate"
+      ],
+      "rank": 7
     },
     {
       "teamId": "21",
@@ -219,7 +248,7 @@
         "Strong receiving touchdown rate",
         "Balanced production and efficiency"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "teamId": "3",
@@ -248,7 +277,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "teamId": "34",
@@ -277,7 +306,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "teamId": "19",
@@ -306,7 +335,7 @@
       "reasons": [
         "Strong receiving touchdown rate"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "teamId": "22",
@@ -335,7 +364,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "teamId": "25",
@@ -364,7 +393,7 @@
       "reasons": [
         "Strong receiving touchdown rate"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "teamId": "4",
@@ -393,7 +422,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "teamId": "12",
@@ -418,35 +447,6 @@
         "touchdownsPerGame": 10,
         "receptionsPerGame": 1.96,
         "efficiencyBalance": 4.43
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 14
-    },
-    {
-      "teamId": "8",
-      "team": "Detroit Lions",
-      "abbreviation": "DET",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 31,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "receivingYardsPerGame": 206,
-        "yardsPerReception": 7.9,
-        "receivingTouchdownsPerGame": 2,
-        "receptionsPerGame": 26,
-        "efficiencyBalance": 15.8
-      },
-      "breakdown": {
-        "yardsPerGame": 8.06,
-        "yardsPerReception": 1.07,
-        "touchdownsPerGame": 10,
-        "receptionsPerGame": 9.13,
-        "efficiencyBalance": 2.78
       },
       "reasons": [
         "Balanced receiving profile"
