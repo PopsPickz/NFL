@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:23:49.717Z",
+  "updatedAt": "2026-09-20T19:18:40.931Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "0085ca",
         "alternateColor": "000000",
         "record": "0-1",
-        "score": 0,
+        "score": 27,
         "winner": false
       },
       "homeTeam": {
@@ -94,7 +94,7 @@
         "color": "a71930",
         "alternateColor": "000000",
         "record": "0-1",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Mercedes-Benz Stadium",
@@ -102,10 +102,10 @@
       "state": "GA",
       "network": "FOX",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "5:10 - 3rd Quarter",
+        "shortDetail": "5:10 - 3rd"
       }
     },
     {
@@ -130,7 +130,7 @@
         "color": "4f2683",
         "alternateColor": "ffc62f",
         "record": "1-0",
-        "score": 0,
+        "score": 6,
         "winner": false
       },
       "homeTeam": {
@@ -145,7 +145,7 @@
         "color": "0b1c3a",
         "alternateColor": "e64100",
         "record": "1-0",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Soldier Field",
@@ -153,10 +153,10 @@
       "state": "IL",
       "network": "FOX",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "14:49 - 4th Quarter",
+        "shortDetail": "14:49 - 4th"
       }
     },
     {
@@ -181,7 +181,7 @@
         "color": "06424d",
         "alternateColor": "000000",
         "record": "1-0",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "homeTeam": {
@@ -196,7 +196,7 @@
         "color": "4495d2",
         "alternateColor": "001532",
         "record": "0-1",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "venue": "Nissan Stadium",
@@ -204,10 +204,10 @@
       "state": "TN",
       "network": "FOX",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "12:36 - 4th Quarter",
+        "shortDetail": "12:36 - 4th"
       }
     },
     {
@@ -232,7 +232,7 @@
         "color": "000000",
         "alternateColor": "ffb612",
         "record": "1-0",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "homeTeam": {
@@ -247,7 +247,7 @@
         "color": "002a5c",
         "alternateColor": "c60c30",
         "record": "0-1",
-        "score": 0,
+        "score": 13,
         "winner": false
       },
       "venue": "Gillette Stadium",
@@ -255,10 +255,10 @@
       "state": "MA",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "End of 3rd Quarter",
+        "shortDetail": "End of 3rd"
       }
     },
     {
@@ -283,7 +283,7 @@
         "color": "204e32",
         "alternateColor": "ffb612",
         "record": "0-1",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "homeTeam": {
@@ -298,7 +298,7 @@
         "color": "115740",
         "alternateColor": "ffffff",
         "record": "1-0",
-        "score": 0,
+        "score": 14,
         "winner": false
       },
       "venue": "MetLife Stadium",
@@ -306,10 +306,10 @@
       "state": "NJ",
       "network": "FOX",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "2:30 - 3rd Quarter",
+        "shortDetail": "2:30 - 3rd"
       }
     },
     {
@@ -334,7 +334,7 @@
         "color": "472a08",
         "alternateColor": "ff3c00",
         "record": "0-1",
-        "score": 0,
+        "score": 16,
         "winner": false
       },
       "homeTeam": {
@@ -349,7 +349,7 @@
         "color": "bd1c36",
         "alternateColor": "3e3a35",
         "record": "0-1",
-        "score": 0,
+        "score": 16,
         "winner": false
       },
       "venue": "Raymond James Stadium",
@@ -357,10 +357,10 @@
       "state": "FL",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "1:23 - 3rd Quarter",
+        "shortDetail": "1:23 - 3rd"
       }
     },
     {
@@ -385,7 +385,7 @@
         "color": "d3bc8d",
         "alternateColor": "000000",
         "record": "0-1",
-        "score": 0,
+        "score": 15,
         "winner": false
       },
       "homeTeam": {
@@ -400,7 +400,7 @@
         "color": "29126f",
         "alternateColor": "000000",
         "record": "1-0",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "venue": "M&T Bank Stadium",
@@ -408,10 +408,10 @@
       "state": "MD",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "9:42 - 4th Quarter",
+        "shortDetail": "9:42 - 4th"
       }
     },
     {
@@ -436,7 +436,7 @@
         "color": "fb4f14",
         "alternateColor": "000000",
         "record": "1-0",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "homeTeam": {
@@ -451,7 +451,7 @@
         "color": "021018",
         "alternateColor": "eb0028",
         "record": "0-1",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Reliant Stadium",
@@ -459,10 +459,10 @@
       "state": "TX",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, September 20th at 1:00 PM EDT",
-        "shortDetail": "9/20 - 1:00 PM EDT"
+        "detail": "3:03 - 3rd Quarter",
+        "shortDetail": "3:03 - 3rd"
       }
     },
     {
