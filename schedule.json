@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T00:52:31.936Z",
+  "updatedAt": "2026-09-21T16:43:19.191Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -741,8 +741,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
         "color": "003b75",
         "alternateColor": "ffffff",
-        "record": "0-1",
-        "score": 7,
+        "record": "0-2",
+        "score": 30,
         "winner": false
       },
       "homeTeam": {
@@ -756,19 +756,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
         "color": "e31837",
         "alternateColor": "ffb612",
-        "record": "1-0",
-        "score": 10,
-        "winner": false
+        "record": "2-0",
+        "score": 33,
+        "winner": true
       },
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "state": "MO",
       "network": "NBC",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "3:12 - 1st Quarter",
-        "shortDetail": "3:12 - 1st"
+        "state": "post",
+        "completed": true,
+        "detail": "Final/OT",
+        "shortDetail": "Final/OT"
       }
     },
     {
