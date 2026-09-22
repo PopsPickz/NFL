@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T20:55:07.049Z",
+  "updatedAt": "2026-09-22T01:27:47.238Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -808,7 +808,7 @@
         "color": "003594",
         "alternateColor": "ffd100",
         "record": "0-1",
-        "score": 0,
+        "score": 14,
         "winner": false
       },
       "venue": "SoFi Stadium",
@@ -816,10 +816,10 @@
       "state": "CA",
       "network": "ESPN, ABC",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, September 21st at 8:15 PM EDT",
-        "shortDetail": "9/21 - 8:15 PM EDT"
+        "detail": "0:31 - 2nd Quarter",
+        "shortDetail": "0:31 - 2nd"
       }
     }
   ]
