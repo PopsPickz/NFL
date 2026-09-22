@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T01:27:54.582Z",
+  "updatedAt": "2026-09-22T15:19:14.484Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -49,7 +49,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 79.3,
+      "rating": 78.5,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
@@ -62,9 +62,9 @@
       "breakdown": {
         "yardsPerGame": 23.58,
         "yardsPerReception": 24.6,
-        "touchdownsPerGame": 16.67,
+        "touchdownsPerGame": 16,
         "receptionsPerGame": 5.83,
-        "efficiencyBalance": 8.6
+        "efficiencyBalance": 8.47
       },
       "reasons": [
         "High receiving yard production",
@@ -80,7 +80,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 72.1,
+      "rating": 70.4,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
@@ -93,9 +93,9 @@
       "breakdown": {
         "yardsPerGame": 30,
         "yardsPerReception": 8.87,
-        "touchdownsPerGame": 13.33,
+        "touchdownsPerGame": 12,
         "receptionsPerGame": 15,
-        "efficiencyBalance": 4.94
+        "efficiencyBalance": 4.49
       },
       "reasons": [
         "High receiving yard production",
@@ -110,7 +110,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 68.9,
+      "rating": 67.9,
       "tier": "Above Average",
       "stars": 3,
       "metrics": {
@@ -123,9 +123,9 @@
       "breakdown": {
         "yardsPerGame": 22.3,
         "yardsPerReception": 14.11,
-        "touchdownsPerGame": 16.67,
+        "touchdownsPerGame": 16,
         "receptionsPerGame": 8.75,
-        "efficiencyBalance": 7.02
+        "efficiencyBalance": 6.76
       },
       "reasons": [
         "Strong receiving touchdown rate"
@@ -139,7 +139,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 68,
+      "rating": 66.4,
       "tier": "Above Average",
       "stars": 3,
       "metrics": {
@@ -152,9 +152,9 @@
       "breakdown": {
         "yardsPerGame": 19.57,
         "yardsPerReception": 23.79,
-        "touchdownsPerGame": 13.33,
+        "touchdownsPerGame": 12,
         "receptionsPerGame": 4.58,
-        "efficiencyBalance": 6.73
+        "efficiencyBalance": 6.44
       },
       "reasons": [
         "Strong big-play receiving efficiency"
@@ -168,7 +168,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 65,
+      "rating": 64.7,
       "tier": "Above Average",
       "stars": 3,
       "metrics": {
@@ -183,7 +183,7 @@
         "yardsPerReception": 7.26,
         "touchdownsPerGame": 20,
         "receptionsPerGame": 10.83,
-        "efficiencyBalance": 7.24
+        "efficiencyBalance": 7
       },
       "reasons": [
         "Strong receiving touchdown rate"
@@ -197,8 +197,8 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 61.7,
-      "tier": "Above Average",
+      "rating": 58.5,
+      "tier": "Average",
       "stars": 3,
       "metrics": {
         "receivingYardsPerGame": 279.5,
@@ -210,14 +210,43 @@
       "breakdown": {
         "yardsPerGame": 21.74,
         "yardsPerReception": 25,
-        "touchdownsPerGame": 6.67,
+        "touchdownsPerGame": 4,
         "receptionsPerGame": 5,
-        "efficiencyBalance": 3.32
+        "efficiencyBalance": 2.73
       },
       "reasons": [
         "Strong big-play receiving efficiency"
       ],
       "rank": 7
+    },
+    {
+      "teamId": "14",
+      "team": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 56.5,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "receivingYardsPerGame": 247.5,
+        "yardsPerReception": 12.7,
+        "receivingTouchdownsPerGame": 2,
+        "receptionsPerGame": 19.5,
+        "efficiencyBalance": 25.4
+      },
+      "breakdown": {
+        "yardsPerGame": 16.6,
+        "yardsPerReception": 16.94,
+        "touchdownsPerGame": 12,
+        "receptionsPerGame": 5.42,
+        "efficiencyBalance": 5.55
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 8
     },
     {
       "teamId": "34",
@@ -226,7 +255,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 59.7,
+      "rating": 56.4,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -239,15 +268,15 @@
       "breakdown": {
         "yardsPerGame": 27.19,
         "yardsPerReception": 10.89,
-        "touchdownsPerGame": 6.67,
+        "touchdownsPerGame": 4,
         "receptionsPerGame": 12.5,
-        "efficiencyBalance": 2.47
+        "efficiencyBalance": 1.81
       },
       "reasons": [
         "High receiving yard production",
         "High-volume receiving attack"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "teamId": "25",
@@ -256,7 +285,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 57,
+      "rating": 56,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -269,14 +298,14 @@
       "breakdown": {
         "yardsPerGame": 16.36,
         "yardsPerReception": 9.68,
-        "touchdownsPerGame": 16.67,
+        "touchdownsPerGame": 16,
         "receptionsPerGame": 7.92,
-        "efficiencyBalance": 6.36
+        "efficiencyBalance": 6.03
       },
       "reasons": [
         "Strong receiving touchdown rate"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "teamId": "21",
@@ -285,7 +314,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 56.6,
+      "rating": 55.7,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -298,38 +327,9 @@
       "breakdown": {
         "yardsPerGame": 14.36,
         "yardsPerReception": 12.9,
-        "touchdownsPerGame": 16.67,
+        "touchdownsPerGame": 16,
         "receptionsPerGame": 5.83,
-        "efficiencyBalance": 6.84
-      },
-      "reasons": [
-        "Strong receiving touchdown rate"
-      ],
-      "rank": 10
-    },
-    {
-      "teamId": "19",
-      "team": "New York Giants",
-      "abbreviation": "NYG",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 55.2,
-      "tier": "Average",
-      "stars": 3,
-      "metrics": {
-        "receivingYardsPerGame": 230,
-        "yardsPerReception": 10,
-        "receivingTouchdownsPerGame": 3,
-        "receptionsPerGame": 23,
-        "efficiencyBalance": 30
-      },
-      "breakdown": {
-        "yardsPerGame": 13.8,
-        "yardsPerReception": 6.05,
-        "touchdownsPerGame": 20,
-        "receptionsPerGame": 8.33,
-        "efficiencyBalance": 7.02
+        "efficiencyBalance": 6.56
       },
       "reasons": [
         "Strong receiving touchdown rate"
@@ -343,7 +343,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 53.2,
+      "rating": 52.9,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -358,7 +358,7 @@
         "yardsPerReception": 4.03,
         "touchdownsPerGame": 20,
         "receptionsPerGame": 9.17,
-        "efficiencyBalance": 6.66
+        "efficiencyBalance": 6.36
       },
       "reasons": [
         "Strong receiving touchdown rate"
@@ -372,7 +372,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 50.4,
+      "rating": 50.1,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -387,7 +387,7 @@
         "yardsPerReception": 7.26,
         "touchdownsPerGame": 20,
         "receptionsPerGame": 5.83,
-        "efficiencyBalance": 7.24
+        "efficiencyBalance": 7
       },
       "reasons": [
         "Strong receiving touchdown rate"
@@ -401,9 +401,9 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 50.3,
-      "tier": "Average",
-      "stars": 3,
+      "rating": 48.6,
+      "tier": "Below Average",
+      "stars": 2,
       "metrics": {
         "receivingYardsPerGame": 217,
         "yardsPerReception": 12.4,
@@ -414,9 +414,9 @@
       "breakdown": {
         "yardsPerGame": 11.71,
         "yardsPerReception": 15.73,
-        "touchdownsPerGame": 13.33,
+        "touchdownsPerGame": 12,
         "receptionsPerGame": 3.75,
-        "efficiencyBalance": 5.76
+        "efficiencyBalance": 5.39
       },
       "reasons": [
         "Balanced receiving profile"
@@ -430,7 +430,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 49.4,
+      "rating": 47.7,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -443,9 +443,9 @@
       "breakdown": {
         "yardsPerGame": 11.79,
         "yardsPerReception": 14.52,
-        "touchdownsPerGame": 13.33,
+        "touchdownsPerGame": 12,
         "receptionsPerGame": 4.17,
-        "efficiencyBalance": 5.62
+        "efficiencyBalance": 5.23
       },
       "reasons": [
         "Balanced receiving profile"
@@ -459,7 +459,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 42.5,
+      "rating": 40,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -472,9 +472,9 @@
       "breakdown": {
         "yardsPerGame": 12.43,
         "yardsPerReception": 10.48,
-        "touchdownsPerGame": 10,
+        "touchdownsPerGame": 8,
         "receptionsPerGame": 5.83,
-        "efficiencyBalance": 3.79
+        "efficiencyBalance": 3.24
       },
       "reasons": [
         "Balanced receiving profile"
@@ -488,9 +488,9 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 42.1,
-      "tier": "Below Average",
-      "stars": 2,
+      "rating": 39.5,
+      "tier": "Weak",
+      "stars": 1,
       "metrics": {
         "receivingYardsPerGame": 230.5,
         "yardsPerReception": 10.2,
@@ -501,9 +501,9 @@
       "breakdown": {
         "yardsPerGame": 13.88,
         "yardsPerReception": 6.85,
-        "touchdownsPerGame": 10,
+        "touchdownsPerGame": 8,
         "receptionsPerGame": 7.92,
-        "efficiencyBalance": 3.46
+        "efficiencyBalance": 2.89
       },
       "reasons": [
         "Balanced receiving profile"
@@ -517,9 +517,9 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 40.2,
-      "tier": "Below Average",
-      "stars": 2,
+      "rating": 36.8,
+      "tier": "Weak",
+      "stars": 1,
       "metrics": {
         "receivingYardsPerGame": 230.5,
         "yardsPerReception": 11.2,
@@ -530,9 +530,9 @@
       "breakdown": {
         "yardsPerGame": 13.88,
         "yardsPerReception": 10.89,
-        "touchdownsPerGame": 6.67,
+        "touchdownsPerGame": 4,
         "receptionsPerGame": 6.25,
-        "efficiencyBalance": 2.47
+        "efficiencyBalance": 1.81
       },
       "reasons": [
         "Balanced receiving profile"
@@ -546,9 +546,9 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 40.2,
-      "tier": "Below Average",
-      "stars": 2,
+      "rating": 36.1,
+      "tier": "Weak",
+      "stars": 1,
       "metrics": {
         "receivingYardsPerGame": 208.5,
         "yardsPerReception": 14.4,
@@ -559,9 +559,9 @@
       "breakdown": {
         "yardsPerGame": 10.35,
         "yardsPerReception": 23.79,
-        "touchdownsPerGame": 3.33,
+        "touchdownsPerGame": 0,
         "receptionsPerGame": 1.25,
-        "efficiencyBalance": 1.5
+        "efficiencyBalance": 0.75
       },
       "reasons": [
         "Strong big-play receiving efficiency"
@@ -575,7 +575,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 37.2,
+      "rating": 33.8,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -588,72 +588,14 @@
       "breakdown": {
         "yardsPerGame": 9.06,
         "yardsPerReception": 16.13,
-        "touchdownsPerGame": 6.67,
+        "touchdownsPerGame": 4,
         "receptionsPerGame": 2.5,
-        "efficiencyBalance": 2.79
+        "efficiencyBalance": 2.15
       },
       "reasons": [
         "Balanced receiving profile"
       ],
       "rank": 20
-    },
-    {
-      "teamId": "7",
-      "team": "Denver Broncos",
-      "abbreviation": "DEN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-      "season": 2026,
-      "gamesPlayed": 2,
-      "rating": 33.8,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "receivingYardsPerGame": 209.5,
-        "yardsPerReception": 10.7,
-        "receivingTouchdownsPerGame": 1,
-        "receptionsPerGame": 19.5,
-        "efficiencyBalance": 10.7
-      },
-      "breakdown": {
-        "yardsPerGame": 10.51,
-        "yardsPerReception": 8.87,
-        "touchdownsPerGame": 6.67,
-        "receptionsPerGame": 5.42,
-        "efficiencyBalance": 2.35
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 21
-    },
-    {
-      "teamId": "20",
-      "team": "New York Jets",
-      "abbreviation": "NYJ",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
-      "season": 2026,
-      "gamesPlayed": 2,
-      "rating": 32.6,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "receivingYardsPerGame": 231,
-        "yardsPerReception": 10,
-        "receivingTouchdownsPerGame": 0.5,
-        "receptionsPerGame": 23,
-        "efficiencyBalance": 5
-      },
-      "breakdown": {
-        "yardsPerGame": 13.96,
-        "yardsPerReception": 6.05,
-        "touchdownsPerGame": 3.33,
-        "receptionsPerGame": 8.33,
-        "efficiencyBalance": 0.97
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 22
     },
     {
       "teamId": "28",
@@ -662,7 +604,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 32.4,
+      "rating": 30.5,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -675,14 +617,101 @@
       "breakdown": {
         "yardsPerGame": 6.66,
         "yardsPerReception": 2.02,
-        "touchdownsPerGame": 13.33,
+        "touchdownsPerGame": 12,
         "receptionsPerGame": 6.25,
-        "efficiencyBalance": 4.12
+        "efficiencyBalance": 3.6
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 21
+    },
+    {
+      "teamId": "7",
+      "team": "Denver Broncos",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 30.5,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "receivingYardsPerGame": 209.5,
+        "yardsPerReception": 10.7,
+        "receivingTouchdownsPerGame": 1,
+        "receptionsPerGame": 19.5,
+        "efficiencyBalance": 10.7
+      },
+      "breakdown": {
+        "yardsPerGame": 10.51,
+        "yardsPerReception": 8.87,
+        "touchdownsPerGame": 4,
+        "receptionsPerGame": 5.42,
+        "efficiencyBalance": 1.67
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 22
+    },
+    {
+      "teamId": "20",
+      "team": "New York Jets",
+      "abbreviation": "NYJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 28.5,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "receivingYardsPerGame": 231,
+        "yardsPerReception": 10,
+        "receivingTouchdownsPerGame": 0.5,
+        "receptionsPerGame": 23,
+        "efficiencyBalance": 5
+      },
+      "breakdown": {
+        "yardsPerGame": 13.96,
+        "yardsPerReception": 6.05,
+        "touchdownsPerGame": 0,
+        "receptionsPerGame": 8.33,
+        "efficiencyBalance": 0.17
       },
       "reasons": [
         "Balanced receiving profile"
       ],
       "rank": 23
+    },
+    {
+      "teamId": "19",
+      "team": "New York Giants",
+      "abbreviation": "NYG",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 26.4,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "receivingYardsPerGame": 180.5,
+        "yardsPerReception": 9.8,
+        "receivingTouchdownsPerGame": 1.5,
+        "receptionsPerGame": 18.5,
+        "efficiencyBalance": 14.7
+      },
+      "breakdown": {
+        "yardsPerGame": 5.86,
+        "yardsPerReception": 5.24,
+        "touchdownsPerGame": 8,
+        "receptionsPerGame": 4.58,
+        "efficiencyBalance": 2.73
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 24
     },
     {
       "teamId": "16",
@@ -691,7 +720,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 25.6,
+      "rating": 23.1,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -704,14 +733,14 @@
       "breakdown": {
         "yardsPerGame": 0.48,
         "yardsPerReception": 11.29,
-        "touchdownsPerGame": 10,
+        "touchdownsPerGame": 8,
         "receptionsPerGame": 0,
-        "efficiencyBalance": 3.86
+        "efficiencyBalance": 3.32
       },
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 24
+      "rank": 25
     },
     {
       "teamId": "11",
@@ -720,7 +749,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 24.8,
+      "rating": 21.4,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -733,14 +762,14 @@
       "breakdown": {
         "yardsPerGame": 7.06,
         "yardsPerReception": 2.82,
-        "touchdownsPerGame": 6.67,
+        "touchdownsPerGame": 4,
         "receptionsPerGame": 6.25,
-        "efficiencyBalance": 1.99
+        "efficiencyBalance": 1.28
       },
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 25
+      "rank": 26
     },
     {
       "teamId": "17",
@@ -749,7 +778,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 24.5,
+      "rating": 20.3,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -762,38 +791,9 @@
       "breakdown": {
         "yardsPerGame": 7.86,
         "yardsPerReception": 7.66,
-        "touchdownsPerGame": 3.33,
+        "touchdownsPerGame": 0,
         "receptionsPerGame": 4.58,
-        "efficiencyBalance": 1.02
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 26
-    },
-    {
-      "teamId": "23",
-      "team": "Pittsburgh Steelers",
-      "abbreviation": "PIT",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-      "season": 2026,
-      "gamesPlayed": 2,
-      "rating": 23.3,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "receivingYardsPerGame": 204,
-        "yardsPerReception": 8.7,
-        "receivingTouchdownsPerGame": 0.5,
-        "receptionsPerGame": 23.5,
-        "efficiencyBalance": 4.35
-      },
-      "breakdown": {
-        "yardsPerGame": 9.63,
-        "yardsPerReception": 0.81,
-        "touchdownsPerGame": 3.33,
-        "receptionsPerGame": 8.75,
-        "efficiencyBalance": 0.81
+        "efficiencyBalance": 0.22
       },
       "reasons": [
         "Balanced receiving profile"
@@ -807,7 +807,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 22.7,
+      "rating": 19.3,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -820,14 +820,43 @@
       "breakdown": {
         "yardsPerGame": 6.74,
         "yardsPerReception": 0,
-        "touchdownsPerGame": 6.67,
+        "touchdownsPerGame": 4,
         "receptionsPerGame": 7.5,
-        "efficiencyBalance": 1.82
+        "efficiencyBalance": 1.09
       },
       "reasons": [
         "Balanced receiving profile"
       ],
       "rank": 28
+    },
+    {
+      "teamId": "23",
+      "team": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "season": 2026,
+      "gamesPlayed": 2,
+      "rating": 19.2,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "receivingYardsPerGame": 204,
+        "yardsPerReception": 8.7,
+        "receivingTouchdownsPerGame": 0.5,
+        "receptionsPerGame": 23.5,
+        "efficiencyBalance": 4.35
+      },
+      "breakdown": {
+        "yardsPerGame": 9.63,
+        "yardsPerReception": 0.81,
+        "touchdownsPerGame": 0,
+        "receptionsPerGame": 8.75,
+        "efficiencyBalance": 0
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 29
     },
     {
       "teamId": "27",
@@ -836,7 +865,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 22.5,
+      "rating": 18.4,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -849,14 +878,14 @@
       "breakdown": {
         "yardsPerGame": 8.82,
         "yardsPerReception": 2.02,
-        "touchdownsPerGame": 3.33,
+        "touchdownsPerGame": 0,
         "receptionsPerGame": 7.5,
-        "efficiencyBalance": 0.85
+        "efficiencyBalance": 0.04
       },
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 29
+      "rank": 30
     },
     {
       "teamId": "10",
@@ -865,7 +894,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 16.1,
+      "rating": 11.9,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -878,38 +907,9 @@
       "breakdown": {
         "yardsPerGame": 2.81,
         "yardsPerReception": 6.45,
-        "touchdownsPerGame": 3.33,
-        "receptionsPerGame": 2.5,
-        "efficiencyBalance": 0.98
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 30
-    },
-    {
-      "teamId": "14",
-      "team": "Los Angeles Rams",
-      "abbreviation": "LAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-      "season": 2026,
-      "gamesPlayed": 1,
-      "rating": 12.8,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "receivingYardsPerGame": 168,
-        "yardsPerReception": 9.9,
-        "receivingTouchdownsPerGame": 0,
-        "receptionsPerGame": 17,
-        "efficiencyBalance": 0.99
-      },
-      "breakdown": {
-        "yardsPerGame": 3.85,
-        "yardsPerReception": 5.65,
         "touchdownsPerGame": 0,
-        "receptionsPerGame": 3.33,
-        "efficiencyBalance": 0
+        "receptionsPerGame": 2.5,
+        "efficiencyBalance": 0.18
       },
       "reasons": [
         "Balanced receiving profile"
@@ -923,7 +923,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
       "season": 2026,
       "gamesPlayed": 2,
-      "rating": 10.4,
+      "rating": 6.2,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -936,9 +936,9 @@
       "breakdown": {
         "yardsPerGame": 0,
         "yardsPerReception": 4.44,
-        "touchdownsPerGame": 3.33,
+        "touchdownsPerGame": 0,
         "receptionsPerGame": 1.67,
-        "efficiencyBalance": 0.92
+        "efficiencyBalance": 0.12
       },
       "reasons": [
         "Balanced receiving profile"
