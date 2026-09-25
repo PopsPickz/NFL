@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:19:07.955Z",
+  "updatedAt": "2026-09-25T01:10:32.408Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "a71930",
         "alternateColor": "000000",
         "record": "0-2",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "204e32",
         "alternateColor": "ffb612",
         "record": "1-1",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "venue": "Lambeau Field",
@@ -51,10 +51,10 @@
       "state": "WI",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, September 24th at 8:15 PM EDT",
-        "shortDetail": "9/24 - 8:15 PM EDT"
+        "detail": "10:34 - 2nd Quarter",
+        "shortDetail": "10:34 - 2nd"
       }
     },
     {
