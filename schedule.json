@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T01:25:53.114Z",
+  "updatedAt": "2026-09-28T18:20:09.842Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -741,8 +741,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
         "color": "003594",
         "alternateColor": "ffd100",
-        "record": "1-1",
-        "score": 10,
+        "record": "1-2",
+        "score": 26,
         "winner": false
       },
       "homeTeam": {
@@ -756,19 +756,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
         "color": "0a2343",
         "alternateColor": "fc4c02",
-        "record": "1-1",
-        "score": 0,
-        "winner": false
+        "record": "2-1",
+        "score": 30,
+        "winner": true
       },
       "venue": "Empower Field at Mile High",
       "city": "Denver",
       "state": "CO",
       "network": "NBC",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "7:41 - 2nd Quarter",
-        "shortDetail": "7:41 - 2nd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
