@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T22:27:43.058Z",
+  "updatedAt": "2026-09-29T02:29:39.905Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -793,7 +793,7 @@
         "color": "06424d",
         "alternateColor": "000000",
         "record": "2-0",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "homeTeam": {
@@ -808,7 +808,7 @@
         "color": "0b1c3a",
         "alternateColor": "e64100",
         "record": "1-1",
-        "score": 0,
+        "score": 20,
         "winner": false
       },
       "venue": "Soldier Field",
@@ -816,10 +816,10 @@
       "state": "IL",
       "network": "ESPN, ABC",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, September 28th at 8:15 PM EDT",
-        "shortDetail": "9/28 - 8:15 PM EDT"
+        "detail": "2:51 - 3rd Quarter",
+        "shortDetail": "2:51 - 3rd"
       }
     }
   ]
