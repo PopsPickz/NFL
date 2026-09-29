@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T02:29:46.953Z",
+  "updatedAt": "2026-09-29T16:42:40.449Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -282,35 +282,6 @@
       "rank": 9
     },
     {
-      "teamId": "21",
-      "team": "Philadelphia Eagles",
-      "abbreviation": "PHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-      "season": 2026,
-      "gamesPlayed": 2,
-      "rating": 59.2,
-      "tier": "Average",
-      "stars": 3,
-      "metrics": {
-        "receivingYardsPerGame": 233.5,
-        "yardsPerReception": 11.7,
-        "receivingTouchdownsPerGame": 2.5,
-        "receptionsPerGame": 20,
-        "efficiencyBalance": 29.25
-      },
-      "breakdown": {
-        "yardsPerGame": 15,
-        "yardsPerReception": 15.16,
-        "touchdownsPerGame": 16.25,
-        "receptionsPerGame": 5.7,
-        "efficiencyBalance": 7.11
-      },
-      "reasons": [
-        "Strong receiving touchdown rate"
-      ],
-      "rank": 10
-    },
-    {
       "teamId": "33",
       "team": "Baltimore Ravens",
       "abbreviation": "BAL",
@@ -337,7 +308,7 @@
       "reasons": [
         "Strong big-play receiving efficiency"
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "teamId": "13",
@@ -367,7 +338,7 @@
         "Strong receiving touchdown rate",
         "Balanced production and efficiency"
       ],
-      "rank": 12
+      "rank": 11
     },
     {
       "teamId": "6",
@@ -396,7 +367,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 13
+      "rank": 12
     },
     {
       "teamId": "4",
@@ -425,7 +396,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "teamId": "20",
@@ -454,7 +425,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 15
+      "rank": 14
     },
     {
       "teamId": "34",
@@ -483,7 +454,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 16
+      "rank": 15
     },
     {
       "teamId": "30",
@@ -508,6 +479,35 @@
         "touchdownsPerGame": 15,
         "receptionsPerGame": 3.9,
         "efficiencyBalance": 6.36
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 16
+    },
+    {
+      "teamId": "3",
+      "team": "Chicago Bears",
+      "abbreviation": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "season": 2026,
+      "gamesPlayed": 3,
+      "rating": 45.1,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "receivingYardsPerGame": 236,
+        "yardsPerReception": 10.9,
+        "receivingTouchdownsPerGame": 1.33,
+        "receptionsPerGame": 21.67,
+        "efficiencyBalance": 14.53
+      },
+      "breakdown": {
+        "yardsPerGame": 15.47,
+        "yardsPerReception": 11.89,
+        "touchdownsPerGame": 7.5,
+        "receptionsPerGame": 7.2,
+        "efficiencyBalance": 2.99
       },
       "reasons": [
         "Balanced receiving profile"
@@ -544,28 +544,28 @@
       "rank": 18
     },
     {
-      "teamId": "3",
-      "team": "Chicago Bears",
-      "abbreviation": "CHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "teamId": "21",
+      "team": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
       "season": 2026,
-      "gamesPlayed": 2,
-      "rating": 40.8,
+      "gamesPlayed": 3,
+      "rating": 41.2,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
-        "receivingYardsPerGame": 230.5,
-        "yardsPerReception": 11.2,
-        "receivingTouchdownsPerGame": 1,
-        "receptionsPerGame": 20.5,
-        "efficiencyBalance": 11.2
+        "receivingYardsPerGame": 206.7,
+        "yardsPerReception": 11.1,
+        "receivingTouchdownsPerGame": 1.67,
+        "receptionsPerGame": 18.67,
+        "efficiencyBalance": 18.5
       },
       "breakdown": {
-        "yardsPerGame": 14.43,
-        "yardsPerReception": 13.11,
-        "touchdownsPerGame": 5,
-        "receptionsPerGame": 6.15,
-        "efficiencyBalance": 2.06
+        "yardsPerGame": 9.94,
+        "yardsPerReception": 12.7,
+        "touchdownsPerGame": 10,
+        "receptionsPerGame": 4.5,
+        "efficiencyBalance": 4.1
       },
       "reasons": [
         "Balanced receiving profile"
