@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:42:20.426Z",
+  "updatedAt": "2026-10-02T02:01:57.435Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "000000",
         "alternateColor": "ffb612",
         "record": "2-1",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "472a08",
         "alternateColor": "ff3c00",
         "record": "2-1",
-        "score": 0,
+        "score": 21,
         "winner": false
       },
       "venue": "Huntington Bank Field",
@@ -51,10 +51,10 @@
       "state": "OH",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, October 1st at 8:15 PM EDT",
-        "shortDetail": "10/1 - 8:15 PM EDT"
+        "detail": "Halftime",
+        "shortDetail": "Halftime"
       }
     },
     {
