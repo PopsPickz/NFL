@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:02:05.188Z",
+  "updatedAt": "2026-10-02T16:26:44.339Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -491,28 +491,28 @@
       "abbreviation": "CLE",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
       "season": 2026,
-      "gamesPlayed": 3,
-      "rating": 48.5,
+      "gamesPlayed": 4,
+      "rating": 49.9,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
-        "passingYardsPerGame": 178.3,
-        "quarterbackRating": 103.8,
-        "completionPercentage": 68.7,
-        "passingTouchdownsPerGame": 1.67,
-        "yardsPerAttempt": 7.1,
-        "sacksAllowedPerGame": 2.33
+        "passingYardsPerGame": 198.8,
+        "quarterbackRating": 101,
+        "completionPercentage": 69.8,
+        "passingTouchdownsPerGame": 1.5,
+        "yardsPerAttempt": 7.4,
+        "sacksAllowedPerGame": 3
       },
       "breakdown": {
-        "yardsPerGame": 6.51,
-        "quarterbackRating": 15.22,
-        "completionPercentage": 10.58,
-        "touchdownsPerGame": 7.5,
-        "yardsPerAttempt": 3.72,
-        "protection": 5
+        "yardsPerGame": 9.74,
+        "quarterbackRating": 14.29,
+        "completionPercentage": 11.3,
+        "touchdownsPerGame": 6.56,
+        "yardsPerAttempt": 4.42,
+        "protection": 3.57
       },
       "reasons": [
-        "Balanced passing profile"
+        "High completion percentage"
       ],
       "rank": 16
     },
@@ -672,6 +672,37 @@
       "rank": 21
     },
     {
+      "teamId": "23",
+      "team": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "season": 2026,
+      "gamesPlayed": 4,
+      "rating": 38.6,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 223,
+        "quarterbackRating": 80.6,
+        "completionPercentage": 56.8,
+        "passingTouchdownsPerGame": 1.75,
+        "yardsPerAttempt": 6.4,
+        "sacksAllowedPerGame": 2.5
+      },
+      "breakdown": {
+        "yardsPerGame": 13.55,
+        "quarterbackRating": 7.48,
+        "completionPercentage": 2.86,
+        "touchdownsPerGame": 7.97,
+        "yardsPerAttempt": 2.09,
+        "protection": 4.64
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 22
+    },
+    {
       "teamId": "11",
       "team": "Indianapolis Colts",
       "abbreviation": "IND",
@@ -700,7 +731,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 22
+      "rank": 23
     },
     {
       "teamId": "7",
@@ -726,37 +757,6 @@
         "completionPercentage": 5.06,
         "touchdownsPerGame": 5.62,
         "yardsPerAttempt": 2.33,
-        "protection": 4.29
-      },
-      "reasons": [
-        "Balanced passing profile"
-      ],
-      "rank": 23
-    },
-    {
-      "teamId": "23",
-      "team": "Pittsburgh Steelers",
-      "abbreviation": "PIT",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-      "season": 2026,
-      "gamesPlayed": 3,
-      "rating": 32.8,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 207.7,
-        "quarterbackRating": 79.6,
-        "completionPercentage": 57.4,
-        "passingTouchdownsPerGame": 1.33,
-        "yardsPerAttempt": 6.1,
-        "sacksAllowedPerGame": 2.67
-      },
-      "breakdown": {
-        "yardsPerGame": 11.14,
-        "quarterbackRating": 7.14,
-        "completionPercentage": 3.25,
-        "touchdownsPerGame": 5.62,
-        "yardsPerAttempt": 1.4,
         "protection": 4.29
       },
       "reasons": [

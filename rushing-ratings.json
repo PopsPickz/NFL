@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:02:05.220Z",
+  "updatedAt": "2026-10-02T16:26:44.399Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -660,6 +660,35 @@
       "rank": 22
     },
     {
+      "teamId": "23",
+      "team": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "season": 2026,
+      "gamesPlayed": 4,
+      "rating": 33.9,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "rushingYardsPerGame": 94.8,
+        "yardsPerCarry": 4.4,
+        "rushingTouchdownsPerGame": 0,
+        "rushingFirstDownsPerGame": 5.5,
+        "rushingAttemptsPerGame": 21.5
+      },
+      "breakdown": {
+        "yardsPerGame": 10.2,
+        "yardsPerCarry": 15.22,
+        "touchdownsPerGame": 0,
+        "firstDownsPerGame": 5.54,
+        "rushingVolume": 2.89
+      },
+      "reasons": [
+        "Balanced rushing profile"
+      ],
+      "rank": 23
+    },
+    {
       "teamId": "34",
       "team": "Houston Texans",
       "abbreviation": "HOU",
@@ -686,7 +715,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 23
+      "rank": 24
     },
     {
       "teamId": "16",
@@ -715,7 +744,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 24
+      "rank": 25
     },
     {
       "teamId": "26",
@@ -744,7 +773,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 25
+      "rank": 26
     },
     {
       "teamId": "4",
@@ -773,7 +802,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 26
+      "rank": 27
     },
     {
       "teamId": "22",
@@ -802,36 +831,36 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 27
+      "rank": 28
     },
     {
-      "teamId": "23",
-      "team": "Pittsburgh Steelers",
-      "abbreviation": "PIT",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "teamId": "5",
+      "team": "Cleveland Browns",
+      "abbreviation": "CLE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
       "season": 2026,
-      "gamesPlayed": 3,
-      "rating": 31.8,
+      "gamesPlayed": 4,
+      "rating": 31.4,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
-        "rushingYardsPerGame": 95.7,
-        "yardsPerCarry": 4.3,
-        "rushingTouchdownsPerGame": 0,
-        "rushingFirstDownsPerGame": 4.67,
-        "rushingAttemptsPerGame": 22.33
+        "rushingYardsPerGame": 93.8,
+        "yardsPerCarry": 3.7,
+        "rushingTouchdownsPerGame": 0.5,
+        "rushingFirstDownsPerGame": 5.25,
+        "rushingAttemptsPerGame": 25.5
       },
       "breakdown": {
-        "yardsPerGame": 10.4,
-        "yardsPerCarry": 14.13,
-        "touchdownsPerGame": 0,
-        "firstDownsPerGame": 3.91,
-        "rushingVolume": 3.33
+        "yardsPerGame": 9.98,
+        "yardsPerCarry": 7.61,
+        "touchdownsPerGame": 3.75,
+        "firstDownsPerGame": 5.05,
+        "rushingVolume": 5
       },
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 28
+      "rank": 29
     },
     {
       "teamId": "13",
@@ -860,7 +889,7 @@
       "reasons": [
         "High rushing volume"
       ],
-      "rank": 29
+      "rank": 30
     },
     {
       "teamId": "7",
@@ -885,35 +914,6 @@
         "touchdownsPerGame": 5,
         "firstDownsPerGame": 4.56,
         "rushingVolume": 3.51
-      },
-      "reasons": [
-        "Balanced rushing profile"
-      ],
-      "rank": 30
-    },
-    {
-      "teamId": "5",
-      "team": "Cleveland Browns",
-      "abbreviation": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-      "season": 2026,
-      "gamesPlayed": 3,
-      "rating": 23.4,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "rushingYardsPerGame": 87.7,
-        "yardsPerCarry": 3.5,
-        "rushingTouchdownsPerGame": 0,
-        "rushingFirstDownsPerGame": 5,
-        "rushingAttemptsPerGame": 25
-      },
-      "breakdown": {
-        "yardsPerGame": 8.63,
-        "yardsPerCarry": 5.43,
-        "touchdownsPerGame": 0,
-        "firstDownsPerGame": 4.56,
-        "rushingVolume": 4.74
       },
       "reasons": [
         "Balanced rushing profile"

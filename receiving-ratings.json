@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:02:05.252Z",
+  "updatedAt": "2026-10-02T16:26:44.455Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -370,6 +370,35 @@
       "rank": 12
     },
     {
+      "teamId": "23",
+      "team": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "season": 2026,
+      "gamesPlayed": 4,
+      "rating": 54.7,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "receivingYardsPerGame": 249.8,
+        "yardsPerReception": 11.4,
+        "receivingTouchdownsPerGame": 1.75,
+        "receptionsPerGame": 22,
+        "efficiencyBalance": 19.95
+      },
+      "breakdown": {
+        "yardsPerGame": 18.08,
+        "yardsPerReception": 13.93,
+        "touchdownsPerGame": 10.63,
+        "receptionsPerGame": 7.5,
+        "efficiencyBalance": 4.51
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 13
+    },
+    {
       "teamId": "4",
       "team": "Cincinnati Bengals",
       "abbreviation": "CIN",
@@ -396,7 +425,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "teamId": "20",
@@ -425,7 +454,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 14
+      "rank": 15
     },
     {
       "teamId": "34",
@@ -454,7 +483,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 15
+      "rank": 16
     },
     {
       "teamId": "30",
@@ -483,7 +512,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 16
+      "rank": 17
     },
     {
       "teamId": "3",
@@ -508,35 +537,6 @@
         "touchdownsPerGame": 7.5,
         "receptionsPerGame": 7.2,
         "efficiencyBalance": 2.99
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 17
-    },
-    {
-      "teamId": "23",
-      "team": "Pittsburgh Steelers",
-      "abbreviation": "PIT",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-      "season": 2026,
-      "gamesPlayed": 3,
-      "rating": 43.5,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "receivingYardsPerGame": 233.3,
-        "yardsPerReception": 10.6,
-        "receivingTouchdownsPerGame": 1.33,
-        "receptionsPerGame": 22,
-        "efficiencyBalance": 14.13
-      },
-      "breakdown": {
-        "yardsPerGame": 14.96,
-        "yardsPerReception": 10.66,
-        "touchdownsPerGame": 7.5,
-        "receptionsPerGame": 7.5,
-        "efficiencyBalance": 2.88
       },
       "reasons": [
         "Balanced receiving profile"
@@ -573,6 +573,35 @@
       "rank": 19
     },
     {
+      "teamId": "5",
+      "team": "Cleveland Browns",
+      "abbreviation": "CLE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "season": 2026,
+      "gamesPlayed": 4,
+      "rating": 40,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "receivingYardsPerGame": 213.8,
+        "yardsPerReception": 10.6,
+        "receivingTouchdownsPerGame": 1.5,
+        "receptionsPerGame": 20.25,
+        "efficiencyBalance": 15.9
+      },
+      "breakdown": {
+        "yardsPerGame": 11.28,
+        "yardsPerReception": 10.66,
+        "touchdownsPerGame": 8.75,
+        "receptionsPerGame": 5.92,
+        "efficiencyBalance": 3.37
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 20
+    },
+    {
       "teamId": "24",
       "team": "Los Angeles Chargers",
       "abbreviation": "LAC",
@@ -599,7 +628,7 @@
       "reasons": [
         "Balanced receiving profile"
       ],
-      "rank": 20
+      "rank": 21
     },
     {
       "teamId": "28",
@@ -624,35 +653,6 @@
         "touchdownsPerGame": 15,
         "receptionsPerGame": 5.7,
         "efficiencyBalance": 4.93
-      },
-      "reasons": [
-        "Balanced receiving profile"
-      ],
-      "rank": 21
-    },
-    {
-      "teamId": "5",
-      "team": "Cleveland Browns",
-      "abbreviation": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-      "season": 2026,
-      "gamesPlayed": 3,
-      "rating": 35.8,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "receivingYardsPerGame": 195.7,
-        "yardsPerReception": 10.3,
-        "receivingTouchdownsPerGame": 1.67,
-        "receptionsPerGame": 19,
-        "efficiencyBalance": 17.17
-      },
-      "breakdown": {
-        "yardsPerGame": 7.87,
-        "yardsPerReception": 9.43,
-        "touchdownsPerGame": 10,
-        "receptionsPerGame": 4.8,
-        "efficiencyBalance": 3.73
       },
       "reasons": [
         "Balanced receiving profile"

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:01:57.435Z",
+  "updatedAt": "2026-10-02T16:26:37.857Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -27,8 +27,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
         "color": "000000",
         "alternateColor": "ffb612",
-        "record": "2-1",
-        "score": 10,
+        "record": "2-2",
+        "score": 24,
         "winner": false
       },
       "homeTeam": {
@@ -42,19 +42,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
         "color": "472a08",
         "alternateColor": "ff3c00",
-        "record": "2-1",
-        "score": 21,
-        "winner": false
+        "record": "3-1",
+        "score": 27,
+        "winner": true
       },
       "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "state": "OH",
       "network": "Prime Video",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "Halftime",
-        "shortDetail": "Halftime"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
