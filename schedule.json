@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:25:51.246Z",
+  "updatedAt": "2026-10-04T15:35:47.889Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "003b75",
         "alternateColor": "ffffff",
         "record": "1-2",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "homeTeam": {
@@ -94,7 +94,7 @@
         "color": "5a1414",
         "alternateColor": "ffb612",
         "record": "1-2",
-        "score": 0,
+        "score": 13,
         "winner": false
       },
       "venue": "Tottenham Hotspur Stadium",
@@ -102,10 +102,10 @@
       "state": "",
       "network": "NFL Net",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, October 4th at 9:30 AM EDT",
-        "shortDetail": "10/4 - 9:30 AM EDT"
+        "detail": "10:39 - 3rd Quarter",
+        "shortDetail": "10:39 - 3rd"
       }
     },
     {
