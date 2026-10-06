@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T23:05:22.439Z",
+  "updatedAt": "2026-10-06T02:43:01.907Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -793,7 +793,7 @@
         "color": "a71930",
         "alternateColor": "000000",
         "record": "1-2",
-        "score": 0,
+        "score": 31,
         "winner": false
       },
       "homeTeam": {
@@ -808,7 +808,7 @@
         "color": "d3bc8d",
         "alternateColor": "000000",
         "record": "1-2",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "venue": "Caesars Superdome",
@@ -816,10 +816,10 @@
       "state": "LA",
       "network": "ESPN",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, October 5th at 8:15 PM EDT",
-        "shortDetail": "10/5 - 8:15 PM EDT"
+        "detail": "0:34 - 3rd Quarter",
+        "shortDetail": "0:34 - 3rd"
       }
     }
   ]
