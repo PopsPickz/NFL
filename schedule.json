@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T21:54:20.152Z",
+  "updatedAt": "2026-10-09T02:48:35.534Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "bd1c36",
         "alternateColor": "3e3a35",
         "record": "0-4",
-        "score": 0,
+        "score": 24,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "002a5c",
         "alternateColor": "b0b7bc",
         "record": "2-2",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "venue": "AT&T Stadium",
@@ -51,10 +51,10 @@
       "state": "TX",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, October 8th at 8:15 PM EDT",
-        "shortDetail": "10/8 - 8:15 PM EDT"
+        "detail": "9:23 - 4th Quarter",
+        "shortDetail": "9:23 - 4th"
       }
     },
     {
