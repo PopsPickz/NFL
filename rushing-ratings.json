@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:48:43.267Z",
+  "updatedAt": "2026-10-09T17:15:35.432Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -165,6 +165,35 @@
       "rank": 5
     },
     {
+      "teamId": "27",
+      "team": "Tampa Bay Buccaneers",
+      "abbreviation": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+      "season": 2026,
+      "gamesPlayed": 5,
+      "rating": 57,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "rushingYardsPerGame": 133,
+        "yardsPerCarry": 4.9,
+        "rushingTouchdownsPerGame": 1,
+        "rushingFirstDownsPerGame": 6.8,
+        "rushingAttemptsPerGame": 27.2
+      },
+      "breakdown": {
+        "yardsPerGame": 16.27,
+        "yardsPerCarry": 21.43,
+        "touchdownsPerGame": 8,
+        "firstDownsPerGame": 7.13,
+        "rushingVolume": 4.16
+      },
+      "reasons": [
+        "Strong rushing efficiency"
+      ],
+      "rank": 6
+    },
+    {
       "teamId": "14",
       "team": "Los Angeles Rams",
       "abbreviation": "LAR",
@@ -191,7 +220,7 @@
       "reasons": [
         "Strong rushing efficiency"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "teamId": "11",
@@ -220,7 +249,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "teamId": "30",
@@ -249,7 +278,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "teamId": "24",
@@ -278,7 +307,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "teamId": "8",
@@ -307,7 +336,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "teamId": "28",
@@ -336,7 +365,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "teamId": "17",
@@ -361,35 +390,6 @@
         "touchdownsPerGame": 4,
         "firstDownsPerGame": 8.44,
         "rushingVolume": 5.47
-      },
-      "reasons": [
-        "Balanced rushing profile"
-      ],
-      "rank": 12
-    },
-    {
-      "teamId": "27",
-      "team": "Tampa Bay Buccaneers",
-      "abbreviation": "TB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-      "season": 2026,
-      "gamesPlayed": 4,
-      "rating": 40.3,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "rushingYardsPerGame": 106,
-        "yardsPerCarry": 4.4,
-        "rushingTouchdownsPerGame": 0.75,
-        "rushingFirstDownsPerGame": 6,
-        "rushingAttemptsPerGame": 24.25
-      },
-      "breakdown": {
-        "yardsPerGame": 10.41,
-        "yardsPerCarry": 15.48,
-        "touchdownsPerGame": 6,
-        "firstDownsPerGame": 5.63,
-        "rushingVolume": 2.79
       },
       "reasons": [
         "Balanced rushing profile"
@@ -484,35 +484,6 @@
       "rank": 16
     },
     {
-      "teamId": "6",
-      "team": "Dallas Cowboys",
-      "abbreviation": "DAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-      "season": 2026,
-      "gamesPlayed": 4,
-      "rating": 35.2,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "rushingYardsPerGame": 89.5,
-        "yardsPerCarry": 3.8,
-        "rushingTouchdownsPerGame": 1.5,
-        "rushingFirstDownsPerGame": 6,
-        "rushingAttemptsPerGame": 23.5
-      },
-      "breakdown": {
-        "yardsPerGame": 6.83,
-        "yardsPerCarry": 8.33,
-        "touchdownsPerGame": 12,
-        "firstDownsPerGame": 5.63,
-        "rushingVolume": 2.44
-      },
-      "reasons": [
-        "Balanced rushing profile"
-      ],
-      "rank": 17
-    },
-    {
       "teamId": "22",
       "team": "Arizona Cardinals",
       "abbreviation": "ARI",
@@ -539,7 +510,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 18
+      "rank": 17
     },
     {
       "teamId": "19",
@@ -564,6 +535,35 @@
         "touchdownsPerGame": 2,
         "firstDownsPerGame": 6.09,
         "rushingVolume": 5.35
+      },
+      "reasons": [
+        "Balanced rushing profile"
+      ],
+      "rank": 18
+    },
+    {
+      "teamId": "6",
+      "team": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+      "season": 2026,
+      "gamesPlayed": 5,
+      "rating": 31.4,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "rushingYardsPerGame": 81.6,
+        "yardsPerCarry": 3.8,
+        "rushingTouchdownsPerGame": 1.4,
+        "rushingFirstDownsPerGame": 5.8,
+        "rushingAttemptsPerGame": 21.4
+      },
+      "breakdown": {
+        "yardsPerGame": 5.12,
+        "yardsPerCarry": 8.33,
+        "touchdownsPerGame": 11.2,
+        "firstDownsPerGame": 5.25,
+        "rushingVolume": 1.47
       },
       "reasons": [
         "Balanced rushing profile"
