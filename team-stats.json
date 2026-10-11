@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T16:28:21.436Z",
+  "updatedAt": "2026-10-11T20:50:52.949Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 30,
@@ -220,6 +220,116 @@
         "sacks": 10,
         "interceptions": 6,
         "takeaways": 8,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "19",
+      "name": "New York Giants",
+      "abbreviation": "NYG",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+      "season": 2026,
+      "gamesPlayed": 4,
+      "offense": {
+        "points": 82,
+        "pointsPerGame": 20.5,
+        "totalYards": 0,
+        "yardsPerGame": 292.75,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 5
+      },
+      "passing": {
+        "yards": 691,
+        "yardsPerGame": 172.8,
+        "yardsPerAttempt": 6.5,
+        "completionPercentage": 61.6,
+        "touchdowns": 6,
+        "interceptions": 0,
+        "sacksAllowed": 3,
+        "quarterbackRating": 87.2
+      },
+      "rushing": {
+        "yards": 442,
+        "yardsPerGame": 110.5,
+        "yardsPerCarry": 3.7,
+        "touchdowns": 1,
+        "attempts": 119,
+        "firstDowns": 25
+      },
+      "receiving": {
+        "yards": 729,
+        "yardsPerGame": 182.3,
+        "receptions": 69,
+        "touchdowns": 6,
+        "yardsPerReception": 10.6
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 3,
+        "interceptions": 6,
+        "takeaways": 8,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "28",
+      "name": "Washington Commanders",
+      "abbreviation": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+      "season": 2026,
+      "gamesPlayed": 4,
+      "offense": {
+        "points": 88,
+        "pointsPerGame": 22,
+        "totalYards": 0,
+        "yardsPerGame": 320.5,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 2
+      },
+      "passing": {
+        "yards": 763,
+        "yardsPerGame": 190.8,
+        "yardsPerAttempt": 5.7,
+        "completionPercentage": 56.9,
+        "touchdowns": 8,
+        "interceptions": 0,
+        "sacksAllowed": 7,
+        "quarterbackRating": 89.9
+      },
+      "rushing": {
+        "yards": 496,
+        "yardsPerGame": 124,
+        "yardsPerCarry": 4.2,
+        "touchdowns": 1,
+        "attempts": 118,
+        "firstDowns": 29
+      },
+      "receiving": {
+        "yards": 786,
+        "yardsPerGame": 196.5,
+        "receptions": 78,
+        "touchdowns": 8,
+        "yardsPerReception": 10.1
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 7,
+        "interceptions": 3,
+        "takeaways": 5,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
@@ -990,116 +1100,6 @@
         "sacks": 10,
         "interceptions": 4,
         "takeaways": 8,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "19",
-      "name": "New York Giants",
-      "abbreviation": "NYG",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-      "season": 2026,
-      "gamesPlayed": 4,
-      "offense": {
-        "points": 82,
-        "pointsPerGame": 20.5,
-        "totalYards": 0,
-        "yardsPerGame": 292.75,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 5
-      },
-      "passing": {
-        "yards": 691,
-        "yardsPerGame": 172.8,
-        "yardsPerAttempt": 6.5,
-        "completionPercentage": 61.6,
-        "touchdowns": 6,
-        "interceptions": 0,
-        "sacksAllowed": 3,
-        "quarterbackRating": 87.2
-      },
-      "rushing": {
-        "yards": 442,
-        "yardsPerGame": 110.5,
-        "yardsPerCarry": 3.7,
-        "touchdowns": 1,
-        "attempts": 119,
-        "firstDowns": 25
-      },
-      "receiving": {
-        "yards": 729,
-        "yardsPerGame": 182.3,
-        "receptions": 69,
-        "touchdowns": 6,
-        "yardsPerReception": 10.6
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 3,
-        "interceptions": 6,
-        "takeaways": 8,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "28",
-      "name": "Washington Commanders",
-      "abbreviation": "WSH",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-      "season": 2026,
-      "gamesPlayed": 4,
-      "offense": {
-        "points": 88,
-        "pointsPerGame": 22,
-        "totalYards": 0,
-        "yardsPerGame": 320.5,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 2
-      },
-      "passing": {
-        "yards": 763,
-        "yardsPerGame": 190.8,
-        "yardsPerAttempt": 5.7,
-        "completionPercentage": 56.9,
-        "touchdowns": 8,
-        "interceptions": 0,
-        "sacksAllowed": 7,
-        "quarterbackRating": 89.9
-      },
-      "rushing": {
-        "yards": 496,
-        "yardsPerGame": 124,
-        "yardsPerCarry": 4.2,
-        "touchdowns": 1,
-        "attempts": 118,
-        "firstDowns": 29
-      },
-      "receiving": {
-        "yards": 786,
-        "yardsPerGame": 196.5,
-        "receptions": 78,
-        "touchdowns": 8,
-        "yardsPerReception": 10.1
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 7,
-        "interceptions": 3,
-        "takeaways": 5,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
