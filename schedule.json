@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T02:06:31.921Z",
+  "updatedAt": "2026-10-12T20:04:07.919Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -690,9 +690,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
         "color": "29126f",
         "alternateColor": "000000",
-        "record": "3-1",
-        "score": 9,
-        "winner": false
+        "record": "4-1",
+        "score": 30,
+        "winner": true
       },
       "homeTeam": {
         "id": "1",
@@ -705,8 +705,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
         "color": "a71930",
         "alternateColor": "000000",
-        "record": "2-2",
-        "score": 14,
+        "record": "2-3",
+        "score": 23,
         "winner": false
       },
       "venue": "Mercedes-Benz Stadium",
@@ -714,10 +714,10 @@
       "state": "GA",
       "network": "NBC",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "12:39 - 3rd Quarter",
-        "shortDetail": "12:39 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final/OT",
+        "shortDetail": "Final/OT"
       }
     },
     {
