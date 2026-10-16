@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:01:00.878Z",
+  "updatedAt": "2026-10-16T15:05:04.815Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -427,6 +427,35 @@
       "rank": 14
     },
     {
+      "teamId": "26",
+      "team": "Seattle Seahawks",
+      "abbreviation": "SEA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "rating": 35.7,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "rushingYardsPerGame": 107.2,
+        "yardsPerCarry": 3.9,
+        "rushingTouchdownsPerGame": 0.83,
+        "rushingFirstDownsPerGame": 5.67,
+        "rushingAttemptsPerGame": 27.5
+      },
+      "breakdown": {
+        "yardsPerGame": 12.45,
+        "yardsPerCarry": 9,
+        "touchdownsPerGame": 5.28,
+        "firstDownsPerGame": 4.38,
+        "rushingVolume": 4.58
+      },
+      "reasons": [
+        "Balanced rushing profile"
+      ],
+      "rank": 15
+    },
+    {
       "teamId": "23",
       "team": "Pittsburgh Steelers",
       "abbreviation": "PIT",
@@ -449,35 +478,6 @@
         "touchdownsPerGame": 0,
         "firstDownsPerGame": 4.22,
         "rushingVolume": 1.07
-      },
-      "reasons": [
-        "Balanced rushing profile"
-      ],
-      "rank": 15
-    },
-    {
-      "teamId": "26",
-      "team": "Seattle Seahawks",
-      "abbreviation": "SEA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-      "season": 2026,
-      "gamesPlayed": 5,
-      "rating": 32.7,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "rushingYardsPerGame": 106,
-        "yardsPerCarry": 3.8,
-        "rushingTouchdownsPerGame": 0.8,
-        "rushingFirstDownsPerGame": 5,
-        "rushingAttemptsPerGame": 27.8
-      },
-      "breakdown": {
-        "yardsPerGame": 12.13,
-        "yardsPerCarry": 8,
-        "touchdownsPerGame": 5,
-        "firstDownsPerGame": 2.81,
-        "rushingVolume": 4.76
       },
       "reasons": [
         "Balanced rushing profile"
@@ -722,23 +722,23 @@
       "abbreviation": "DEN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
       "season": 2026,
-      "gamesPlayed": 5,
-      "rating": 22.3,
+      "gamesPlayed": 6,
+      "rating": 22.4,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
-        "rushingYardsPerGame": 86.2,
-        "yardsPerCarry": 3.6,
-        "rushingTouchdownsPerGame": 0.6,
-        "rushingFirstDownsPerGame": 5.4,
-        "rushingAttemptsPerGame": 23.8
+        "rushingYardsPerGame": 84.2,
+        "yardsPerCarry": 3.4,
+        "rushingTouchdownsPerGame": 0.83,
+        "rushingFirstDownsPerGame": 5.5,
+        "rushingAttemptsPerGame": 24.5
       },
       "breakdown": {
-        "yardsPerGame": 6.86,
-        "yardsPerCarry": 6,
-        "touchdownsPerGame": 3.33,
-        "firstDownsPerGame": 3.75,
-        "rushingVolume": 2.38
+        "yardsPerGame": 6.33,
+        "yardsPerCarry": 4,
+        "touchdownsPerGame": 5.28,
+        "firstDownsPerGame": 3.98,
+        "rushingVolume": 2.8
       },
       "reasons": [
         "Balanced rushing profile"
