@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:13:34.879Z",
+  "updatedAt": "2026-10-16T01:00:54.631Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "002a5c",
         "alternateColor": "69be28",
         "record": "3-2",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "0a2343",
         "alternateColor": "fc4c02",
         "record": "3-2",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "venue": "Empower Field at Mile High",
@@ -51,10 +51,10 @@
       "state": "CO",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, October 15th at 8:15 PM EDT",
-        "shortDetail": "10/15 - 8:15 PM EDT"
+        "detail": "10:08 - 2nd Quarter",
+        "shortDetail": "10:08 - 2nd"
       }
     },
     {
