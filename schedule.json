@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T00:40:41.773Z",
+  "updatedAt": "2026-10-18T14:13:00.055Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "021018",
         "alternateColor": "eb0028",
         "record": "1-4",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "homeTeam": {
@@ -102,10 +102,10 @@
       "state": "",
       "network": "NFL Net",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, October 18th at 9:30 AM EDT",
-        "shortDetail": "10/18 - 9:30 AM EDT"
+        "detail": "15:00 - 2nd Quarter",
+        "shortDetail": "15:00 - 2nd"
       }
     },
     {
