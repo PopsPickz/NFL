@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:22:58.941Z",
+  "updatedAt": "2026-10-20T01:36:19.725Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -691,7 +691,7 @@
         "color": "5a1414",
         "alternateColor": "ffb612",
         "record": "1-3-1",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "homeTeam": {
@@ -706,7 +706,7 @@
         "color": "aa0000",
         "alternateColor": "b3995d",
         "record": "5-0",
-        "score": 0,
+        "score": 19,
         "winner": false
       },
       "venue": "Levi's Stadium",
@@ -714,10 +714,10 @@
       "state": "CA",
       "network": "ESPN, ABC",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, October 19th at 8:15 PM EDT",
-        "shortDetail": "10/19 - 8:15 PM EDT"
+        "detail": "0:13 - 2nd Quarter",
+        "shortDetail": "0:13 - 2nd"
       }
     }
   ]
