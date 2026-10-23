@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:16:03.812Z",
+  "updatedAt": "2026-10-23T15:34:13.915Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -27,8 +27,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
         "color": "002a5c",
         "alternateColor": "c60c30",
-        "record": "4-2",
-        "score": 7,
+        "record": "4-3",
+        "score": 24,
         "winner": false
       },
       "homeTeam": {
@@ -42,19 +42,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
         "color": "0b1c3a",
         "alternateColor": "e64100",
-        "record": "4-2",
-        "score": 10,
-        "winner": false
+        "record": "5-2",
+        "score": 30,
+        "winner": true
       },
       "venue": "Soldier Field",
       "city": "Chicago",
       "state": "IL",
       "network": "Prime Video",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "8:20 - 2nd Quarter",
-        "shortDetail": "8:20 - 2nd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {

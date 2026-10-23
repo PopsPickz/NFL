@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:16:10.056Z",
+  "updatedAt": "2026-10-23T15:34:19.910Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -271,6 +271,37 @@
       "rank": 8
     },
     {
+      "teamId": "17",
+      "team": "New England Patriots",
+      "abbreviation": "NE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "rating": 66.2,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 253,
+        "quarterbackRating": 96.2,
+        "completionPercentage": 65.9,
+        "passingTouchdownsPerGame": 1.86,
+        "yardsPerAttempt": 8.3,
+        "sacksAllowedPerGame": 2.43
+      },
+      "breakdown": {
+        "yardsPerGame": 17.51,
+        "quarterbackRating": 13.98,
+        "completionPercentage": 9.57,
+        "touchdownsPerGame": 10.93,
+        "yardsPerAttempt": 9.31,
+        "protection": 4.91
+      },
+      "reasons": [
+        "Creates explosive passing plays"
+      ],
+      "rank": 9
+    },
+    {
       "teamId": "34",
       "team": "Houston Texans",
       "abbreviation": "HOU",
@@ -300,7 +331,7 @@
         "Top-level passing yard production",
         "Creates explosive passing plays"
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "teamId": "6",
@@ -331,37 +362,6 @@
       "reasons": [
         "Top-level passing yard production",
         "Good quarterback protection"
-      ],
-      "rank": 10
-    },
-    {
-      "teamId": "17",
-      "team": "New England Patriots",
-      "abbreviation": "NE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "rating": 60,
-      "tier": "Above Average",
-      "stars": 3,
-      "metrics": {
-        "passingYardsPerGame": 243.5,
-        "quarterbackRating": 92.7,
-        "completionPercentage": 64,
-        "passingTouchdownsPerGame": 1.83,
-        "yardsPerAttempt": 8,
-        "sacksAllowedPerGame": 2.33
-      },
-      "breakdown": {
-        "yardsPerGame": 15.83,
-        "quarterbackRating": 12.22,
-        "completionPercentage": 7.7,
-        "touchdownsPerGame": 10.75,
-        "yardsPerAttempt": 8.28,
-        "protection": 5.21
-      },
-      "reasons": [
-        "Creates explosive passing plays"
       ],
       "rank": 11
     },
@@ -397,6 +397,37 @@
       "rank": 12
     },
     {
+      "teamId": "3",
+      "team": "Chicago Bears",
+      "abbreviation": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "rating": 52.8,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 236.4,
+        "quarterbackRating": 91,
+        "completionPercentage": 68.5,
+        "passingTouchdownsPerGame": 1,
+        "yardsPerAttempt": 7.4,
+        "sacksAllowedPerGame": 2.71
+      },
+      "breakdown": {
+        "yardsPerGame": 14.58,
+        "quarterbackRating": 11.37,
+        "completionPercentage": 12.14,
+        "touchdownsPerGame": 4.5,
+        "yardsPerAttempt": 6.21,
+        "protection": 4.02
+      },
+      "reasons": [
+        "High completion percentage"
+      ],
+      "rank": 13
+    },
+    {
       "teamId": "20",
       "team": "New York Jets",
       "abbreviation": "NYJ",
@@ -425,7 +456,7 @@
       "reasons": [
         "High completion percentage"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "teamId": "26",
@@ -456,7 +487,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 14
+      "rank": 15
     },
     {
       "teamId": "18",
@@ -487,7 +518,7 @@
       "reasons": [
         "Strong passing touchdown rate"
       ],
-      "rank": 15
+      "rank": 16
     },
     {
       "teamId": "19",
@@ -517,37 +548,6 @@
       },
       "reasons": [
         "Good quarterback protection"
-      ],
-      "rank": 16
-    },
-    {
-      "teamId": "3",
-      "team": "Chicago Bears",
-      "abbreviation": "CHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "rating": 46.9,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "passingYardsPerGame": 227.7,
-        "quarterbackRating": 86.9,
-        "completionPercentage": 68.8,
-        "passingTouchdownsPerGame": 0.83,
-        "yardsPerAttempt": 7.1,
-        "sacksAllowedPerGame": 2.83
-      },
-      "breakdown": {
-        "yardsPerGame": 13.05,
-        "quarterbackRating": 9.31,
-        "completionPercentage": 12.43,
-        "touchdownsPerGame": 3.25,
-        "yardsPerAttempt": 5.17,
-        "protection": 3.65
-      },
-      "reasons": [
-        "High completion percentage"
       ],
       "rank": 17
     },
