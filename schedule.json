@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:27:02.142Z",
+  "updatedAt": "2026-10-23T01:16:03.812Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "002a5c",
         "alternateColor": "c60c30",
         "record": "4-2",
-        "score": 0,
+        "score": 7,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "0b1c3a",
         "alternateColor": "e64100",
         "record": "4-2",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "venue": "Soldier Field",
@@ -51,10 +51,10 @@
       "state": "IL",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, October 22nd at 8:15 PM EDT",
-        "shortDetail": "10/22 - 8:15 PM EDT"
+        "detail": "8:20 - 2nd Quarter",
+        "shortDetail": "8:20 - 2nd"
       }
     },
     {
