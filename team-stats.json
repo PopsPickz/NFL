@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:52:41.605Z",
+  "updatedAt": "2026-10-25T14:42:37.551Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 28,
@@ -1124,11 +1124,11 @@
         "yards": 1616,
         "yardsPerGame": 269.3,
         "yardsPerAttempt": 7.5,
-        "completionPercentage": 59.7,
+        "completionPercentage": 60,
         "touchdowns": 11,
         "interceptions": 0,
         "sacksAllowed": 15,
-        "quarterbackRating": 91.8
+        "quarterbackRating": 92.2
       },
       "rushing": {
         "yards": 359,

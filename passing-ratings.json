@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:52:41.653Z",
+  "updatedAt": "2026-10-25T14:42:37.601Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -372,21 +372,21 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 57.6,
+      "rating": 58.1,
       "tier": "Average",
       "stars": 3,
       "metrics": {
         "passingYardsPerGame": 269.3,
-        "quarterbackRating": 91.8,
-        "completionPercentage": 59.7,
+        "quarterbackRating": 92.2,
+        "completionPercentage": 60,
         "passingTouchdownsPerGame": 1.83,
         "yardsPerAttempt": 7.5,
         "sacksAllowedPerGame": 2.5
       },
       "breakdown": {
         "yardsPerGame": 20.37,
-        "quarterbackRating": 11.77,
-        "completionPercentage": 3.45,
+        "quarterbackRating": 11.97,
+        "completionPercentage": 3.75,
         "touchdownsPerGame": 10.75,
         "yardsPerAttempt": 6.55,
         "protection": 4.69

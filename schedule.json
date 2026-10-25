@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:52:35.808Z",
+  "updatedAt": "2026-10-25T14:42:32.645Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "000000",
         "alternateColor": "ffb612",
         "record": "4-2",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "homeTeam": {
@@ -94,7 +94,7 @@
         "color": "d3bc8d",
         "alternateColor": "000000",
         "record": "2-4",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Stade de France",
@@ -102,10 +102,10 @@
       "state": "",
       "network": "NFL Net",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, October 25th at 9:30 AM EDT",
-        "shortDetail": "10/25 - 9:30 AM EDT"
+        "detail": "2:00 - 2nd Quarter",
+        "shortDetail": "2:00 - 2nd"
       }
     },
     {
