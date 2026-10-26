@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T00:59:59.746Z",
+  "updatedAt": "2026-10-26T17:04:31.246Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -639,8 +639,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
         "color": "e31837",
         "alternateColor": "ffb612",
-        "record": "5-0",
-        "score": 0,
+        "record": "5-1",
+        "score": 3,
         "winner": false
       },
       "homeTeam": {
@@ -654,19 +654,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
         "color": "002a5c",
         "alternateColor": "69be28",
-        "record": "3-3",
-        "score": 0,
-        "winner": false
+        "record": "4-3",
+        "score": 20,
+        "winner": true
       },
       "venue": "Lumen Field",
       "city": "Seattle",
       "state": "WA",
       "network": "NBC",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "11:19 - 2nd Quarter",
-        "shortDetail": "11:19 - 2nd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
