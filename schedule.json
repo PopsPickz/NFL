@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T21:30:39.352Z",
+  "updatedAt": "2026-10-27T01:50:40.480Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -691,7 +691,7 @@
         "color": "002a5c",
         "alternateColor": "b0b7bc",
         "record": "2-4",
-        "score": 0,
+        "score": 20,
         "winner": false
       },
       "homeTeam": {
@@ -706,7 +706,7 @@
         "color": "06424d",
         "alternateColor": "000000",
         "record": "2-4",
-        "score": 0,
+        "score": 14,
         "winner": false
       },
       "venue": "Lincoln Financial Field",
@@ -714,10 +714,10 @@
       "state": "PA",
       "network": "ESPN, ABC, Disney+",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, October 26th at 8:15 PM EDT",
-        "shortDetail": "10/26 - 8:15 PM EDT"
+        "detail": "Halftime",
+        "shortDetail": "Halftime"
       }
     }
   ]
