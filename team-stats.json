@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-10-27T01:50:46.560Z",
+  "updatedAt": "2026-10-27T16:07:45.596Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 28,
   "teams": [
     {
-      "teamId": "17",
-      "name": "New England Patriots",
-      "abbreviation": "NE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+      "teamId": "29",
+      "name": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
       "season": 2026,
-      "gamesPlayed": 7,
+      "gamesPlayed": 6,
       "offense": {
-        "points": 160,
-        "pointsPerGame": 22.9,
+        "points": 159,
+        "pointsPerGame": 26.5,
         "totalYards": 0,
-        "yardsPerGame": 383.429,
+        "yardsPerGame": 398.5,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 14
+        "turnovers": 8
       },
       "passing": {
-        "yards": 1771,
-        "yardsPerGame": 253,
-        "yardsPerAttempt": 8.3,
-        "completionPercentage": 65.9,
-        "touchdowns": 13,
+        "yards": 1656,
+        "yardsPerGame": 276,
+        "yardsPerAttempt": 7.5,
+        "completionPercentage": 59.2,
+        "touchdowns": 12,
         "interceptions": 0,
-        "sacksAllowed": 17,
-        "quarterbackRating": 96.2
+        "sacksAllowed": 11,
+        "quarterbackRating": 92.9
       },
       "rushing": {
-        "yards": 854,
-        "yardsPerGame": 122,
-        "yardsPerCarry": 4.2,
-        "touchdowns": 5,
-        "attempts": 204,
-        "firstDowns": 50
+        "yards": 632,
+        "yardsPerGame": 105.3,
+        "yardsPerCarry": 4.3,
+        "touchdowns": 6,
+        "attempts": 146,
+        "firstDowns": 39
       },
       "receiving": {
-        "yards": 1830,
-        "yardsPerGame": 261.4,
-        "receptions": 145,
-        "touchdowns": 13,
-        "yardsPerReception": 12.6
+        "yards": 1759,
+        "yardsPerGame": 293.2,
+        "receptions": 138,
+        "touchdowns": 12,
+        "yardsPerReception": 12.7
       },
       "defense": {
         "pointsAllowed": 0,
@@ -52,108 +52,53 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 17,
-        "interceptions": 4,
+        "sacks": 11,
+        "interceptions": 3,
         "takeaways": 7,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
     },
     {
-      "teamId": "3",
-      "name": "Chicago Bears",
-      "abbreviation": "CHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "teamId": "9",
+      "name": "Green Bay Packers",
+      "abbreviation": "GB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
       "gamesPlayed": 7,
       "offense": {
-        "points": 180,
-        "pointsPerGame": 25.7,
+        "points": 144,
+        "pointsPerGame": 20.6,
         "totalYards": 0,
-        "yardsPerGame": 409.143,
+        "yardsPerGame": 339.571,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 11
+        "turnovers": 8
       },
       "passing": {
-        "yards": 1655,
-        "yardsPerGame": 236.4,
-        "yardsPerAttempt": 7.4,
-        "completionPercentage": 68.5,
-        "touchdowns": 7,
-        "interceptions": 0,
-        "sacksAllowed": 19,
-        "quarterbackRating": 91
-      },
-      "rushing": {
-        "yards": 1080,
-        "yardsPerGame": 154.3,
-        "yardsPerCarry": 4.4,
-        "touchdowns": 14,
-        "attempts": 246,
-        "firstDowns": 55
-      },
-      "receiving": {
-        "yards": 1784,
-        "yardsPerGame": 254.9,
-        "receptions": 165,
-        "touchdowns": 7,
-        "yardsPerReception": 10.8
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 19,
-        "interceptions": 4,
-        "takeaways": 10,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "23",
-      "name": "Pittsburgh Steelers",
-      "abbreviation": "PIT",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 153,
-        "pointsPerGame": 21.9,
-        "totalYards": 0,
-        "yardsPerGame": 348.857,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 7
-      },
-      "passing": {
-        "yards": 1523,
-        "yardsPerGame": 217.6,
-        "yardsPerAttempt": 6.4,
-        "completionPercentage": 61.1,
+        "yards": 1880,
+        "yardsPerGame": 268.6,
+        "yardsPerAttempt": 7.3,
+        "completionPercentage": 60,
         "touchdowns": 13,
         "interceptions": 0,
-        "sacksAllowed": 18,
-        "quarterbackRating": 88.2
+        "sacksAllowed": 16,
+        "quarterbackRating": 90.6
       },
       "rushing": {
-        "yards": 743,
-        "yardsPerGame": 106.1,
-        "yardsPerCarry": 4.6,
-        "touchdowns": 1,
-        "attempts": 160,
-        "firstDowns": 44
+        "yards": 419,
+        "yardsPerGame": 59.9,
+        "yardsPerCarry": 2.9,
+        "touchdowns": 3,
+        "attempts": 144,
+        "firstDowns": 27
       },
       "receiving": {
-        "yards": 1699,
-        "yardsPerGame": 242.7,
+        "yards": 1958,
+        "yardsPerGame": 279.7,
         "receptions": 162,
         "touchdowns": 13,
-        "yardsPerReception": 10.5
+        "yardsPerReception": 12.1
       },
       "defense": {
         "pointsAllowed": 0,
@@ -162,53 +107,53 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 18,
-        "interceptions": 7,
-        "takeaways": 11,
+        "sacks": 16,
+        "interceptions": 9,
+        "takeaways": 13,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
     },
     {
-      "teamId": "18",
-      "name": "New Orleans Saints",
-      "abbreviation": "NO",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+      "teamId": "33",
+      "name": "Baltimore Ravens",
+      "abbreviation": "BAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
       "season": 2026,
       "gamesPlayed": 7,
       "offense": {
-        "points": 162,
-        "pointsPerGame": 23.1,
+        "points": 169,
+        "pointsPerGame": 24.1,
         "totalYards": 0,
-        "yardsPerGame": 331.857,
+        "yardsPerGame": 383.714,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 13
+        "turnovers": 5
       },
       "passing": {
-        "yards": 1608,
-        "yardsPerGame": 229.7,
-        "yardsPerAttempt": 6.3,
-        "completionPercentage": 67,
-        "touchdowns": 13,
+        "yards": 1573,
+        "yardsPerGame": 224.7,
+        "yardsPerAttempt": 8.4,
+        "completionPercentage": 70.3,
+        "touchdowns": 10,
         "interceptions": 0,
-        "sacksAllowed": 18,
-        "quarterbackRating": 90.9
+        "sacksAllowed": 16,
+        "quarterbackRating": 108
       },
       "rushing": {
-        "yards": 602,
-        "yardsPerGame": 86,
-        "yardsPerCarry": 3.5,
-        "touchdowns": 6,
-        "attempts": 171,
-        "firstDowns": 41
+        "yards": 992,
+        "yardsPerGame": 141.7,
+        "yardsPerCarry": 4.7,
+        "touchdowns": 9,
+        "attempts": 212,
+        "firstDowns": 51
       },
       "receiving": {
-        "yards": 1721,
-        "yardsPerGame": 245.9,
-        "receptions": 183,
-        "touchdowns": 13,
-        "yardsPerReception": 9.4
+        "yards": 1694,
+        "yardsPerGame": 242,
+        "receptions": 142,
+        "touchdowns": 10,
+        "yardsPerReception": 11.9
       },
       "defense": {
         "pointsAllowed": 0,
@@ -217,163 +162,53 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 18,
-        "interceptions": 4,
-        "takeaways": 9,
+        "sacks": 16,
+        "interceptions": 3,
+        "takeaways": 6,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
     },
     {
-      "teamId": "25",
-      "name": "San Francisco 49ers",
-      "abbreviation": "SF",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+      "teamId": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
       "season": 2026,
-      "gamesPlayed": 7,
+      "gamesPlayed": 6,
       "offense": {
         "points": 197,
-        "pointsPerGame": 28.1,
+        "pointsPerGame": 32.8,
         "totalYards": 0,
-        "yardsPerGame": 377.143,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 10
-      },
-      "passing": {
-        "yards": 1708,
-        "yardsPerGame": 244,
-        "yardsPerAttempt": 8.3,
-        "completionPercentage": 69.2,
-        "touchdowns": 15,
-        "interceptions": 0,
-        "sacksAllowed": 15,
-        "quarterbackRating": 110.1
-      },
-      "rushing": {
-        "yards": 892,
-        "yardsPerGame": 127.4,
-        "yardsPerCarry": 4.7,
-        "touchdowns": 10,
-        "attempts": 191,
-        "firstDowns": 57
-      },
-      "receiving": {
-        "yards": 1748,
-        "yardsPerGame": 249.7,
-        "receptions": 146,
-        "touchdowns": 15,
-        "yardsPerReception": 12
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 15,
-        "interceptions": 3,
-        "takeaways": 7,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "1",
-      "name": "Atlanta Falcons",
-      "abbreviation": "ATL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 171,
-        "pointsPerGame": 24.4,
-        "totalYards": 0,
-        "yardsPerGame": 351.143,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 12
-      },
-      "passing": {
-        "yards": 1382,
-        "yardsPerGame": 197.4,
-        "yardsPerAttempt": 7.4,
-        "completionPercentage": 63.7,
-        "touchdowns": 10,
-        "interceptions": 0,
-        "sacksAllowed": 17,
-        "quarterbackRating": 87.9
-      },
-      "rushing": {
-        "yards": 979,
-        "yardsPerGame": 139.9,
-        "yardsPerCarry": 4.8,
-        "touchdowns": 8,
-        "attempts": 206,
-        "firstDowns": 54
-      },
-      "receiving": {
-        "yards": 1479,
-        "yardsPerGame": 211.3,
-        "receptions": 128,
-        "touchdowns": 10,
-        "yardsPerReception": 11.6
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 17,
-        "interceptions": 3,
-        "takeaways": 9,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "5",
-      "name": "Cleveland Browns",
-      "abbreviation": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 133,
-        "pointsPerGame": 19,
-        "totalYards": 0,
-        "yardsPerGame": 318.429,
+        "yardsPerGame": 399.5,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
         "turnovers": 9
       },
       "passing": {
-        "yards": 1349,
-        "yardsPerGame": 192.7,
-        "yardsPerAttempt": 7,
-        "completionPercentage": 64.9,
-        "touchdowns": 7,
+        "yards": 1433,
+        "yardsPerGame": 238.8,
+        "yardsPerAttempt": 8.8,
+        "completionPercentage": 66.7,
+        "touchdowns": 9,
         "interceptions": 0,
-        "sacksAllowed": 20,
-        "quarterbackRating": 90.6
+        "sacksAllowed": 11,
+        "quarterbackRating": 102.1
       },
       "rushing": {
-        "yards": 747,
-        "yardsPerGame": 106.7,
-        "yardsPerCarry": 4.1,
-        "touchdowns": 6,
-        "attempts": 184,
-        "firstDowns": 39
+        "yards": 893,
+        "yardsPerGame": 148.8,
+        "yardsPerCarry": 5.1,
+        "touchdowns": 14,
+        "attempts": 176,
+        "firstDowns": 59
       },
       "receiving": {
-        "yards": 1482,
-        "yardsPerGame": 211.7,
-        "receptions": 137,
-        "touchdowns": 7,
-        "yardsPerReception": 10.8
+        "yards": 1504,
+        "yardsPerGame": 250.7,
+        "receptions": 114,
+        "touchdowns": 9,
+        "yardsPerReception": 13.2
       },
       "defense": {
         "pointsAllowed": 0,
@@ -382,9 +217,9 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 20,
-        "interceptions": 5,
-        "takeaways": 9,
+        "sacks": 11,
+        "interceptions": 3,
+        "takeaways": 6,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
@@ -439,336 +274,6 @@
         "rushingYardsAllowed": 0,
         "sacks": 17,
         "interceptions": 5,
-        "takeaways": 7,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "11",
-      "name": "Indianapolis Colts",
-      "abbreviation": "IND",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 154,
-        "pointsPerGame": 22,
-        "totalYards": 0,
-        "yardsPerGame": 317.286,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 12
-      },
-      "passing": {
-        "yards": 1263,
-        "yardsPerGame": 180.4,
-        "yardsPerAttempt": 5.8,
-        "completionPercentage": 59.6,
-        "touchdowns": 4,
-        "interceptions": 0,
-        "sacksAllowed": 13,
-        "quarterbackRating": 69.4
-      },
-      "rushing": {
-        "yards": 823,
-        "yardsPerGame": 117.6,
-        "yardsPerCarry": 4.1,
-        "touchdowns": 10,
-        "attempts": 200,
-        "firstDowns": 58
-      },
-      "receiving": {
-        "yards": 1398,
-        "yardsPerGame": 199.7,
-        "receptions": 143,
-        "touchdowns": 4,
-        "yardsPerReception": 9.8
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 13,
-        "interceptions": 2,
-        "takeaways": 3,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "16",
-      "name": "Minnesota Vikings",
-      "abbreviation": "MIN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "offense": {
-        "points": 125,
-        "pointsPerGame": 20.8,
-        "totalYards": 0,
-        "yardsPerGame": 300.667,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 4
-      },
-      "passing": {
-        "yards": 974,
-        "yardsPerGame": 162.3,
-        "yardsPerAttempt": 6.6,
-        "completionPercentage": 64.6,
-        "touchdowns": 6,
-        "interceptions": 0,
-        "sacksAllowed": 21,
-        "quarterbackRating": 90.7
-      },
-      "rushing": {
-        "yards": 716,
-        "yardsPerGame": 119.3,
-        "yardsPerCarry": 4,
-        "touchdowns": 3,
-        "attempts": 181,
-        "firstDowns": 34
-      },
-      "receiving": {
-        "yards": 1088,
-        "yardsPerGame": 181.3,
-        "receptions": 106,
-        "touchdowns": 6,
-        "yardsPerReception": 10.3
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 21,
-        "interceptions": 7,
-        "takeaways": 11,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "15",
-      "name": "Miami Dolphins",
-      "abbreviation": "MIA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "offense": {
-        "points": 98,
-        "pointsPerGame": 16.3,
-        "totalYards": 0,
-        "yardsPerGame": 307.667,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 8
-      },
-      "passing": {
-        "yards": 972,
-        "yardsPerGame": 162,
-        "yardsPerAttempt": 7,
-        "completionPercentage": 57.6,
-        "touchdowns": 4,
-        "interceptions": 0,
-        "sacksAllowed": 6,
-        "quarterbackRating": 77.1
-      },
-      "rushing": {
-        "yards": 789,
-        "yardsPerGame": 131.5,
-        "yardsPerCarry": 4.6,
-        "touchdowns": 7,
-        "attempts": 171,
-        "firstDowns": 44
-      },
-      "receiving": {
-        "yards": 1057,
-        "yardsPerGame": 176.2,
-        "receptions": 87,
-        "touchdowns": 4,
-        "yardsPerReception": 12.1
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 6,
-        "interceptions": 4,
-        "takeaways": 5,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "20",
-      "name": "New York Jets",
-      "abbreviation": "NYJ",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 137,
-        "pointsPerGame": 19.6,
-        "totalYards": 0,
-        "yardsPerGame": 328.286,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 5
-      },
-      "passing": {
-        "yards": 1446,
-        "yardsPerGame": 206.6,
-        "yardsPerAttempt": 7.8,
-        "completionPercentage": 70,
-        "touchdowns": 10,
-        "interceptions": 0,
-        "sacksAllowed": 19,
-        "quarterbackRating": 105.2
-      },
-      "rushing": {
-        "yards": 675,
-        "yardsPerGame": 96.4,
-        "yardsPerCarry": 3.8,
-        "touchdowns": 4,
-        "attempts": 179,
-        "firstDowns": 47
-      },
-      "receiving": {
-        "yards": 1623,
-        "yardsPerGame": 231.9,
-        "receptions": 145,
-        "touchdowns": 10,
-        "yardsPerReception": 11.2
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 19,
-        "interceptions": 1,
-        "takeaways": 8,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "27",
-      "name": "Tampa Bay Buccaneers",
-      "abbreviation": "TB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 162,
-        "pointsPerGame": 23.1,
-        "totalYards": 0,
-        "yardsPerGame": 315,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 11
-      },
-      "passing": {
-        "yards": 1053,
-        "yardsPerGame": 150.4,
-        "yardsPerAttempt": 5.8,
-        "completionPercentage": 62.4,
-        "touchdowns": 6,
-        "interceptions": 0,
-        "sacksAllowed": 16,
-        "quarterbackRating": 73.6
-      },
-      "rushing": {
-        "yards": 1025,
-        "yardsPerGame": 146.4,
-        "yardsPerCarry": 4.9,
-        "touchdowns": 8,
-        "attempts": 210,
-        "firstDowns": 58
-      },
-      "receiving": {
-        "yards": 1180,
-        "yardsPerGame": 168.6,
-        "receptions": 128,
-        "touchdowns": 6,
-        "yardsPerReception": 9.2
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 16,
-        "interceptions": 8,
-        "takeaways": 12,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "29",
-      "name": "Carolina Panthers",
-      "abbreviation": "CAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "offense": {
-        "points": 159,
-        "pointsPerGame": 26.5,
-        "totalYards": 0,
-        "yardsPerGame": 398.5,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 8
-      },
-      "passing": {
-        "yards": 1656,
-        "yardsPerGame": 276,
-        "yardsPerAttempt": 7.5,
-        "completionPercentage": 59.2,
-        "touchdowns": 12,
-        "interceptions": 0,
-        "sacksAllowed": 11,
-        "quarterbackRating": 92.9
-      },
-      "rushing": {
-        "yards": 632,
-        "yardsPerGame": 105.3,
-        "yardsPerCarry": 4.3,
-        "touchdowns": 6,
-        "attempts": 146,
-        "firstDowns": 39
-      },
-      "receiving": {
-        "yards": 1759,
-        "yardsPerGame": 293.2,
-        "receptions": 138,
-        "touchdowns": 12,
-        "yardsPerReception": 12.7
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 11,
-        "interceptions": 3,
         "takeaways": 7,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
@@ -830,226 +335,6 @@
       }
     },
     {
-      "teamId": "33",
-      "name": "Baltimore Ravens",
-      "abbreviation": "BAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 169,
-        "pointsPerGame": 24.1,
-        "totalYards": 0,
-        "yardsPerGame": 383.714,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 5
-      },
-      "passing": {
-        "yards": 1573,
-        "yardsPerGame": 224.7,
-        "yardsPerAttempt": 8.4,
-        "completionPercentage": 70.3,
-        "touchdowns": 10,
-        "interceptions": 0,
-        "sacksAllowed": 16,
-        "quarterbackRating": 108
-      },
-      "rushing": {
-        "yards": 992,
-        "yardsPerGame": 141.7,
-        "yardsPerCarry": 4.7,
-        "touchdowns": 9,
-        "attempts": 212,
-        "firstDowns": 51
-      },
-      "receiving": {
-        "yards": 1694,
-        "yardsPerGame": 242,
-        "receptions": 142,
-        "touchdowns": 10,
-        "yardsPerReception": 11.9
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 16,
-        "interceptions": 3,
-        "takeaways": 6,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "19",
-      "name": "New York Giants",
-      "abbreviation": "NYG",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 163,
-        "pointsPerGame": 23.3,
-        "totalYards": 0,
-        "yardsPerGame": 359.857,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 11
-      },
-      "passing": {
-        "yards": 1605,
-        "yardsPerGame": 229.3,
-        "yardsPerAttempt": 7.1,
-        "completionPercentage": 61,
-        "touchdowns": 11,
-        "interceptions": 0,
-        "sacksAllowed": 9,
-        "quarterbackRating": 87.2
-      },
-      "rushing": {
-        "yards": 817,
-        "yardsPerGame": 116.7,
-        "yardsPerCarry": 4.1,
-        "touchdowns": 6,
-        "attempts": 201,
-        "firstDowns": 49
-      },
-      "receiving": {
-        "yards": 1702,
-        "yardsPerGame": 243.1,
-        "receptions": 147,
-        "touchdowns": 11,
-        "yardsPerReception": 11.6
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 9,
-        "interceptions": 6,
-        "takeaways": 9,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "34",
-      "name": "Houston Texans",
-      "abbreviation": "HOU",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 165,
-        "pointsPerGame": 23.6,
-        "totalYards": 0,
-        "yardsPerGame": 351.429,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 3
-      },
-      "passing": {
-        "yards": 1774,
-        "yardsPerGame": 253.4,
-        "yardsPerAttempt": 7.5,
-        "completionPercentage": 64.5,
-        "touchdowns": 11,
-        "interceptions": 0,
-        "sacksAllowed": 21,
-        "quarterbackRating": 100.3
-      },
-      "rushing": {
-        "yards": 593,
-        "yardsPerGame": 84.7,
-        "yardsPerCarry": 3.6,
-        "touchdowns": 6,
-        "attempts": 167,
-        "firstDowns": 37
-      },
-      "receiving": {
-        "yards": 1867,
-        "yardsPerGame": 266.7,
-        "receptions": 160,
-        "touchdowns": 11,
-        "yardsPerReception": 11.7
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 21,
-        "interceptions": 3,
-        "takeaways": 6,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "7",
-      "name": "Denver Broncos",
-      "abbreviation": "DEN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 144,
-        "pointsPerGame": 20.6,
-        "totalYards": 0,
-        "yardsPerGame": 276.429,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 6
-      },
-      "passing": {
-        "yards": 1226,
-        "yardsPerGame": 175.1,
-        "yardsPerAttempt": 5.8,
-        "completionPercentage": 59.2,
-        "touchdowns": 7,
-        "interceptions": 0,
-        "sacksAllowed": 21,
-        "quarterbackRating": 80.7
-      },
-      "rushing": {
-        "yards": 664,
-        "yardsPerGame": 94.9,
-        "yardsPerCarry": 3.8,
-        "touchdowns": 7,
-        "attempts": 173,
-        "firstDowns": 41
-      },
-      "receiving": {
-        "yards": 1271,
-        "yardsPerGame": 181.6,
-        "receptions": 129,
-        "touchdowns": 7,
-        "yardsPerReception": 9.9
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 21,
-        "interceptions": 7,
-        "takeaways": 10,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
       "teamId": "22",
       "name": "Arizona Cardinals",
       "abbreviation": "ARI",
@@ -1105,45 +390,45 @@
       }
     },
     {
-      "teamId": "9",
-      "name": "Green Bay Packers",
-      "abbreviation": "GB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+      "teamId": "6",
+      "name": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
       "season": 2026,
       "gamesPlayed": 7,
       "offense": {
-        "points": 144,
-        "pointsPerGame": 20.6,
+        "points": 189,
+        "pointsPerGame": 27,
         "totalYards": 0,
-        "yardsPerGame": 339.571,
+        "yardsPerGame": 358.714,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 8
+        "turnovers": 7
       },
       "passing": {
-        "yards": 1880,
-        "yardsPerGame": 268.6,
-        "yardsPerAttempt": 7.3,
-        "completionPercentage": 60,
+        "yards": 1815,
+        "yardsPerGame": 259.3,
+        "yardsPerAttempt": 6.8,
+        "completionPercentage": 65.2,
         "touchdowns": 13,
         "interceptions": 0,
-        "sacksAllowed": 16,
-        "quarterbackRating": 90.6
+        "sacksAllowed": 10,
+        "quarterbackRating": 92.9
       },
       "rushing": {
-        "yards": 419,
-        "yardsPerGame": 59.9,
-        "yardsPerCarry": 2.9,
-        "touchdowns": 3,
-        "attempts": 144,
-        "firstDowns": 27
+        "yards": 660,
+        "yardsPerGame": 94.3,
+        "yardsPerCarry": 4.1,
+        "touchdowns": 9,
+        "attempts": 160,
+        "firstDowns": 44
       },
       "receiving": {
-        "yards": 1958,
-        "yardsPerGame": 279.7,
-        "receptions": 162,
+        "yards": 1851,
+        "yardsPerGame": 264.4,
+        "receptions": 178,
         "touchdowns": 13,
-        "yardsPerReception": 12.1
+        "yardsPerReception": 10.4
       },
       "defense": {
         "pointsAllowed": 0,
@@ -1152,9 +437,64 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 16,
-        "interceptions": 9,
-        "takeaways": 13,
+        "sacks": 10,
+        "interceptions": 2,
+        "takeaways": 4,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "16",
+      "name": "Minnesota Vikings",
+      "abbreviation": "MIN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "offense": {
+        "points": 125,
+        "pointsPerGame": 20.8,
+        "totalYards": 0,
+        "yardsPerGame": 300.667,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 4
+      },
+      "passing": {
+        "yards": 974,
+        "yardsPerGame": 162.3,
+        "yardsPerAttempt": 6.6,
+        "completionPercentage": 64.6,
+        "touchdowns": 6,
+        "interceptions": 0,
+        "sacksAllowed": 21,
+        "quarterbackRating": 90.7
+      },
+      "rushing": {
+        "yards": 716,
+        "yardsPerGame": 119.3,
+        "yardsPerCarry": 4,
+        "touchdowns": 3,
+        "attempts": 181,
+        "firstDowns": 34
+      },
+      "receiving": {
+        "yards": 1088,
+        "yardsPerGame": 181.3,
+        "receptions": 106,
+        "touchdowns": 6,
+        "yardsPerReception": 10.3
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 21,
+        "interceptions": 7,
+        "takeaways": 11,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
@@ -1209,61 +549,6 @@
         "rushingYardsAllowed": 0,
         "sacks": 21,
         "interceptions": 4,
-        "takeaways": 6,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "14",
-      "name": "Los Angeles Rams",
-      "abbreviation": "LAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 170,
-        "pointsPerGame": 24.3,
-        "totalYards": 0,
-        "yardsPerGame": 411,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 11
-      },
-      "passing": {
-        "yards": 1919,
-        "yardsPerGame": 274.1,
-        "yardsPerAttempt": 7.1,
-        "completionPercentage": 67.3,
-        "touchdowns": 14,
-        "interceptions": 0,
-        "sacksAllowed": 10,
-        "quarterbackRating": 94
-      },
-      "rushing": {
-        "yards": 875,
-        "yardsPerGame": 125,
-        "yardsPerCarry": 4.7,
-        "touchdowns": 8,
-        "attempts": 186,
-        "firstDowns": 53
-      },
-      "receiving": {
-        "yards": 2002,
-        "yardsPerGame": 286,
-        "receptions": 189,
-        "touchdowns": 14,
-        "yardsPerReception": 10.6
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 10,
-        "interceptions": 5,
         "takeaways": 6,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
@@ -1325,6 +610,501 @@
       }
     },
     {
+      "teamId": "20",
+      "name": "New York Jets",
+      "abbreviation": "NYJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 137,
+        "pointsPerGame": 19.6,
+        "totalYards": 0,
+        "yardsPerGame": 328.286,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 5
+      },
+      "passing": {
+        "yards": 1446,
+        "yardsPerGame": 206.6,
+        "yardsPerAttempt": 7.8,
+        "completionPercentage": 70,
+        "touchdowns": 10,
+        "interceptions": 0,
+        "sacksAllowed": 19,
+        "quarterbackRating": 105.2
+      },
+      "rushing": {
+        "yards": 675,
+        "yardsPerGame": 96.4,
+        "yardsPerCarry": 3.8,
+        "touchdowns": 4,
+        "attempts": 179,
+        "firstDowns": 47
+      },
+      "receiving": {
+        "yards": 1623,
+        "yardsPerGame": 231.9,
+        "receptions": 145,
+        "touchdowns": 10,
+        "yardsPerReception": 11.2
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 19,
+        "interceptions": 1,
+        "takeaways": 8,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "5",
+      "name": "Cleveland Browns",
+      "abbreviation": "CLE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 133,
+        "pointsPerGame": 19,
+        "totalYards": 0,
+        "yardsPerGame": 318.429,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 9
+      },
+      "passing": {
+        "yards": 1349,
+        "yardsPerGame": 192.7,
+        "yardsPerAttempt": 7,
+        "completionPercentage": 64.9,
+        "touchdowns": 7,
+        "interceptions": 0,
+        "sacksAllowed": 20,
+        "quarterbackRating": 90.6
+      },
+      "rushing": {
+        "yards": 747,
+        "yardsPerGame": 106.7,
+        "yardsPerCarry": 4.1,
+        "touchdowns": 6,
+        "attempts": 184,
+        "firstDowns": 39
+      },
+      "receiving": {
+        "yards": 1482,
+        "yardsPerGame": 211.7,
+        "receptions": 137,
+        "touchdowns": 7,
+        "yardsPerReception": 10.8
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 20,
+        "interceptions": 5,
+        "takeaways": 9,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "23",
+      "name": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 153,
+        "pointsPerGame": 21.9,
+        "totalYards": 0,
+        "yardsPerGame": 348.857,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 7
+      },
+      "passing": {
+        "yards": 1523,
+        "yardsPerGame": 217.6,
+        "yardsPerAttempt": 6.4,
+        "completionPercentage": 61.1,
+        "touchdowns": 13,
+        "interceptions": 0,
+        "sacksAllowed": 18,
+        "quarterbackRating": 88.2
+      },
+      "rushing": {
+        "yards": 743,
+        "yardsPerGame": 106.1,
+        "yardsPerCarry": 4.6,
+        "touchdowns": 1,
+        "attempts": 160,
+        "firstDowns": 44
+      },
+      "receiving": {
+        "yards": 1699,
+        "yardsPerGame": 242.7,
+        "receptions": 162,
+        "touchdowns": 13,
+        "yardsPerReception": 10.5
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 18,
+        "interceptions": 7,
+        "takeaways": 11,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "1",
+      "name": "Atlanta Falcons",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 171,
+        "pointsPerGame": 24.4,
+        "totalYards": 0,
+        "yardsPerGame": 351.143,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 12
+      },
+      "passing": {
+        "yards": 1382,
+        "yardsPerGame": 197.4,
+        "yardsPerAttempt": 7.4,
+        "completionPercentage": 63.7,
+        "touchdowns": 10,
+        "interceptions": 0,
+        "sacksAllowed": 17,
+        "quarterbackRating": 87.9
+      },
+      "rushing": {
+        "yards": 979,
+        "yardsPerGame": 139.9,
+        "yardsPerCarry": 4.8,
+        "touchdowns": 8,
+        "attempts": 206,
+        "firstDowns": 54
+      },
+      "receiving": {
+        "yards": 1479,
+        "yardsPerGame": 211.3,
+        "receptions": 128,
+        "touchdowns": 10,
+        "yardsPerReception": 11.6
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 17,
+        "interceptions": 3,
+        "takeaways": 9,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "27",
+      "name": "Tampa Bay Buccaneers",
+      "abbreviation": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 162,
+        "pointsPerGame": 23.1,
+        "totalYards": 0,
+        "yardsPerGame": 315,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 11
+      },
+      "passing": {
+        "yards": 1053,
+        "yardsPerGame": 150.4,
+        "yardsPerAttempt": 5.8,
+        "completionPercentage": 62.4,
+        "touchdowns": 6,
+        "interceptions": 0,
+        "sacksAllowed": 16,
+        "quarterbackRating": 73.6
+      },
+      "rushing": {
+        "yards": 1025,
+        "yardsPerGame": 146.4,
+        "yardsPerCarry": 4.9,
+        "touchdowns": 8,
+        "attempts": 210,
+        "firstDowns": 58
+      },
+      "receiving": {
+        "yards": 1180,
+        "yardsPerGame": 168.6,
+        "receptions": 128,
+        "touchdowns": 6,
+        "yardsPerReception": 9.2
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 16,
+        "interceptions": 8,
+        "takeaways": 12,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "11",
+      "name": "Indianapolis Colts",
+      "abbreviation": "IND",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 154,
+        "pointsPerGame": 22,
+        "totalYards": 0,
+        "yardsPerGame": 317.286,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 12
+      },
+      "passing": {
+        "yards": 1263,
+        "yardsPerGame": 180.4,
+        "yardsPerAttempt": 5.8,
+        "completionPercentage": 59.6,
+        "touchdowns": 4,
+        "interceptions": 0,
+        "sacksAllowed": 13,
+        "quarterbackRating": 69.4
+      },
+      "rushing": {
+        "yards": 823,
+        "yardsPerGame": 117.6,
+        "yardsPerCarry": 4.1,
+        "touchdowns": 10,
+        "attempts": 200,
+        "firstDowns": 58
+      },
+      "receiving": {
+        "yards": 1398,
+        "yardsPerGame": 199.7,
+        "receptions": 143,
+        "touchdowns": 4,
+        "yardsPerReception": 9.8
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 13,
+        "interceptions": 2,
+        "takeaways": 3,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "30",
+      "name": "Jacksonville Jaguars",
+      "abbreviation": "JAX",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "offense": {
+        "points": 154,
+        "pointsPerGame": 25.7,
+        "totalYards": 0,
+        "yardsPerGame": 359.5,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 4
+      },
+      "passing": {
+        "yards": 1409,
+        "yardsPerGame": 234.8,
+        "yardsPerAttempt": 8,
+        "completionPercentage": 65.2,
+        "touchdowns": 14,
+        "interceptions": 0,
+        "sacksAllowed": 11,
+        "quarterbackRating": 106.2
+      },
+      "rushing": {
+        "yards": 677,
+        "yardsPerGame": 112.8,
+        "yardsPerCarry": 4.1,
+        "touchdowns": 4,
+        "attempts": 167,
+        "firstDowns": 44
+      },
+      "receiving": {
+        "yards": 1480,
+        "yardsPerGame": 246.7,
+        "receptions": 120,
+        "touchdowns": 14,
+        "yardsPerReception": 12.3
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 11,
+        "interceptions": 7,
+        "takeaways": 9,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "24",
+      "name": "Los Angeles Chargers",
+      "abbreviation": "LAC",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "offense": {
+        "points": 90,
+        "pointsPerGame": 15,
+        "totalYards": 0,
+        "yardsPerGame": 309.167,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 15
+      },
+      "passing": {
+        "yards": 1009,
+        "yardsPerGame": 168.2,
+        "yardsPerAttempt": 6.3,
+        "completionPercentage": 59.1,
+        "touchdowns": 5,
+        "interceptions": 0,
+        "sacksAllowed": 11,
+        "quarterbackRating": 68.4
+      },
+      "rushing": {
+        "yards": 714,
+        "yardsPerGame": 119,
+        "yardsPerCarry": 4.2,
+        "touchdowns": 4,
+        "attempts": 169,
+        "firstDowns": 32
+      },
+      "receiving": {
+        "yards": 1141,
+        "yardsPerGame": 190.2,
+        "receptions": 107,
+        "touchdowns": 5,
+        "yardsPerReception": 10.7
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 11,
+        "interceptions": 5,
+        "takeaways": 10,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "14",
+      "name": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 170,
+        "pointsPerGame": 24.3,
+        "totalYards": 0,
+        "yardsPerGame": 411,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 11
+      },
+      "passing": {
+        "yards": 1919,
+        "yardsPerGame": 274.1,
+        "yardsPerAttempt": 7.1,
+        "completionPercentage": 67.3,
+        "touchdowns": 14,
+        "interceptions": 0,
+        "sacksAllowed": 10,
+        "quarterbackRating": 94
+      },
+      "rushing": {
+        "yards": 875,
+        "yardsPerGame": 125,
+        "yardsPerCarry": 4.7,
+        "touchdowns": 8,
+        "attempts": 186,
+        "firstDowns": 53
+      },
+      "receiving": {
+        "yards": 2002,
+        "yardsPerGame": 286,
+        "receptions": 189,
+        "touchdowns": 14,
+        "yardsPerReception": 10.6
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 10,
+        "interceptions": 5,
+        "takeaways": 6,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
       "teamId": "12",
       "name": "Kansas City Chiefs",
       "abbreviation": "KC",
@@ -1374,6 +1154,336 @@
         "rushingYardsAllowed": 0,
         "sacks": 8,
         "interceptions": 6,
+        "takeaways": 10,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "7",
+      "name": "Denver Broncos",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 144,
+        "pointsPerGame": 20.6,
+        "totalYards": 0,
+        "yardsPerGame": 276.429,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 6
+      },
+      "passing": {
+        "yards": 1226,
+        "yardsPerGame": 175.1,
+        "yardsPerAttempt": 5.8,
+        "completionPercentage": 59.2,
+        "touchdowns": 7,
+        "interceptions": 0,
+        "sacksAllowed": 21,
+        "quarterbackRating": 80.7
+      },
+      "rushing": {
+        "yards": 664,
+        "yardsPerGame": 94.9,
+        "yardsPerCarry": 3.8,
+        "touchdowns": 7,
+        "attempts": 173,
+        "firstDowns": 41
+      },
+      "receiving": {
+        "yards": 1271,
+        "yardsPerGame": 181.6,
+        "receptions": 129,
+        "touchdowns": 7,
+        "yardsPerReception": 9.9
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 21,
+        "interceptions": 7,
+        "takeaways": 10,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "17",
+      "name": "New England Patriots",
+      "abbreviation": "NE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 160,
+        "pointsPerGame": 22.9,
+        "totalYards": 0,
+        "yardsPerGame": 383.429,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 14
+      },
+      "passing": {
+        "yards": 1771,
+        "yardsPerGame": 253,
+        "yardsPerAttempt": 8.3,
+        "completionPercentage": 65.9,
+        "touchdowns": 13,
+        "interceptions": 0,
+        "sacksAllowed": 17,
+        "quarterbackRating": 96.2
+      },
+      "rushing": {
+        "yards": 854,
+        "yardsPerGame": 122,
+        "yardsPerCarry": 4.2,
+        "touchdowns": 5,
+        "attempts": 204,
+        "firstDowns": 50
+      },
+      "receiving": {
+        "yards": 1830,
+        "yardsPerGame": 261.4,
+        "receptions": 145,
+        "touchdowns": 13,
+        "yardsPerReception": 12.6
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 17,
+        "interceptions": 4,
+        "takeaways": 7,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "15",
+      "name": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "offense": {
+        "points": 98,
+        "pointsPerGame": 16.3,
+        "totalYards": 0,
+        "yardsPerGame": 307.667,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 8
+      },
+      "passing": {
+        "yards": 972,
+        "yardsPerGame": 162,
+        "yardsPerAttempt": 7,
+        "completionPercentage": 57.6,
+        "touchdowns": 4,
+        "interceptions": 0,
+        "sacksAllowed": 6,
+        "quarterbackRating": 77.1
+      },
+      "rushing": {
+        "yards": 789,
+        "yardsPerGame": 131.5,
+        "yardsPerCarry": 4.6,
+        "touchdowns": 7,
+        "attempts": 171,
+        "firstDowns": 44
+      },
+      "receiving": {
+        "yards": 1057,
+        "yardsPerGame": 176.2,
+        "receptions": 87,
+        "touchdowns": 4,
+        "yardsPerReception": 12.1
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 6,
+        "interceptions": 4,
+        "takeaways": 5,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "21",
+      "name": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 127,
+        "pointsPerGame": 18.1,
+        "totalYards": 0,
+        "yardsPerGame": 281.857,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 6
+      },
+      "passing": {
+        "yards": 1240,
+        "yardsPerGame": 177.1,
+        "yardsPerAttempt": 5.8,
+        "completionPercentage": 58.7,
+        "touchdowns": 10,
+        "interceptions": 0,
+        "sacksAllowed": 8,
+        "quarterbackRating": 80.4
+      },
+      "rushing": {
+        "yards": 614,
+        "yardsPerGame": 87.7,
+        "yardsPerCarry": 3.9,
+        "touchdowns": 6,
+        "attempts": 159,
+        "firstDowns": 33
+      },
+      "receiving": {
+        "yards": 1359,
+        "yardsPerGame": 194.1,
+        "receptions": 138,
+        "touchdowns": 10,
+        "yardsPerReception": 9.8
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 8,
+        "interceptions": 3,
+        "takeaways": 3,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "28",
+      "name": "Washington Commanders",
+      "abbreviation": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "offense": {
+        "points": 132,
+        "pointsPerGame": 22,
+        "totalYards": 0,
+        "yardsPerGame": 339.333,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 2
+      },
+      "passing": {
+        "yards": 1200,
+        "yardsPerGame": 200,
+        "yardsPerAttempt": 6.4,
+        "completionPercentage": 61.4,
+        "touchdowns": 10,
+        "interceptions": 0,
+        "sacksAllowed": 11,
+        "quarterbackRating": 94.2
+      },
+      "rushing": {
+        "yards": 751,
+        "yardsPerGame": 125.2,
+        "yardsPerCarry": 4.6,
+        "touchdowns": 4,
+        "attempts": 165,
+        "firstDowns": 39
+      },
+      "receiving": {
+        "yards": 1285,
+        "yardsPerGame": 214.2,
+        "receptions": 124,
+        "touchdowns": 10,
+        "yardsPerReception": 10.4
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 11,
+        "interceptions": 3,
+        "takeaways": 8,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "3",
+      "name": "Chicago Bears",
+      "abbreviation": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 180,
+        "pointsPerGame": 25.7,
+        "totalYards": 0,
+        "yardsPerGame": 409.143,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 11
+      },
+      "passing": {
+        "yards": 1655,
+        "yardsPerGame": 236.4,
+        "yardsPerAttempt": 7.4,
+        "completionPercentage": 68.5,
+        "touchdowns": 7,
+        "interceptions": 0,
+        "sacksAllowed": 19,
+        "quarterbackRating": 91
+      },
+      "rushing": {
+        "yards": 1080,
+        "yardsPerGame": 154.3,
+        "yardsPerCarry": 4.4,
+        "touchdowns": 14,
+        "attempts": 246,
+        "firstDowns": 55
+      },
+      "receiving": {
+        "yards": 1784,
+        "yardsPerGame": 254.9,
+        "receptions": 165,
+        "touchdowns": 7,
+        "yardsPerReception": 10.8
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 19,
+        "interceptions": 4,
         "takeaways": 10,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
@@ -1430,116 +1540,6 @@
         "sacks": 17,
         "interceptions": 8,
         "takeaways": 12,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "6",
-      "name": "Dallas Cowboys",
-      "abbreviation": "DAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "offense": {
-        "points": 151,
-        "pointsPerGame": 25.2,
-        "totalYards": 0,
-        "yardsPerGame": 349.167,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 7
-      },
-      "passing": {
-        "yards": 1603,
-        "yardsPerGame": 267.2,
-        "yardsPerAttempt": 6.7,
-        "completionPercentage": 66.3,
-        "touchdowns": 10,
-        "interceptions": 0,
-        "sacksAllowed": 8,
-        "quarterbackRating": 90.1
-      },
-      "rushing": {
-        "yards": 456,
-        "yardsPerGame": 76,
-        "yardsPerCarry": 3.7,
-        "touchdowns": 8,
-        "attempts": 122,
-        "firstDowns": 33
-      },
-      "receiving": {
-        "yards": 1639,
-        "yardsPerGame": 273.2,
-        "receptions": 163,
-        "touchdowns": 10,
-        "yardsPerReception": 10.1
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 8,
-        "interceptions": 1,
-        "takeaways": 3,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "21",
-      "name": "Philadelphia Eagles",
-      "abbreviation": "PHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "offense": {
-        "points": 106,
-        "pointsPerGame": 17.7,
-        "totalYards": 0,
-        "yardsPerGame": 273.5,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 5
-      },
-      "passing": {
-        "yards": 1040,
-        "yardsPerGame": 173.3,
-        "yardsPerAttempt": 5.7,
-        "completionPercentage": 57.5,
-        "touchdowns": 9,
-        "interceptions": 0,
-        "sacksAllowed": 8,
-        "quarterbackRating": 80.6
-      },
-      "rushing": {
-        "yards": 493,
-        "yardsPerGame": 82.2,
-        "yardsPerCarry": 3.7,
-        "touchdowns": 4,
-        "attempts": 134,
-        "firstDowns": 26
-      },
-      "receiving": {
-        "yards": 1148,
-        "yardsPerGame": 191.3,
-        "receptions": 115,
-        "touchdowns": 9,
-        "yardsPerReception": 10
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 8,
-        "interceptions": 3,
-        "takeaways": 3,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
