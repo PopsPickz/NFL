@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:25:41.139Z",
+  "updatedAt": "2026-10-30T16:54:32.851Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -43,37 +43,6 @@
       "rank": 1
     },
     {
-      "teamId": "29",
-      "team": "Carolina Panthers",
-      "abbreviation": "CAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "rating": 84.7,
-      "tier": "Excellent",
-      "stars": 4,
-      "metrics": {
-        "receivingYardsPerGame": 293.2,
-        "yardsPerReception": 12.7,
-        "receivingTouchdownsPerGame": 2,
-        "receptionsPerGame": 23,
-        "efficiencyBalance": 25.4
-      },
-      "breakdown": {
-        "yardsPerGame": 28.89,
-        "yardsPerReception": 22.22,
-        "touchdownsPerGame": 14.82,
-        "receptionsPerGame": 10.2,
-        "efficiencyBalance": 8.6
-      },
-      "reasons": [
-        "High receiving yard production",
-        "Strong big-play receiving efficiency",
-        "Balanced production and efficiency"
-      ],
-      "rank": 2
-    },
-    {
       "teamId": "13",
       "team": "Las Vegas Raiders",
       "abbreviation": "LV",
@@ -102,7 +71,7 @@
         "Strong receiving touchdown rate",
         "High-volume receiving attack"
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "teamId": "4",
@@ -133,7 +102,7 @@
         "Strong receiving touchdown rate",
         "High-volume receiving attack"
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "teamId": "9",
@@ -141,23 +110,54 @@
       "abbreviation": "GB",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
-      "gamesPlayed": 7,
-      "rating": 75.7,
+      "gamesPlayed": 8,
+      "rating": 76.7,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
-        "receivingYardsPerGame": 279.7,
-        "yardsPerReception": 12.1,
-        "receivingTouchdownsPerGame": 1.86,
-        "receptionsPerGame": 23.14,
-        "efficiencyBalance": 22.47
+        "receivingYardsPerGame": 280.8,
+        "yardsPerReception": 11.7,
+        "receivingTouchdownsPerGame": 2,
+        "receptionsPerGame": 24,
+        "efficiencyBalance": 23.4
       },
       "breakdown": {
-        "yardsPerGame": 25.76,
-        "yardsPerReception": 18.89,
+        "yardsPerGame": 26.02,
+        "yardsPerReception": 16.67,
+        "touchdownsPerGame": 14.82,
+        "receptionsPerGame": 11.4,
+        "efficiencyBalance": 7.75
+      },
+      "reasons": [
+        "High receiving yard production",
+        "High-volume receiving attack",
+        "Balanced production and efficiency"
+      ],
+      "rank": 4
+    },
+    {
+      "teamId": "29",
+      "team": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "rating": 76.5,
+      "tier": "Strong",
+      "stars": 4,
+      "metrics": {
+        "receivingYardsPerGame": 281.1,
+        "yardsPerReception": 12.2,
+        "receivingTouchdownsPerGame": 1.86,
+        "receptionsPerGame": 23,
+        "efficiencyBalance": 22.66
+      },
+      "breakdown": {
+        "yardsPerGame": 26.09,
+        "yardsPerReception": 19.44,
         "touchdownsPerGame": 13.33,
-        "receptionsPerGame": 10.37,
-        "efficiencyBalance": 7.35
+        "receptionsPerGame": 10.2,
+        "efficiencyBalance": 7.43
       },
       "reasons": [
         "High receiving yard production",

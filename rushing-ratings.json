@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:25:41.100Z",
+  "updatedAt": "2026-10-30T16:54:32.820Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -18,7 +18,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 92.2,
+      "rating": 92,
       "tier": "Elite",
       "stars": 5,
       "metrics": {
@@ -29,11 +29,11 @@
         "rushingAttemptsPerGame": 29.33
       },
       "breakdown": {
-        "yardsPerGame": 28.25,
+        "yardsPerGame": 28.24,
         "yardsPerCarry": 22.92,
         "touchdownsPerGame": 20,
         "firstDownsPerGame": 15,
-        "rushingVolume": 6.01
+        "rushingVolume": 5.82
       },
       "reasons": [
         "High rushing yard production",
@@ -49,7 +49,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 82.6,
+      "rating": 82.5,
       "tier": "Excellent",
       "stars": 4,
       "metrics": {
@@ -63,7 +63,7 @@
         "yardsPerGame": 30,
         "yardsPerCarry": 15.63,
         "touchdownsPerGame": 16.96,
-        "firstDownsPerGame": 10.04,
+        "firstDownsPerGame": 9.92,
         "rushingVolume": 10
       },
       "reasons": [
@@ -80,7 +80,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 75,
+      "rating": 74.8,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
@@ -91,11 +91,11 @@
         "rushingAttemptsPerGame": 30
       },
       "breakdown": {
-        "yardsPerGame": 27.49,
+        "yardsPerGame": 27.47,
         "yardsPerCarry": 20.83,
         "touchdownsPerGame": 9.13,
-        "firstDownsPerGame": 11.12,
-        "rushingVolume": 6.47
+        "firstDownsPerGame": 11.02,
+        "rushingVolume": 6.3
       },
       "reasons": [
         "High rushing yard production",
@@ -110,7 +110,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 74.1,
+      "rating": 73.7,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
@@ -121,11 +121,11 @@
         "rushingAttemptsPerGame": 26.83
       },
       "breakdown": {
-        "yardsPerGame": 25.93,
+        "yardsPerGame": 25.9,
         "yardsPerCarry": 25,
         "touchdownsPerGame": 9.35,
-        "firstDownsPerGame": 9.56,
-        "rushingVolume": 4.3
+        "firstDownsPerGame": 9.43,
+        "rushingVolume": 4.02
       },
       "reasons": [
         "High rushing yard production",
@@ -140,7 +140,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 70.5,
+      "rating": 70.1,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
@@ -151,11 +151,11 @@
         "rushingAttemptsPerGame": 30.29
       },
       "breakdown": {
-        "yardsPerGame": 26,
+        "yardsPerGame": 25.97,
         "yardsPerCarry": 18.75,
         "touchdownsPerGame": 10.44,
-        "firstDownsPerGame": 8.61,
-        "rushingVolume": 6.67
+        "firstDownsPerGame": 8.45,
+        "rushingVolume": 6.5
       },
       "reasons": [
         "High rushing yard production",
@@ -170,9 +170,9 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 70.1,
-      "tier": "Strong",
-      "stars": 4,
+      "rating": 69.8,
+      "tier": "Above Average",
+      "stars": 3,
       "metrics": {
         "rushingYardsPerGame": 139.9,
         "yardsPerCarry": 4.8,
@@ -181,11 +181,11 @@
         "rushingAttemptsPerGame": 29.43
       },
       "breakdown": {
-        "yardsPerGame": 25.42,
+        "yardsPerGame": 25.39,
         "yardsPerCarry": 19.79,
         "touchdownsPerGame": 9.13,
-        "firstDownsPerGame": 9.68,
-        "rushingVolume": 6.08
+        "firstDownsPerGame": 9.55,
+        "rushingVolume": 5.89
       },
       "reasons": [
         "High rushing yard production",
@@ -200,7 +200,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 64,
+      "rating": 63.6,
       "tier": "Above Average",
       "stars": 3,
       "metrics": {
@@ -211,11 +211,11 @@
         "rushingAttemptsPerGame": 28.5
       },
       "breakdown": {
-        "yardsPerGame": 22.75,
+        "yardsPerGame": 22.7,
         "yardsPerCarry": 17.71,
         "touchdownsPerGame": 9.35,
-        "firstDownsPerGame": 8.72,
-        "rushingVolume": 5.44
+        "firstDownsPerGame": 8.57,
+        "rushingVolume": 5.22
       },
       "reasons": [
         "High rushing yard production"
@@ -229,7 +229,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 62,
+      "rating": 61.5,
       "tier": "Above Average",
       "stars": 3,
       "metrics": {
@@ -240,11 +240,11 @@
         "rushingAttemptsPerGame": 26.57
       },
       "breakdown": {
-        "yardsPerGame": 20.69,
+        "yardsPerGame": 20.62,
         "yardsPerCarry": 18.75,
         "touchdownsPerGame": 9.13,
-        "firstDownsPerGame": 9.32,
-        "rushingVolume": 4.12
+        "firstDownsPerGame": 9.18,
+        "rushingVolume": 3.83
       },
       "reasons": [
         "Strong rushing efficiency"
@@ -258,7 +258,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 59.2,
+      "rating": 58.8,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -269,11 +269,11 @@
         "rushingAttemptsPerGame": 28.57
       },
       "breakdown": {
-        "yardsPerGame": 18.34,
+        "yardsPerGame": 18.25,
         "yardsPerCarry": 12.5,
         "touchdownsPerGame": 11.74,
-        "firstDownsPerGame": 11.12,
-        "rushingVolume": 5.49
+        "firstDownsPerGame": 11.02,
+        "rushingVolume": 5.27
       },
       "reasons": [
         "Balanced rushing profile"
@@ -287,7 +287,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 55.6,
+      "rating": 55.1,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -298,11 +298,11 @@
         "rushingAttemptsPerGame": 27.17
       },
       "breakdown": {
-        "yardsPerGame": 17.51,
+        "yardsPerGame": 17.42,
         "yardsPerCarry": 13.54,
         "touchdownsPerGame": 10.87,
-        "firstDownsPerGame": 9.14,
-        "rushingVolume": 4.53
+        "firstDownsPerGame": 9,
+        "rushingVolume": 4.26
       },
       "reasons": [
         "Balanced rushing profile"
@@ -316,7 +316,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 54.6,
+      "rating": 54.1,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -327,11 +327,11 @@
         "rushingAttemptsPerGame": 27.5
       },
       "breakdown": {
-        "yardsPerGame": 20.75,
+        "yardsPerGame": 20.68,
         "yardsPerCarry": 17.71,
         "touchdownsPerGame": 4.79,
-        "firstDownsPerGame": 6.63,
-        "rushingVolume": 4.76
+        "firstDownsPerGame": 6.43,
+        "rushingVolume": 4.5
       },
       "reasons": [
         "Balanced rushing profile"
@@ -345,7 +345,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 52.6,
+      "rating": 52.2,
       "tier": "Average",
       "stars": 3,
       "metrics": {
@@ -356,11 +356,11 @@
         "rushingAttemptsPerGame": 29.14
       },
       "breakdown": {
-        "yardsPerGame": 19.74,
+        "yardsPerGame": 19.66,
         "yardsPerCarry": 13.54,
         "touchdownsPerGame": 5.21,
-        "firstDownsPerGame": 8.25,
-        "rushingVolume": 5.88
+        "firstDownsPerGame": 8.08,
+        "rushingVolume": 5.68
       },
       "reasons": [
         "Balanced rushing profile"
@@ -374,7 +374,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 47.8,
+      "rating": 47.3,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -385,11 +385,11 @@
         "rushingAttemptsPerGame": 27.83
       },
       "breakdown": {
-        "yardsPerGame": 16.81,
+        "yardsPerGame": 16.71,
         "yardsPerCarry": 12.5,
         "touchdownsPerGame": 4.79,
-        "firstDownsPerGame": 8.72,
-        "rushingVolume": 4.98
+        "firstDownsPerGame": 8.57,
+        "rushingVolume": 4.74
       },
       "reasons": [
         "Balanced rushing profile"
@@ -403,7 +403,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 46.2,
+      "rating": 45.7,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -414,45 +414,16 @@
         "rushingAttemptsPerGame": 29.43
       },
       "breakdown": {
-        "yardsPerGame": 17.1,
+        "yardsPerGame": 17,
         "yardsPerCarry": 10.42,
         "touchdownsPerGame": 6.52,
-        "firstDownsPerGame": 6.1,
-        "rushingVolume": 6.08
+        "firstDownsPerGame": 5.88,
+        "rushingVolume": 5.89
       },
       "reasons": [
         "Balanced rushing profile"
       ],
       "rank": 14
-    },
-    {
-      "teamId": "29",
-      "team": "Carolina Panthers",
-      "abbreviation": "CAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "rating": 46.1,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "rushingYardsPerGame": 105.3,
-        "yardsPerCarry": 4.3,
-        "rushingTouchdownsPerGame": 1,
-        "rushingFirstDownsPerGame": 6.5,
-        "rushingAttemptsPerGame": 24.33
-      },
-      "breakdown": {
-        "yardsPerGame": 14.43,
-        "yardsPerCarry": 14.58,
-        "touchdownsPerGame": 7.83,
-        "firstDownsPerGame": 6.63,
-        "rushingVolume": 2.58
-      },
-      "reasons": [
-        "Balanced rushing profile"
-      ],
-      "rank": 15
     },
     {
       "teamId": "24",
@@ -461,7 +432,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 46,
+      "rating": 45.4,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -472,16 +443,16 @@
         "rushingAttemptsPerGame": 28.17
       },
       "breakdown": {
-        "yardsPerGame": 18.78,
+        "yardsPerGame": 18.7,
         "yardsPerCarry": 13.54,
         "touchdownsPerGame": 4.79,
-        "firstDownsPerGame": 3.7,
-        "rushingVolume": 5.21
+        "firstDownsPerGame": 3.43,
+        "rushingVolume": 4.98
       },
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 16
+      "rank": 15
     },
     {
       "teamId": "16",
@@ -490,7 +461,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 44.7,
+      "rating": 44.2,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -501,11 +472,40 @@
         "rushingAttemptsPerGame": 30.17
       },
       "breakdown": {
-        "yardsPerGame": 18.88,
+        "yardsPerGame": 18.79,
         "yardsPerCarry": 11.46,
         "touchdownsPerGame": 3.26,
-        "firstDownsPerGame": 4.54,
-        "rushingVolume": 6.59
+        "firstDownsPerGame": 4.29,
+        "rushingVolume": 6.42
+      },
+      "reasons": [
+        "Balanced rushing profile"
+      ],
+      "rank": 16
+    },
+    {
+      "teamId": "29",
+      "team": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "rating": 42.2,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "rushingYardsPerGame": 102,
+        "yardsPerCarry": 4.2,
+        "rushingTouchdownsPerGame": 1,
+        "rushingFirstDownsPerGame": 6.14,
+        "rushingAttemptsPerGame": 24.14
+      },
+      "breakdown": {
+        "yardsPerGame": 13.26,
+        "yardsPerCarry": 13.54,
+        "touchdownsPerGame": 7.83,
+        "firstDownsPerGame": 5.51,
+        "rushingVolume": 2.08
       },
       "reasons": [
         "Balanced rushing profile"
@@ -519,7 +519,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 42.1,
+      "rating": 41.4,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -530,11 +530,11 @@
         "rushingAttemptsPerGame": 26.29
       },
       "breakdown": {
-        "yardsPerGame": 14.87,
+        "yardsPerGame": 14.76,
         "yardsPerCarry": 12.5,
         "touchdownsPerGame": 6.52,
-        "firstDownsPerGame": 4.3,
-        "rushingVolume": 3.92
+        "firstDownsPerGame": 4.04,
+        "rushingVolume": 3.62
       },
       "reasons": [
         "Balanced rushing profile"
@@ -548,7 +548,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 41.5,
+      "rating": 40.8,
       "tier": "Below Average",
       "stars": 2,
       "metrics": {
@@ -559,11 +559,11 @@
         "rushingAttemptsPerGame": 22.86
       },
       "breakdown": {
-        "yardsPerGame": 10.93,
+        "yardsPerGame": 10.79,
         "yardsPerCarry": 12.5,
         "touchdownsPerGame": 10.44,
-        "firstDownsPerGame": 6.1,
-        "rushingVolume": 1.57
+        "firstDownsPerGame": 5.88,
+        "rushingVolume": 1.16
       },
       "reasons": [
         "Balanced rushing profile"
@@ -577,9 +577,9 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 40.1,
-      "tier": "Below Average",
-      "stars": 2,
+      "rating": 39.3,
+      "tier": "Weak",
+      "stars": 1,
       "metrics": {
         "rushingYardsPerGame": 106.1,
         "yardsPerCarry": 4.6,
@@ -588,11 +588,11 @@
         "rushingAttemptsPerGame": 22.86
       },
       "breakdown": {
-        "yardsPerGame": 14.68,
+        "yardsPerGame": 14.57,
         "yardsPerCarry": 17.71,
         "touchdownsPerGame": 0,
-        "firstDownsPerGame": 6.1,
-        "rushingVolume": 1.57
+        "firstDownsPerGame": 5.88,
+        "rushingVolume": 1.16
       },
       "reasons": [
         "Balanced rushing profile"
@@ -606,7 +606,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 36.2,
+      "rating": 35.5,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -617,11 +617,11 @@
         "rushingAttemptsPerGame": 24.71
       },
       "breakdown": {
-        "yardsPerGame": 11.12,
+        "yardsPerGame": 10.98,
         "yardsPerCarry": 9.38,
         "touchdownsPerGame": 7.83,
-        "firstDownsPerGame": 5.02,
-        "rushingVolume": 2.84
+        "firstDownsPerGame": 4.78,
+        "rushingVolume": 2.49
       },
       "reasons": [
         "Balanced rushing profile"
@@ -635,7 +635,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 35.5,
+      "rating": 34.8,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -646,11 +646,11 @@
         "rushingAttemptsPerGame": 25.57
       },
       "breakdown": {
-        "yardsPerGame": 11.6,
+        "yardsPerGame": 11.46,
         "yardsPerCarry": 9.38,
         "touchdownsPerGame": 3.91,
-        "firstDownsPerGame": 7.17,
-        "rushingVolume": 3.43
+        "firstDownsPerGame": 6.98,
+        "rushingVolume": 3.11
       },
       "reasons": [
         "Balanced rushing profile"
@@ -664,7 +664,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 32.1,
+      "rating": 31.2,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -675,11 +675,11 @@
         "rushingAttemptsPerGame": 23
       },
       "breakdown": {
-        "yardsPerGame": 9.92,
+        "yardsPerGame": 9.77,
         "yardsPerCarry": 11.46,
         "touchdownsPerGame": 6.52,
-        "firstDownsPerGame": 2.51,
-        "rushingVolume": 1.67
+        "firstDownsPerGame": 2.2,
+        "rushingVolume": 1.26
       },
       "reasons": [
         "Balanced rushing profile"
@@ -693,7 +693,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 30,
+      "rating": 29.3,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -704,11 +704,11 @@
         "rushingAttemptsPerGame": 25.86
       },
       "breakdown": {
-        "yardsPerGame": 11.47,
+        "yardsPerGame": 11.33,
         "yardsPerCarry": 8.33,
         "touchdownsPerGame": 2.61,
-        "firstDownsPerGame": 3.95,
-        "rushingVolume": 3.63
+        "firstDownsPerGame": 3.67,
+        "rushingVolume": 3.32
       },
       "reasons": [
         "Balanced rushing profile"
@@ -722,7 +722,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 29.4,
+      "rating": 28.5,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -733,11 +733,11 @@
         "rushingAttemptsPerGame": 22.71
       },
       "breakdown": {
-        "yardsPerGame": 8.83,
+        "yardsPerGame": 8.68,
         "yardsPerCarry": 10.42,
         "touchdownsPerGame": 6.52,
-        "firstDownsPerGame": 2.15,
-        "rushingVolume": 1.47
+        "firstDownsPerGame": 1.84,
+        "rushingVolume": 1.05
       },
       "reasons": [
         "Balanced rushing profile"
@@ -751,7 +751,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
       "season": 2026,
       "gamesPlayed": 6,
-      "rating": 23.9,
+      "rating": 23.1,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -762,11 +762,11 @@
         "rushingAttemptsPerGame": 22.33
       },
       "breakdown": {
-        "yardsPerGame": 6.77,
+        "yardsPerGame": 6.6,
         "yardsPerCarry": 7.29,
         "touchdownsPerGame": 3.26,
-        "firstDownsPerGame": 5.38,
-        "rushingVolume": 1.21
+        "firstDownsPerGame": 5.14,
+        "rushingVolume": 0.78
       },
       "reasons": [
         "Balanced rushing profile"
@@ -780,7 +780,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
       "season": 2026,
       "gamesPlayed": 7,
-      "rating": 11.6,
+      "rating": 10.8,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
@@ -791,11 +791,11 @@
         "rushingAttemptsPerGame": 24.86
       },
       "breakdown": {
-        "yardsPerGame": 4.7,
+        "yardsPerGame": 4.51,
         "yardsPerCarry": 1.04,
         "touchdownsPerGame": 2.61,
-        "firstDownsPerGame": 0.36,
-        "rushingVolume": 2.94
+        "firstDownsPerGame": 0,
+        "rushingVolume": 2.6
       },
       "reasons": [
         "Balanced rushing profile"
@@ -808,22 +808,22 @@
       "abbreviation": "GB",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
-      "gamesPlayed": 7,
-      "rating": 2.6,
+      "gamesPlayed": 8,
+      "rating": 3.6,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
-        "rushingYardsPerGame": 59.9,
+        "rushingYardsPerGame": 60.6,
         "yardsPerCarry": 2.9,
-        "rushingTouchdownsPerGame": 0.43,
-        "rushingFirstDownsPerGame": 3.86,
-        "rushingAttemptsPerGame": 20.57
+        "rushingTouchdownsPerGame": 0.5,
+        "rushingFirstDownsPerGame": 4.13,
+        "rushingAttemptsPerGame": 21.25
       },
       "breakdown": {
         "yardsPerGame": 0,
         "yardsPerCarry": 0,
-        "touchdownsPerGame": 2.61,
-        "firstDownsPerGame": 0,
+        "touchdownsPerGame": 3.26,
+        "firstDownsPerGame": 0.32,
         "rushingVolume": 0
       },
       "reasons": [

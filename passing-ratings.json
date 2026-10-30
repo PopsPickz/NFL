@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:25:41.062Z",
+  "updatedAt": "2026-10-30T16:54:32.789Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -304,37 +304,6 @@
       "rank": 9
     },
     {
-      "teamId": "29",
-      "team": "Carolina Panthers",
-      "abbreviation": "CAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "rating": 63,
-      "tier": "Above Average",
-      "stars": 3,
-      "metrics": {
-        "passingYardsPerGame": 276,
-        "quarterbackRating": 92.9,
-        "completionPercentage": 59.2,
-        "passingTouchdownsPerGame": 2,
-        "yardsPerAttempt": 7.5,
-        "sacksAllowedPerGame": 1.83
-      },
-      "breakdown": {
-        "yardsPerGame": 23.81,
-        "quarterbackRating": 13.89,
-        "completionPercentage": 1.7,
-        "touchdownsPerGame": 11.11,
-        "yardsPerAttempt": 5.81,
-        "protection": 6.67
-      },
-      "reasons": [
-        "Top-level passing yard production"
-      ],
-      "rank": 10
-    },
-    {
       "teamId": "12",
       "team": "Kansas City Chiefs",
       "abbreviation": "KC",
@@ -363,7 +332,7 @@
       "reasons": [
         "Good quarterback protection"
       ],
-      "rank": 11
+      "rank": 10
     },
     {
       "teamId": "20",
@@ -395,7 +364,7 @@
         "Strong quarterback efficiency",
         "High completion percentage"
       ],
-      "rank": 12
+      "rank": 11
     },
     {
       "teamId": "9",
@@ -403,28 +372,60 @@
       "abbreviation": "GB",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
-      "gamesPlayed": 7,
-      "rating": 57.6,
+      "gamesPlayed": 8,
+      "rating": 59.6,
       "tier": "Average",
       "stars": 3,
       "metrics": {
-        "passingYardsPerGame": 268.6,
-        "quarterbackRating": 90.6,
-        "completionPercentage": 60,
-        "passingTouchdownsPerGame": 1.86,
-        "yardsPerAttempt": 7.3,
-        "sacksAllowedPerGame": 2.29
+        "passingYardsPerGame": 271,
+        "quarterbackRating": 92.4,
+        "completionPercentage": 61.5,
+        "passingTouchdownsPerGame": 2,
+        "yardsPerAttempt": 7.2,
+        "sacksAllowedPerGame": 2.75
       },
       "breakdown": {
-        "yardsPerGame": 22.4,
-        "quarterbackRating": 12.59,
-        "completionPercentage": 2.55,
-        "touchdownsPerGame": 10,
-        "yardsPerAttempt": 5.16,
-        "protection": 4.86
+        "yardsPerGame": 22.86,
+        "quarterbackRating": 13.61,
+        "completionPercentage": 4.15,
+        "touchdownsPerGame": 11.11,
+        "yardsPerAttempt": 4.84,
+        "protection": 3
       },
       "reasons": [
         "Top-level passing yard production"
+      ],
+      "rank": 12
+    },
+    {
+      "teamId": "29",
+      "team": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "rating": 56.7,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 261.7,
+        "quarterbackRating": 89.2,
+        "completionPercentage": 58.8,
+        "passingTouchdownsPerGame": 1.86,
+        "yardsPerAttempt": 7.2,
+        "sacksAllowedPerGame": 1.57
+      },
+      "breakdown": {
+        "yardsPerGame": 21.1,
+        "quarterbackRating": 11.79,
+        "completionPercentage": 1.28,
+        "touchdownsPerGame": 10,
+        "yardsPerAttempt": 4.84,
+        "protection": 7.72
+      },
+      "reasons": [
+        "Top-level passing yard production",
+        "Good quarterback protection"
       ],
       "rank": 13
     },
