@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:58:04.330Z",
+  "updatedAt": "2026-11-01T21:01:37.740Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 28,
@@ -775,116 +775,6 @@
       }
     },
     {
-      "teamId": "1",
-      "name": "Atlanta Falcons",
-      "abbreviation": "ATL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 171,
-        "pointsPerGame": 24.4,
-        "totalYards": 0,
-        "yardsPerGame": 351.143,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 12
-      },
-      "passing": {
-        "yards": 1382,
-        "yardsPerGame": 197.4,
-        "yardsPerAttempt": 7.4,
-        "completionPercentage": 63.7,
-        "touchdowns": 10,
-        "interceptions": 0,
-        "sacksAllowed": 17,
-        "quarterbackRating": 87.9
-      },
-      "rushing": {
-        "yards": 979,
-        "yardsPerGame": 139.9,
-        "yardsPerCarry": 4.8,
-        "touchdowns": 8,
-        "attempts": 206,
-        "firstDowns": 54
-      },
-      "receiving": {
-        "yards": 1479,
-        "yardsPerGame": 211.3,
-        "receptions": 128,
-        "touchdowns": 10,
-        "yardsPerReception": 11.6
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 17,
-        "interceptions": 3,
-        "takeaways": 9,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "27",
-      "name": "Tampa Bay Buccaneers",
-      "abbreviation": "TB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 162,
-        "pointsPerGame": 23.1,
-        "totalYards": 0,
-        "yardsPerGame": 315,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 11
-      },
-      "passing": {
-        "yards": 1053,
-        "yardsPerGame": 150.4,
-        "yardsPerAttempt": 5.8,
-        "completionPercentage": 62.4,
-        "touchdowns": 6,
-        "interceptions": 0,
-        "sacksAllowed": 16,
-        "quarterbackRating": 73.6
-      },
-      "rushing": {
-        "yards": 1025,
-        "yardsPerGame": 146.4,
-        "yardsPerCarry": 4.9,
-        "touchdowns": 8,
-        "attempts": 210,
-        "firstDowns": 58
-      },
-      "receiving": {
-        "yards": 1180,
-        "yardsPerGame": 168.6,
-        "receptions": 128,
-        "touchdowns": 6,
-        "yardsPerReception": 9.2
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 16,
-        "interceptions": 8,
-        "takeaways": 12,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
       "teamId": "11",
       "name": "Indianapolis Colts",
       "abbreviation": "IND",
@@ -990,6 +880,116 @@
         "sacks": 11,
         "interceptions": 7,
         "takeaways": 9,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "1",
+      "name": "Atlanta Falcons",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 171,
+        "pointsPerGame": 24.4,
+        "totalYards": 0,
+        "yardsPerGame": 351.143,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 12
+      },
+      "passing": {
+        "yards": 1382,
+        "yardsPerGame": 197.4,
+        "yardsPerAttempt": 7.4,
+        "completionPercentage": 63.7,
+        "touchdowns": 10,
+        "interceptions": 0,
+        "sacksAllowed": 17,
+        "quarterbackRating": 87.9
+      },
+      "rushing": {
+        "yards": 979,
+        "yardsPerGame": 139.9,
+        "yardsPerCarry": 4.8,
+        "touchdowns": 8,
+        "attempts": 206,
+        "firstDowns": 54
+      },
+      "receiving": {
+        "yards": 1479,
+        "yardsPerGame": 211.3,
+        "receptions": 128,
+        "touchdowns": 10,
+        "yardsPerReception": 11.6
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 17,
+        "interceptions": 3,
+        "takeaways": 9,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "27",
+      "name": "Tampa Bay Buccaneers",
+      "abbreviation": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 162,
+        "pointsPerGame": 23.1,
+        "totalYards": 0,
+        "yardsPerGame": 315,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 11
+      },
+      "passing": {
+        "yards": 1053,
+        "yardsPerGame": 150.4,
+        "yardsPerAttempt": 5.8,
+        "completionPercentage": 62.4,
+        "touchdowns": 6,
+        "interceptions": 0,
+        "sacksAllowed": 16,
+        "quarterbackRating": 73.6
+      },
+      "rushing": {
+        "yards": 1025,
+        "yardsPerGame": 146.4,
+        "yardsPerCarry": 4.9,
+        "touchdowns": 8,
+        "attempts": 210,
+        "firstDowns": 58
+      },
+      "receiving": {
+        "yards": 1180,
+        "yardsPerGame": 168.6,
+        "receptions": 128,
+        "touchdowns": 6,
+        "yardsPerReception": 9.2
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 16,
+        "interceptions": 8,
+        "takeaways": 12,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
