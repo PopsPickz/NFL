@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:01:37.740Z",
+  "updatedAt": "2026-11-02T02:08:15.662Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 28,
@@ -775,116 +775,6 @@
       }
     },
     {
-      "teamId": "11",
-      "name": "Indianapolis Colts",
-      "abbreviation": "IND",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-      "season": 2026,
-      "gamesPlayed": 7,
-      "offense": {
-        "points": 154,
-        "pointsPerGame": 22,
-        "totalYards": 0,
-        "yardsPerGame": 317.286,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 12
-      },
-      "passing": {
-        "yards": 1263,
-        "yardsPerGame": 180.4,
-        "yardsPerAttempt": 5.8,
-        "completionPercentage": 59.6,
-        "touchdowns": 4,
-        "interceptions": 0,
-        "sacksAllowed": 13,
-        "quarterbackRating": 69.4
-      },
-      "rushing": {
-        "yards": 823,
-        "yardsPerGame": 117.6,
-        "yardsPerCarry": 4.1,
-        "touchdowns": 10,
-        "attempts": 200,
-        "firstDowns": 58
-      },
-      "receiving": {
-        "yards": 1398,
-        "yardsPerGame": 199.7,
-        "receptions": 143,
-        "touchdowns": 4,
-        "yardsPerReception": 9.8
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 13,
-        "interceptions": 2,
-        "takeaways": 3,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
-      "teamId": "30",
-      "name": "Jacksonville Jaguars",
-      "abbreviation": "JAX",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-      "season": 2026,
-      "gamesPlayed": 6,
-      "offense": {
-        "points": 154,
-        "pointsPerGame": 25.7,
-        "totalYards": 0,
-        "yardsPerGame": 359.5,
-        "thirdDownPercentage": 0,
-        "redZonePercentage": 0,
-        "turnovers": 4
-      },
-      "passing": {
-        "yards": 1409,
-        "yardsPerGame": 234.8,
-        "yardsPerAttempt": 8,
-        "completionPercentage": 65.2,
-        "touchdowns": 14,
-        "interceptions": 0,
-        "sacksAllowed": 11,
-        "quarterbackRating": 106.2
-      },
-      "rushing": {
-        "yards": 677,
-        "yardsPerGame": 112.8,
-        "yardsPerCarry": 4.1,
-        "touchdowns": 4,
-        "attempts": 167,
-        "firstDowns": 44
-      },
-      "receiving": {
-        "yards": 1480,
-        "yardsPerGame": 246.7,
-        "receptions": 120,
-        "touchdowns": 14,
-        "yardsPerReception": 12.3
-      },
-      "defense": {
-        "pointsAllowed": 0,
-        "pointsAllowedPerGame": 0,
-        "totalYardsAllowed": 0,
-        "yardsAllowedPerGame": 0,
-        "passingYardsAllowed": 0,
-        "rushingYardsAllowed": 0,
-        "sacks": 11,
-        "interceptions": 7,
-        "takeaways": 9,
-        "thirdDownPercentageAllowed": 0,
-        "redZonePercentageAllowed": 0
-      }
-    },
-    {
       "teamId": "1",
       "name": "Atlanta Falcons",
       "abbreviation": "ATL",
@@ -990,6 +880,116 @@
         "sacks": 16,
         "interceptions": 8,
         "takeaways": 12,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "11",
+      "name": "Indianapolis Colts",
+      "abbreviation": "IND",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+      "season": 2026,
+      "gamesPlayed": 7,
+      "offense": {
+        "points": 154,
+        "pointsPerGame": 22,
+        "totalYards": 0,
+        "yardsPerGame": 317.286,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 12
+      },
+      "passing": {
+        "yards": 1263,
+        "yardsPerGame": 180.4,
+        "yardsPerAttempt": 5.8,
+        "completionPercentage": 59.6,
+        "touchdowns": 4,
+        "interceptions": 0,
+        "sacksAllowed": 13,
+        "quarterbackRating": 69.4
+      },
+      "rushing": {
+        "yards": 823,
+        "yardsPerGame": 117.6,
+        "yardsPerCarry": 4.1,
+        "touchdowns": 10,
+        "attempts": 200,
+        "firstDowns": 58
+      },
+      "receiving": {
+        "yards": 1398,
+        "yardsPerGame": 199.7,
+        "receptions": 143,
+        "touchdowns": 4,
+        "yardsPerReception": 9.8
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 13,
+        "interceptions": 2,
+        "takeaways": 3,
+        "thirdDownPercentageAllowed": 0,
+        "redZonePercentageAllowed": 0
+      }
+    },
+    {
+      "teamId": "30",
+      "name": "Jacksonville Jaguars",
+      "abbreviation": "JAX",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+      "season": 2026,
+      "gamesPlayed": 6,
+      "offense": {
+        "points": 154,
+        "pointsPerGame": 25.7,
+        "totalYards": 0,
+        "yardsPerGame": 359.5,
+        "thirdDownPercentage": 0,
+        "redZonePercentage": 0,
+        "turnovers": 4
+      },
+      "passing": {
+        "yards": 1409,
+        "yardsPerGame": 234.8,
+        "yardsPerAttempt": 8,
+        "completionPercentage": 65.2,
+        "touchdowns": 14,
+        "interceptions": 0,
+        "sacksAllowed": 11,
+        "quarterbackRating": 106.2
+      },
+      "rushing": {
+        "yards": 677,
+        "yardsPerGame": 112.8,
+        "yardsPerCarry": 4.1,
+        "touchdowns": 4,
+        "attempts": 167,
+        "firstDowns": 44
+      },
+      "receiving": {
+        "yards": 1480,
+        "yardsPerGame": 246.7,
+        "receptions": 120,
+        "touchdowns": 14,
+        "yardsPerReception": 12.3
+      },
+      "defense": {
+        "pointsAllowed": 0,
+        "pointsAllowedPerGame": 0,
+        "totalYardsAllowed": 0,
+        "yardsAllowedPerGame": 0,
+        "passingYardsAllowed": 0,
+        "rushingYardsAllowed": 0,
+        "sacks": 11,
+        "interceptions": 7,
+        "takeaways": 9,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
