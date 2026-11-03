@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T23:49:26.460Z",
+  "updatedAt": "2026-11-03T03:50:50.780Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -691,7 +691,7 @@
         "color": "0b1c3a",
         "alternateColor": "e64100",
         "record": "5-2",
-        "score": 0,
+        "score": 20,
         "winner": false
       },
       "homeTeam": {
@@ -706,7 +706,7 @@
         "color": "002a5c",
         "alternateColor": "69be28",
         "record": "4-3",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "venue": "Lumen Field",
@@ -714,10 +714,10 @@
       "state": "WA",
       "network": "ESPN",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, November 2nd at 8:15 PM EST",
-        "shortDetail": "11/2 - 8:15 PM EST"
+        "detail": "9:01 - 4th Quarter",
+        "shortDetail": "9:01 - 4th"
       }
     }
   ]
