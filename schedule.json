@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:36:50.068Z",
+  "updatedAt": "2026-11-06T03:13:56.488Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "007487",
         "alternateColor": "d7a22a",
         "record": "5-2",
-        "score": 0,
+        "score": 20,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "29126f",
         "alternateColor": "000000",
         "record": "4-4",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "M&T Bank Stadium",
@@ -51,10 +51,10 @@
       "state": "MD",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, November 5th at 8:15 PM EST",
-        "shortDetail": "11/5 - 8:15 PM EST"
+        "detail": "5:50 - 3rd Quarter",
+        "shortDetail": "5:50 - 3rd"
       }
     },
     {
