@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:14:02.964Z",
+  "updatedAt": "2026-11-06T17:46:14.221Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -83,29 +83,28 @@
       "abbreviation": "JAX",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
       "season": 2026,
-      "gamesPlayed": 7,
-      "rating": 74.3,
+      "gamesPlayed": 8,
+      "rating": 73.4,
       "tier": "Strong",
       "stars": 4,
       "metrics": {
-        "passingYardsPerGame": 227.4,
-        "quarterbackRating": 111.5,
-        "completionPercentage": 65.2,
-        "passingTouchdownsPerGame": 2.43,
-        "yardsPerAttempt": 8.4,
-        "sacksAllowedPerGame": 2.14
+        "passingYardsPerGame": 229.3,
+        "quarterbackRating": 110.7,
+        "completionPercentage": 64.8,
+        "passingTouchdownsPerGame": 2.25,
+        "yardsPerAttempt": 8.5,
+        "sacksAllowedPerGame": 2
       },
       "breakdown": {
-        "yardsPerGame": 15.29,
-        "quarterbackRating": 24.94,
-        "completionPercentage": 6.76,
-        "touchdownsPerGame": 12.12,
-        "yardsPerAttempt": 9,
-        "protection": 6.15
+        "yardsPerGame": 15.59,
+        "quarterbackRating": 24.47,
+        "completionPercentage": 6.34,
+        "touchdownsPerGame": 10.92,
+        "yardsPerAttempt": 9.33,
+        "protection": 6.77
       },
       "reasons": [
         "Strong quarterback efficiency",
-        "Strong passing touchdown rate",
         "Creates explosive passing plays"
       ],
       "rank": 3
@@ -396,37 +395,6 @@
       "rank": 12
     },
     {
-      "teamId": "33",
-      "team": "Baltimore Ravens",
-      "abbreviation": "BAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-      "season": 2026,
-      "gamesPlayed": 8,
-      "rating": 56.6,
-      "tier": "Average",
-      "stars": 3,
-      "metrics": {
-        "passingYardsPerGame": 205.1,
-        "quarterbackRating": 100.1,
-        "completionPercentage": 67.5,
-        "passingTouchdownsPerGame": 1.25,
-        "yardsPerAttempt": 7.8,
-        "sacksAllowedPerGame": 2.13
-      },
-      "breakdown": {
-        "yardsPerGame": 11.74,
-        "quarterbackRating": 18.27,
-        "completionPercentage": 9.19,
-        "touchdownsPerGame": 4.2,
-        "yardsPerAttempt": 7,
-        "protection": 6.23
-      },
-      "reasons": [
-        "Balanced passing profile"
-      ],
-      "rank": 13
-    },
-    {
       "teamId": "9",
       "team": "Green Bay Packers",
       "abbreviation": "GB",
@@ -455,7 +423,7 @@
       "reasons": [
         "Top-level passing yard production"
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "teamId": "29",
@@ -487,7 +455,7 @@
         "Top-level passing yard production",
         "Good quarterback protection"
       ],
-      "rank": 15
+      "rank": 14
     },
     {
       "teamId": "3",
@@ -518,7 +486,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 16
+      "rank": 15
     },
     {
       "teamId": "18",
@@ -549,7 +517,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 17
+      "rank": 16
     },
     {
       "teamId": "19",
@@ -580,7 +548,7 @@
       "reasons": [
         "Good quarterback protection"
       ],
-      "rank": 18
+      "rank": 17
     },
     {
       "teamId": "26",
@@ -607,6 +575,37 @@
         "touchdownsPerGame": 7.56,
         "yardsPerAttempt": 5.67,
         "protection": 5.69
+      },
+      "reasons": [
+        "Balanced passing profile"
+      ],
+      "rank": 18
+    },
+    {
+      "teamId": "33",
+      "team": "Baltimore Ravens",
+      "abbreviation": "BAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+      "season": 2026,
+      "gamesPlayed": 9,
+      "rating": 48.7,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 188.4,
+        "quarterbackRating": 93.9,
+        "completionPercentage": 66.8,
+        "passingTouchdownsPerGame": 1.11,
+        "yardsPerAttempt": 7.5,
+        "sacksAllowedPerGame": 1.89
+      },
+      "breakdown": {
+        "yardsPerGame": 9.08,
+        "quarterbackRating": 14.64,
+        "completionPercentage": 8.45,
+        "touchdownsPerGame": 3.27,
+        "yardsPerAttempt": 6,
+        "protection": 7.25
       },
       "reasons": [
         "Balanced passing profile"

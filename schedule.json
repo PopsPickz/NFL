@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:13:56.488Z",
+  "updatedAt": "2026-11-06T17:46:08.785Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -27,9 +27,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
         "color": "007487",
         "alternateColor": "d7a22a",
-        "record": "5-2",
-        "score": 20,
-        "winner": false
+        "record": "6-2",
+        "score": 33,
+        "winner": true
       },
       "homeTeam": {
         "id": "33",
@@ -42,8 +42,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
         "color": "29126f",
         "alternateColor": "000000",
-        "record": "4-4",
-        "score": 3,
+        "record": "4-5",
+        "score": 10,
         "winner": false
       },
       "venue": "M&T Bank Stadium",
@@ -51,10 +51,10 @@
       "state": "MD",
       "network": "Prime Video",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "5:50 - 3rd Quarter",
-        "shortDetail": "5:50 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
