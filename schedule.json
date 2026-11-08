@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:52:47.612Z",
+  "updatedAt": "2026-11-08T21:00:01.746Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -78,9 +78,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
         "color": "fb4f14",
         "alternateColor": "000000",
-        "record": "5-2",
-        "score": 31,
-        "winner": false
+        "record": "6-2",
+        "score": 34,
+        "winner": true
       },
       "homeTeam": {
         "id": "1",
@@ -93,7 +93,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
         "color": "a71930",
         "alternateColor": "000000",
-        "record": "3-5",
+        "record": "3-6",
         "score": 17,
         "winner": false
       },
@@ -102,10 +102,10 @@
       "state": "",
       "network": "NFL Net",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "15:00 - 4th Quarter",
-        "shortDetail": "15:00 - 4th"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -130,7 +130,7 @@
         "color": "002a5c",
         "alternateColor": "b0b7bc",
         "record": "3-5",
-        "score": 0,
+        "score": 20,
         "winner": false
       },
       "homeTeam": {
@@ -145,7 +145,7 @@
         "color": "003b75",
         "alternateColor": "ffffff",
         "record": "2-6",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "venue": "Lucas Oil Stadium",
@@ -153,10 +153,10 @@
       "state": "IN",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "detail": "7:43 - 4th Quarter",
+        "shortDetail": "7:43 - 4th"
       }
     },
     {
@@ -181,7 +181,7 @@
         "color": "115740",
         "alternateColor": "ffffff",
         "record": "2-6",
-        "score": 0,
+        "score": 12,
         "winner": false
       },
       "homeTeam": {
@@ -196,7 +196,7 @@
         "color": "e31837",
         "alternateColor": "ffb612",
         "record": "5-2",
-        "score": 0,
+        "score": 35,
         "winner": false
       },
       "venue": "Arrowhead Stadium",
@@ -204,10 +204,10 @@
       "state": "MO",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "detail": "2:35 - 4th Quarter",
+        "shortDetail": "2:35 - 4th"
       }
     },
     {
@@ -231,9 +231,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
         "color": "0076b6",
         "alternateColor": "bbbbbb",
-        "record": "5-2",
-        "score": 0,
-        "winner": false
+        "record": "6-2",
+        "score": 19,
+        "winner": true
       },
       "homeTeam": {
         "id": "15",
@@ -246,19 +246,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
         "color": "008e97",
         "alternateColor": "fc4c02",
-        "record": "1-6",
-        "score": 0,
+        "record": "1-7",
+        "score": 9,
         "winner": false
       },
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "state": "FL",
-      "network": "Fox",
+      "network": "CBS",
       "status": {
-        "state": "pre",
-        "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
@@ -283,7 +283,7 @@
         "color": "472a08",
         "alternateColor": "ff3c00",
         "record": "5-3",
-        "score": 0,
+        "score": 13,
         "winner": false
       },
       "homeTeam": {
@@ -298,7 +298,7 @@
         "color": "d3bc8d",
         "alternateColor": "000000",
         "record": "2-5",
-        "score": 0,
+        "score": 16,
         "winner": false
       },
       "venue": "Caesars Superdome",
@@ -306,10 +306,10 @@
       "state": "LA",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "detail": "0:58 - 4th Quarter",
+        "shortDetail": "0:58 - 4th"
       }
     },
     {
@@ -334,7 +334,7 @@
         "color": "003c7f",
         "alternateColor": "c9243f",
         "record": "4-2-1",
-        "score": 0,
+        "score": 19,
         "winner": false
       },
       "homeTeam": {
@@ -349,7 +349,7 @@
         "color": "06424d",
         "alternateColor": "000000",
         "record": "2-6",
-        "score": 0,
+        "score": 8,
         "winner": false
       },
       "venue": "Lincoln Financial Field",
@@ -357,10 +357,10 @@
       "state": "PA",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "detail": "2:00 - 4th Quarter",
+        "shortDetail": "2:00 - 4th"
       }
     },
     {
@@ -385,7 +385,7 @@
         "color": "003594",
         "alternateColor": "ffd100",
         "record": "4-4",
-        "score": 0,
+        "score": 20,
         "winner": false
       },
       "homeTeam": {
@@ -400,7 +400,7 @@
         "color": "5a1414",
         "alternateColor": "ffb612",
         "record": "2-4-1",
-        "score": 0,
+        "score": 13,
         "winner": false
       },
       "venue": "Northwest Stadium",
@@ -408,10 +408,10 @@
       "state": "MD",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "detail": "1:44 - 4th Quarter",
+        "shortDetail": "1:44 - 4th"
       }
     },
     {
@@ -436,7 +436,7 @@
         "color": "0a2343",
         "alternateColor": "fc4c02",
         "record": "6-2",
-        "score": 0,
+        "score": 26,
         "winner": false
       },
       "homeTeam": {
@@ -451,7 +451,7 @@
         "color": "0085ca",
         "alternateColor": "000000",
         "record": "3-4",
-        "score": 0,
+        "score": 21,
         "winner": false
       },
       "venue": "Bank of America Stadium",
@@ -459,10 +459,10 @@
       "state": "NC",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 1:00 PM EST",
-        "shortDetail": "11/8 - 1:00 PM EST"
+        "detail": "3:05 - 4th Quarter",
+        "shortDetail": "3:05 - 4th"
       }
     },
     {
