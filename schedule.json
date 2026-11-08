@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:04:45.407Z",
+  "updatedAt": "2026-11-08T16:52:47.612Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "fb4f14",
         "alternateColor": "000000",
         "record": "5-2",
-        "score": 0,
+        "score": 31,
         "winner": false
       },
       "homeTeam": {
@@ -94,7 +94,7 @@
         "color": "a71930",
         "alternateColor": "000000",
         "record": "3-5",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "venue": "Santiago Bernabéu",
@@ -102,10 +102,10 @@
       "state": "",
       "network": "NFL Net",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 8th at 9:30 AM EST",
-        "shortDetail": "11/8 - 9:30 AM EST"
+        "detail": "15:00 - 4th Quarter",
+        "shortDetail": "15:00 - 4th"
       }
     },
     {
