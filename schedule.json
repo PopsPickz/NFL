@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T02:25:02.026Z",
+  "updatedAt": "2026-11-09T21:14:25.200Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -690,8 +690,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
         "color": "bd1c36",
         "alternateColor": "3e3a35",
-        "record": "3-5",
-        "score": 3,
+        "record": "3-6",
+        "score": 24,
         "winner": false
       },
       "homeTeam": {
@@ -705,19 +705,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
         "color": "0b1c3a",
         "alternateColor": "e64100",
-        "record": "6-2",
-        "score": 14,
-        "winner": false
+        "record": "7-2",
+        "score": 27,
+        "winner": true
       },
       "venue": "Soldier Field",
       "city": "Chicago",
       "state": "IL",
       "network": "NBC",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "5:18 - 2nd Quarter",
-        "shortDetail": "5:18 - 2nd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
