@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:29:42.961Z",
+  "updatedAt": "2026-11-10T18:23:42.679Z",
   "scheduleSeason": 2026,
   "statsSeason": 2026,
   "teamCount": 28,
@@ -450,40 +450,40 @@
       "abbreviation": "MIN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
       "season": 2026,
-      "gamesPlayed": 7,
+      "gamesPlayed": 8,
       "offense": {
-        "points": 140,
-        "pointsPerGame": 20,
+        "points": 146,
+        "pointsPerGame": 18.3,
         "totalYards": 0,
-        "yardsPerGame": 299.286,
+        "yardsPerGame": 285.625,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 5
+        "turnovers": 8
       },
       "passing": {
-        "yards": 1159,
-        "yardsPerGame": 165.6,
-        "yardsPerAttempt": 6.7,
-        "completionPercentage": 63.7,
+        "yards": 1286,
+        "yardsPerGame": 160.8,
+        "yardsPerAttempt": 6.4,
+        "completionPercentage": 60.9,
         "touchdowns": 8,
         "interceptions": 0,
-        "sacksAllowed": 25,
-        "quarterbackRating": 90.6
+        "sacksAllowed": 29,
+        "quarterbackRating": 82
       },
       "rushing": {
-        "yards": 797,
-        "yardsPerGame": 113.9,
+        "yards": 848,
+        "yardsPerGame": 106,
         "yardsPerCarry": 4,
         "touchdowns": 3,
-        "attempts": 199,
-        "firstDowns": 37
+        "attempts": 211,
+        "firstDowns": 38
       },
       "receiving": {
-        "yards": 1298,
-        "yardsPerGame": 185.4,
-        "receptions": 123,
+        "yards": 1437,
+        "yardsPerGame": 179.6,
+        "receptions": 137,
         "touchdowns": 8,
-        "yardsPerReception": 10.6
+        "yardsPerReception": 10.5
       },
       "defense": {
         "pointsAllowed": 0,
@@ -492,9 +492,9 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 25,
-        "interceptions": 8,
-        "takeaways": 12,
+        "sacks": 29,
+        "interceptions": 9,
+        "takeaways": 13,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
@@ -890,40 +890,40 @@
       "abbreviation": "BUF",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
       "season": 2026,
-      "gamesPlayed": 7,
+      "gamesPlayed": 8,
       "offense": {
-        "points": 233,
-        "pointsPerGame": 33.3,
+        "points": 256,
+        "pointsPerGame": 32,
         "totalYards": 0,
-        "yardsPerGame": 404.571,
+        "yardsPerGame": 400,
         "thirdDownPercentage": 0,
         "redZonePercentage": 0,
-        "turnovers": 11
+        "turnovers": 12
       },
       "passing": {
-        "yards": 1713,
-        "yardsPerGame": 244.7,
-        "yardsPerAttempt": 8.7,
-        "completionPercentage": 65.9,
-        "touchdowns": 11,
+        "yards": 1918,
+        "yardsPerGame": 239.8,
+        "yardsPerAttempt": 8.6,
+        "completionPercentage": 66.1,
+        "touchdowns": 12,
         "interceptions": 0,
-        "sacksAllowed": 15,
-        "quarterbackRating": 101.1
+        "sacksAllowed": 17,
+        "quarterbackRating": 99.3
       },
       "rushing": {
-        "yards": 1039,
-        "yardsPerGame": 148.4,
-        "yardsPerCarry": 4.8,
-        "touchdowns": 16,
-        "attempts": 217,
-        "firstDowns": 68
+        "yards": 1173,
+        "yardsPerGame": 146.6,
+        "yardsPerCarry": 4.5,
+        "touchdowns": 17,
+        "attempts": 261,
+        "firstDowns": 76
       },
       "receiving": {
-        "yards": 1793,
-        "yardsPerGame": 256.1,
-        "receptions": 135,
-        "touchdowns": 11,
-        "yardsPerReception": 13.3
+        "yards": 2027,
+        "yardsPerGame": 253.4,
+        "receptions": 156,
+        "touchdowns": 12,
+        "yardsPerReception": 13
       },
       "defense": {
         "pointsAllowed": 0,
@@ -932,9 +932,9 @@
         "yardsAllowedPerGame": 0,
         "passingYardsAllowed": 0,
         "rushingYardsAllowed": 0,
-        "sacks": 15,
-        "interceptions": 4,
-        "takeaways": 9,
+        "sacks": 17,
+        "interceptions": 6,
+        "takeaways": 12,
         "thirdDownPercentageAllowed": 0,
         "redZonePercentageAllowed": 0
       }
