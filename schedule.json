@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:39:17.984Z",
+  "updatedAt": "2026-11-13T03:11:18.890Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "5a1414",
         "alternateColor": "ffb612",
         "record": "2-5-1",
-        "score": 0,
+        "score": 17,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "003c7f",
         "alternateColor": "c9243f",
         "record": "5-2-1",
-        "score": 0,
+        "score": 14,
         "winner": false
       },
       "venue": "MetLife Stadium",
@@ -51,10 +51,10 @@
       "state": "NJ",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, November 12th at 8:15 PM EST",
-        "shortDetail": "11/12 - 8:15 PM EST"
+        "detail": "6:56 - 3rd Quarter",
+        "shortDetail": "6:56 - 3rd"
       }
     },
     {
