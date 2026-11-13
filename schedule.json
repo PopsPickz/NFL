@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:11:18.890Z",
+  "updatedAt": "2026-11-13T18:18:53.247Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -27,9 +27,9 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
         "color": "5a1414",
         "alternateColor": "ffb612",
-        "record": "2-5-1",
-        "score": 17,
-        "winner": false
+        "record": "3-5-1",
+        "score": 24,
+        "winner": true
       },
       "homeTeam": {
         "id": "19",
@@ -42,8 +42,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
         "color": "003c7f",
         "alternateColor": "c9243f",
-        "record": "5-2-1",
-        "score": 14,
+        "record": "5-3-1",
+        "score": 21,
         "winner": false
       },
       "venue": "MetLife Stadium",
@@ -51,10 +51,10 @@
       "state": "NJ",
       "network": "Prime Video",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "6:56 - 3rd Quarter",
-        "shortDetail": "6:56 - 3rd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {

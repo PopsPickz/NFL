@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:11:25.373Z",
+  "updatedAt": "2026-11-13T18:18:59.798Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -489,6 +489,68 @@
       "rank": 15
     },
     {
+      "teamId": "28",
+      "team": "Washington Commanders",
+      "abbreviation": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+      "season": 2026,
+      "gamesPlayed": 9,
+      "rating": 46.2,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 210.2,
+        "quarterbackRating": 95,
+        "completionPercentage": 62.5,
+        "passingTouchdownsPerGame": 1.67,
+        "yardsPerAttempt": 6.8,
+        "sacksAllowedPerGame": 2
+      },
+      "breakdown": {
+        "yardsPerGame": 9.9,
+        "quarterbackRating": 14.17,
+        "completionPercentage": 3.94,
+        "touchdownsPerGame": 6.79,
+        "yardsPerAttempt": 3.79,
+        "protection": 7.65
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 16
+    },
+    {
+      "teamId": "19",
+      "team": "New York Giants",
+      "abbreviation": "NYG",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+      "season": 2026,
+      "gamesPlayed": 9,
+      "rating": 45.8,
+      "tier": "Below Average",
+      "stars": 2,
+      "metrics": {
+        "passingYardsPerGame": 227.9,
+        "quarterbackRating": 88.3,
+        "completionPercentage": 61.8,
+        "passingTouchdownsPerGame": 1.44,
+        "yardsPerAttempt": 7.2,
+        "sacksAllowedPerGame": 1.89
+      },
+      "breakdown": {
+        "yardsPerGame": 13.45,
+        "quarterbackRating": 10.5,
+        "completionPercentage": 3.27,
+        "touchdownsPerGame": 5.28,
+        "yardsPerAttempt": 5.17,
+        "protection": 8.17
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 17
+    },
+    {
       "teamId": "26",
       "team": "Seattle Seahawks",
       "abbreviation": "SEA",
@@ -517,7 +579,7 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 16
+      "rank": 18
     },
     {
       "teamId": "33",
@@ -547,68 +609,6 @@
       },
       "reasons": [
         "Good quarterback protection"
-      ],
-      "rank": 17
-    },
-    {
-      "teamId": "19",
-      "team": "New York Giants",
-      "abbreviation": "NYG",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-      "season": 2026,
-      "gamesPlayed": 8,
-      "rating": 43.9,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "passingYardsPerGame": 221,
-        "quarterbackRating": 88.5,
-        "completionPercentage": 61.6,
-        "passingTouchdownsPerGame": 1.5,
-        "yardsPerAttempt": 7.1,
-        "sacksAllowedPerGame": 2
-      },
-      "breakdown": {
-        "yardsPerGame": 12.07,
-        "quarterbackRating": 10.61,
-        "completionPercentage": 3.08,
-        "touchdownsPerGame": 5.66,
-        "yardsPerAttempt": 4.83,
-        "protection": 7.65
-      },
-      "reasons": [
-        "Good quarterback protection"
-      ],
-      "rank": 18
-    },
-    {
-      "teamId": "28",
-      "team": "Washington Commanders",
-      "abbreviation": "WSH",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-      "season": 2026,
-      "gamesPlayed": 8,
-      "rating": 42.7,
-      "tier": "Below Average",
-      "stars": 2,
-      "metrics": {
-        "passingYardsPerGame": 207.1,
-        "quarterbackRating": 94.8,
-        "completionPercentage": 61.7,
-        "passingTouchdownsPerGame": 1.5,
-        "yardsPerAttempt": 6.7,
-        "sacksAllowedPerGame": 2.13
-      },
-      "breakdown": {
-        "yardsPerGame": 9.28,
-        "quarterbackRating": 14.06,
-        "completionPercentage": 3.17,
-        "touchdownsPerGame": 5.66,
-        "yardsPerAttempt": 3.45,
-        "protection": 7.06
-      },
-      "reasons": [
-        "Balanced passing profile"
       ],
       "rank": 19
     },
