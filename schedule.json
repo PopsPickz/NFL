@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:25:12.464Z",
+  "updatedAt": "2026-11-15T17:30:33.756Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "002a5c",
         "alternateColor": "c60c30",
         "record": "5-4",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "homeTeam": {
@@ -94,7 +94,7 @@
         "color": "0076b6",
         "alternateColor": "bbbbbb",
         "record": "6-2",
-        "score": 0,
+        "score": 35,
         "winner": false
       },
       "venue": "FC Bayern Munich Stadium",
@@ -102,10 +102,10 @@
       "state": "",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 15th at 9:30 AM EST",
-        "shortDetail": "11/15 - 9:30 AM EST"
+        "detail": "3:28 - 4th Quarter",
+        "shortDetail": "3:28 - 4th"
       }
     },
     {
