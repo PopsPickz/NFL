@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:35:35.161Z",
+  "updatedAt": "2026-11-16T20:45:21.883Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -639,8 +639,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
         "color": "000000",
         "alternateColor": "ffb612",
-        "record": "6-2",
-        "score": 0,
+        "record": "6-3",
+        "score": 18,
         "winner": false
       },
       "homeTeam": {
@@ -654,19 +654,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
         "color": "fb4f14",
         "alternateColor": "000000",
-        "record": "6-2",
-        "score": 17,
-        "winner": false
+        "record": "7-2",
+        "score": 38,
+        "winner": true
       },
       "venue": "Paycor Stadium",
       "city": "Cincinnati",
       "state": "OH",
       "network": "NBC",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "2:00 - 2nd Quarter",
-        "shortDetail": "2:00 - 2nd"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
