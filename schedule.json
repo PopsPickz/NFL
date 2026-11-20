@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T23:27:17.008Z",
+  "updatedAt": "2026-11-20T03:52:49.995Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -28,7 +28,7 @@
         "color": "003b75",
         "alternateColor": "ffffff",
         "record": "3-7",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "homeTeam": {
@@ -43,7 +43,7 @@
         "color": "021018",
         "alternateColor": "eb0028",
         "record": "3-6",
-        "score": 0,
+        "score": 26,
         "winner": false
       },
       "venue": "Reliant Stadium",
@@ -51,10 +51,10 @@
       "state": "TX",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, November 19th at 8:15 PM EST",
-        "shortDetail": "11/19 - 8:15 PM EST"
+        "detail": "7:51 - 4th Quarter",
+        "shortDetail": "7:51 - 4th"
       }
     },
     {
