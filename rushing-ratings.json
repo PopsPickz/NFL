@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:52:55.720Z",
+  "updatedAt": "2026-11-20T18:55:40.910Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -229,23 +229,23 @@
       "abbreviation": "IND",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
       "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 57.4,
-      "tier": "Average",
-      "stars": 3,
+      "gamesPlayed": 11,
+      "rating": 49.9,
+      "tier": "Below Average",
+      "stars": 2,
       "metrics": {
-        "rushingYardsPerGame": 120.9,
-        "yardsPerCarry": 4.3,
-        "rushingTouchdownsPerGame": 1.2,
-        "rushingFirstDownsPerGame": 8,
-        "rushingAttemptsPerGame": 28.3
+        "rushingYardsPerGame": 113.4,
+        "yardsPerCarry": 4.2,
+        "rushingTouchdownsPerGame": 1.09,
+        "rushingFirstDownsPerGame": 7.36,
+        "rushingAttemptsPerGame": 27.27
       },
       "breakdown": {
-        "yardsPerGame": 16.16,
-        "yardsPerCarry": 16.67,
-        "touchdownsPerGame": 8.78,
-        "firstDownsPerGame": 10.34,
-        "rushingVolume": 5.44
+        "yardsPerGame": 13.74,
+        "yardsPerCarry": 15.48,
+        "touchdownsPerGame": 7.59,
+        "firstDownsPerGame": 8.56,
+        "rushingVolume": 4.57
       },
       "reasons": [
         "Balanced rushing profile"
@@ -630,6 +630,35 @@
       "rank": 21
     },
     {
+      "teamId": "34",
+      "team": "Houston Texans",
+      "abbreviation": "HOU",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+      "season": 2026,
+      "gamesPlayed": 10,
+      "rating": 25.8,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "rushingYardsPerGame": 95.2,
+        "yardsPerCarry": 3.7,
+        "rushingTouchdownsPerGame": 0.6,
+        "rushingFirstDownsPerGame": 5.4,
+        "rushingAttemptsPerGame": 25.6
+      },
+      "breakdown": {
+        "yardsPerGame": 7.89,
+        "yardsPerCarry": 9.52,
+        "touchdownsPerGame": 2.2,
+        "firstDownsPerGame": 3.07,
+        "rushingVolume": 3.15
+      },
+      "reasons": [
+        "Balanced rushing profile"
+      ],
+      "rank": 22
+    },
+    {
       "teamId": "22",
       "team": "Arizona Cardinals",
       "abbreviation": "ARI",
@@ -656,7 +685,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 22
+      "rank": 23
     },
     {
       "teamId": "4",
@@ -685,7 +714,7 @@
       "reasons": [
         "Balanced rushing profile"
       ],
-      "rank": 23
+      "rank": 24
     },
     {
       "teamId": "21",
@@ -710,35 +739,6 @@
         "touchdownsPerGame": 5.37,
         "firstDownsPerGame": 1.34,
         "rushingVolume": 1.51
-      },
-      "reasons": [
-        "Balanced rushing profile"
-      ],
-      "rank": 24
-    },
-    {
-      "teamId": "34",
-      "team": "Houston Texans",
-      "abbreviation": "HOU",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-      "season": 2026,
-      "gamesPlayed": 9,
-      "rating": 20.9,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "rushingYardsPerGame": 87.2,
-        "yardsPerCarry": 3.6,
-        "rushingTouchdownsPerGame": 0.67,
-        "rushingFirstDownsPerGame": 5.11,
-        "rushingAttemptsPerGame": 24.33
-      },
-      "breakdown": {
-        "yardsPerGame": 5.31,
-        "yardsPerCarry": 8.33,
-        "touchdownsPerGame": 2.93,
-        "firstDownsPerGame": 2.27,
-        "rushingVolume": 2.08
       },
       "reasons": [
         "Balanced rushing profile"

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:52:49.995Z",
+  "updatedAt": "2026-11-20T18:55:34.527Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -27,7 +27,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
         "color": "003b75",
         "alternateColor": "ffffff",
-        "record": "3-7",
+        "record": "3-8",
         "score": 3,
         "winner": false
       },
@@ -42,19 +42,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
         "color": "021018",
         "alternateColor": "eb0028",
-        "record": "3-6",
+        "record": "4-6",
         "score": 26,
-        "winner": false
+        "winner": true
       },
       "venue": "Reliant Stadium",
       "city": "Houston",
       "state": "TX",
       "network": "Prime Video",
       "status": {
-        "state": "in",
-        "completed": false,
-        "detail": "7:51 - 4th Quarter",
-        "shortDetail": "7:51 - 4th"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
