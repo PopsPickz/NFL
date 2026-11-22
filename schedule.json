@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:50:38.425Z",
+  "updatedAt": "2026-11-22T18:10:13.452Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -94,7 +94,7 @@
         "color": "00338d",
         "alternateColor": "d50a0a",
         "record": "8-1",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Highmark Stadium",
@@ -102,10 +102,10 @@
       "state": "NY",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "11:04 - 1st Quarter",
+        "shortDetail": "11:04 - 1st"
       }
     },
     {
@@ -145,7 +145,7 @@
         "color": "0b1c3a",
         "alternateColor": "e64100",
         "record": "7-2",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Soldier Field",
@@ -153,10 +153,10 @@
       "state": "IL",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "10:43 - 1st Quarter",
+        "shortDetail": "10:43 - 1st"
       }
     },
     {
@@ -204,10 +204,10 @@
       "state": "TX",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "10:19 - 1st Quarter",
+        "shortDetail": "10:19 - 1st"
       }
     },
     {
@@ -255,10 +255,10 @@
       "state": "MI",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "12:46 - 1st Quarter",
+        "shortDetail": "12:46 - 1st"
       }
     },
     {
@@ -306,10 +306,10 @@
       "state": "MO",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "10:31 - 1st Quarter",
+        "shortDetail": "10:31 - 1st"
       }
     },
     {
@@ -349,7 +349,7 @@
         "color": "06424d",
         "alternateColor": "000000",
         "record": "2-7",
-        "score": 0,
+        "score": 3,
         "winner": false
       },
       "venue": "Lincoln Financial Field",
@@ -357,10 +357,10 @@
       "state": "PA",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "10:01 - 1st Quarter",
+        "shortDetail": "10:01 - 1st"
       }
     },
     {
@@ -385,7 +385,7 @@
         "color": "29126f",
         "alternateColor": "000000",
         "record": "4-6",
-        "score": 0,
+        "score": 2,
         "winner": false
       },
       "homeTeam": {
@@ -408,10 +408,10 @@
       "state": "NC",
       "network": "Fox",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "detail": "12:22 - 1st Quarter",
+        "shortDetail": "12:22 - 1st"
       }
     },
     {
