@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:21:29.926Z",
+  "updatedAt": "2026-11-24T03:11:53.514Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -640,7 +640,7 @@
         "color": "fb4f14",
         "alternateColor": "000000",
         "record": "7-2",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "homeTeam": {
@@ -655,7 +655,7 @@
         "color": "5a1414",
         "alternateColor": "ffb612",
         "record": "3-5-1",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "venue": "Northwest Stadium",
@@ -663,10 +663,10 @@
       "state": "MD",
       "network": "ESPN",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Mon, November 23rd at 8:15 PM EST",
-        "shortDetail": "11/23 - 8:15 PM EST"
+        "detail": "10:57 - 3rd Quarter",
+        "shortDetail": "10:57 - 3rd"
       }
     }
   ]
