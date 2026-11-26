@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:42:55.039Z",
+  "updatedAt": "2026-11-26T19:56:06.739Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -79,7 +79,7 @@
         "color": "0b1c3a",
         "alternateColor": "e64100",
         "record": "8-2",
-        "score": 0,
+        "score": 10,
         "winner": false
       },
       "homeTeam": {
@@ -94,7 +94,7 @@
         "color": "0076b6",
         "alternateColor": "bbbbbb",
         "record": "8-2",
-        "score": 0,
+        "score": 19,
         "winner": false
       },
       "venue": "Ford Field",
@@ -102,10 +102,10 @@
       "state": "MI",
       "network": "CBS",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "detail": "Thu, November 26th at 1:00 PM EST",
-        "shortDetail": "11/26 - 1:00 PM EST"
+        "detail": "Halftime",
+        "shortDetail": "Halftime"
       }
     },
     {

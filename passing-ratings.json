@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:43:01.076Z",
+  "updatedAt": "2026-11-26T19:56:14.104Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -208,37 +208,6 @@
       "rank": 6
     },
     {
-      "teamId": "9",
-      "team": "Green Bay Packers",
-      "abbreviation": "GB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-      "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 60.6,
-      "tier": "Above Average",
-      "stars": 3,
-      "metrics": {
-        "passingYardsPerGame": 268.1,
-        "quarterbackRating": 96.7,
-        "completionPercentage": 63,
-        "passingTouchdownsPerGame": 2,
-        "yardsPerAttempt": 7.7,
-        "sacksAllowedPerGame": 2.9
-      },
-      "breakdown": {
-        "yardsPerGame": 20.29,
-        "quarterbackRating": 14.84,
-        "completionPercentage": 6.11,
-        "touchdownsPerGame": 9.04,
-        "yardsPerAttempt": 6.18,
-        "protection": 4.09
-      },
-      "reasons": [
-        "Top-level passing yard production"
-      ],
-      "rank": 7
-    },
-    {
       "teamId": "34",
       "team": "Houston Texans",
       "abbreviation": "HOU",
@@ -267,38 +236,38 @@
       "reasons": [
         "Balanced passing profile"
       ],
-      "rank": 8
+      "rank": 7
     },
     {
-      "teamId": "14",
-      "team": "Los Angeles Rams",
-      "abbreviation": "LAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "teamId": "9",
+      "team": "Green Bay Packers",
+      "abbreviation": "GB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
       "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 60,
-      "tier": "Above Average",
+      "gamesPlayed": 11,
+      "rating": 57.8,
+      "tier": "Average",
       "stars": 3,
       "metrics": {
-        "passingYardsPerGame": 252.4,
-        "quarterbackRating": 92.7,
-        "completionPercentage": 66.7,
-        "passingTouchdownsPerGame": 1.9,
-        "yardsPerAttempt": 7,
-        "sacksAllowedPerGame": 2.1
+        "passingYardsPerGame": 260.9,
+        "quarterbackRating": 94.2,
+        "completionPercentage": 62.7,
+        "passingTouchdownsPerGame": 1.91,
+        "yardsPerAttempt": 7.6,
+        "sacksAllowedPerGame": 2.73
       },
       "breakdown": {
-        "yardsPerGame": 17.74,
-        "quarterbackRating": 12.95,
-        "completionPercentage": 9.05,
-        "touchdownsPerGame": 8.37,
-        "yardsPerAttempt": 4.12,
-        "protection": 7.73
+        "yardsPerGame": 19.12,
+        "quarterbackRating": 13.66,
+        "completionPercentage": 5.87,
+        "touchdownsPerGame": 8.43,
+        "yardsPerAttempt": 5.88,
+        "protection": 4.88
       },
       "reasons": [
-        "Good quarterback protection"
+        "Top-level passing yard production"
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "teamId": "13",
@@ -325,6 +294,37 @@
         "touchdownsPerGame": 9.64,
         "yardsPerAttempt": 4.71,
         "protection": 7.77
+      },
+      "reasons": [
+        "Good quarterback protection"
+      ],
+      "rank": 9
+    },
+    {
+      "teamId": "14",
+      "team": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "season": 2026,
+      "gamesPlayed": 11,
+      "rating": 56.9,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "passingYardsPerGame": 241.5,
+        "quarterbackRating": 91.2,
+        "completionPercentage": 66.8,
+        "passingTouchdownsPerGame": 1.73,
+        "yardsPerAttempt": 7,
+        "sacksAllowedPerGame": 2
+      },
+      "breakdown": {
+        "yardsPerGame": 15.97,
+        "quarterbackRating": 12.24,
+        "completionPercentage": 9.13,
+        "touchdownsPerGame": 7.23,
+        "yardsPerAttempt": 4.12,
+        "protection": 8.18
       },
       "reasons": [
         "Good quarterback protection"

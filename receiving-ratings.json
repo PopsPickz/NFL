@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:43:01.158Z",
+  "updatedAt": "2026-11-26T19:56:14.170Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -103,36 +103,6 @@
       "rank": 3
     },
     {
-      "teamId": "9",
-      "team": "Green Bay Packers",
-      "abbreviation": "GB",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-      "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 72.4,
-      "tier": "Strong",
-      "stars": 4,
-      "metrics": {
-        "receivingYardsPerGame": 284.1,
-        "yardsPerReception": 12.2,
-        "receivingTouchdownsPerGame": 2,
-        "receptionsPerGame": 23.3,
-        "efficiencyBalance": 24.4
-      },
-      "breakdown": {
-        "yardsPerGame": 24.87,
-        "yardsPerReception": 19.05,
-        "touchdownsPerGame": 12.05,
-        "receptionsPerGame": 9.35,
-        "efficiencyBalance": 7.09
-      },
-      "reasons": [
-        "High receiving yard production",
-        "Strong big-play receiving efficiency"
-      ],
-      "rank": 4
-    },
-    {
       "teamId": "12",
       "team": "Kansas City Chiefs",
       "abbreviation": "KC",
@@ -158,6 +128,36 @@
       },
       "reasons": [
         "Balanced production and efficiency"
+      ],
+      "rank": 4
+    },
+    {
+      "teamId": "9",
+      "team": "Green Bay Packers",
+      "abbreviation": "GB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+      "season": 2026,
+      "gamesPlayed": 11,
+      "rating": 68.9,
+      "tier": "Above Average",
+      "stars": 3,
+      "metrics": {
+        "receivingYardsPerGame": 276.3,
+        "yardsPerReception": 12.2,
+        "receivingTouchdownsPerGame": 1.91,
+        "receptionsPerGame": 22.73,
+        "efficiencyBalance": 23.29
+      },
+      "breakdown": {
+        "yardsPerGame": 23.29,
+        "yardsPerReception": 19.05,
+        "touchdownsPerGame": 11.25,
+        "receptionsPerGame": 8.69,
+        "efficiencyBalance": 6.66
+      },
+      "reasons": [
+        "High receiving yard production",
+        "Strong big-play receiving efficiency"
       ],
       "rank": 5
     },
@@ -366,35 +366,6 @@
       "rank": 12
     },
     {
-      "teamId": "14",
-      "team": "Los Angeles Rams",
-      "abbreviation": "LAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-      "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 57.5,
-      "tier": "Average",
-      "stars": 3,
-      "metrics": {
-        "receivingYardsPerGame": 263.6,
-        "yardsPerReception": 10.5,
-        "receivingTouchdownsPerGame": 1.9,
-        "receptionsPerGame": 25,
-        "efficiencyBalance": 19.95
-      },
-      "breakdown": {
-        "yardsPerGame": 20.73,
-        "yardsPerReception": 8.93,
-        "touchdownsPerGame": 11.17,
-        "receptionsPerGame": 11.31,
-        "efficiencyBalance": 5.37
-      },
-      "reasons": [
-        "High-volume receiving attack"
-      ],
-      "rank": 13
-    },
-    {
       "teamId": "26",
       "team": "Seattle Seahawks",
       "abbreviation": "SEA",
@@ -417,6 +388,35 @@
         "touchdownsPerGame": 9.4,
         "receptionsPerGame": 5.08,
         "efficiencyBalance": 5.48
+      },
+      "reasons": [
+        "Balanced receiving profile"
+      ],
+      "rank": 13
+    },
+    {
+      "teamId": "14",
+      "team": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "season": 2026,
+      "gamesPlayed": 11,
+      "rating": 51.4,
+      "tier": "Average",
+      "stars": 3,
+      "metrics": {
+        "receivingYardsPerGame": 252.4,
+        "yardsPerReception": 10.4,
+        "receivingTouchdownsPerGame": 1.73,
+        "receptionsPerGame": 24.18,
+        "efficiencyBalance": 17.96
+      },
+      "breakdown": {
+        "yardsPerGame": 18.46,
+        "yardsPerReception": 8.33,
+        "touchdownsPerGame": 9.64,
+        "receptionsPerGame": 10.36,
+        "efficiencyBalance": 4.6
       },
       "reasons": [
         "Balanced receiving profile"
