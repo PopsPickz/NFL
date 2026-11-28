@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:33:43.321Z",
+  "updatedAt": "2026-11-28T18:36:51.530Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -739,24 +739,24 @@
       "abbreviation": "PIT",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
       "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 34.2,
+      "gamesPlayed": 11,
+      "rating": 33.9,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
-        "passingYardsPerGame": 198.6,
-        "quarterbackRating": 85.7,
+        "passingYardsPerGame": 192.4,
+        "quarterbackRating": 86.8,
         "completionPercentage": 60.4,
-        "passingTouchdownsPerGame": 1.6,
-        "yardsPerAttempt": 6.1,
+        "passingTouchdownsPerGame": 1.55,
+        "yardsPerAttempt": 6.3,
         "sacksAllowedPerGame": 3
       },
       "breakdown": {
-        "yardsPerGame": 9.01,
-        "quarterbackRating": 9.64,
+        "yardsPerGame": 8,
+        "quarterbackRating": 10.16,
         "completionPercentage": 4.05,
-        "touchdownsPerGame": 6.39,
-        "yardsPerAttempt": 1.47,
+        "touchdownsPerGame": 6.02,
+        "yardsPerAttempt": 2.06,
         "protection": 3.64
       },
       "reasons": [
@@ -827,37 +827,6 @@
       "rank": 26
     },
     {
-      "teamId": "7",
-      "team": "Denver Broncos",
-      "abbreviation": "DEN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-      "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 28,
-      "tier": "Weak",
-      "stars": 1,
-      "metrics": {
-        "passingYardsPerGame": 189.1,
-        "quarterbackRating": 83.3,
-        "completionPercentage": 59.9,
-        "passingTouchdownsPerGame": 1.2,
-        "yardsPerAttempt": 6.1,
-        "sacksAllowedPerGame": 3.1
-      },
-      "breakdown": {
-        "yardsPerGame": 7.47,
-        "quarterbackRating": 8.51,
-        "completionPercentage": 3.65,
-        "touchdownsPerGame": 3.74,
-        "yardsPerAttempt": 1.47,
-        "protection": 3.18
-      },
-      "reasons": [
-        "Balanced passing profile"
-      ],
-      "rank": 27
-    },
-    {
       "teamId": "24",
       "team": "Los Angeles Chargers",
       "abbreviation": "LAC",
@@ -885,6 +854,37 @@
       },
       "reasons": [
         "Good quarterback protection"
+      ],
+      "rank": 27
+    },
+    {
+      "teamId": "7",
+      "team": "Denver Broncos",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+      "season": 2026,
+      "gamesPlayed": 11,
+      "rating": 24.3,
+      "tier": "Weak",
+      "stars": 1,
+      "metrics": {
+        "passingYardsPerGame": 183.9,
+        "quarterbackRating": 79,
+        "completionPercentage": 59.4,
+        "passingTouchdownsPerGame": 1.09,
+        "yardsPerAttempt": 5.9,
+        "sacksAllowedPerGame": 2.91
+      },
+      "breakdown": {
+        "yardsPerGame": 6.62,
+        "quarterbackRating": 6.47,
+        "completionPercentage": 3.25,
+        "touchdownsPerGame": 3.01,
+        "yardsPerAttempt": 0.88,
+        "protection": 4.05
+      },
+      "reasons": [
+        "Balanced passing profile"
       ],
       "rank": 28
     },

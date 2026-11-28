@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:33:43.383Z",
+  "updatedAt": "2026-11-28T18:36:51.603Z",
   "statsSeason": 2026,
   "formulaVersion": "1.0",
   "weights": {
@@ -602,23 +602,23 @@
       "abbreviation": "PIT",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
       "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 39.7,
+      "gamesPlayed": 11,
+      "rating": 38.1,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
-        "receivingYardsPerGame": 224.3,
-        "yardsPerReception": 10.1,
-        "receivingTouchdownsPerGame": 1.6,
-        "receptionsPerGame": 22.1,
-        "efficiencyBalance": 16.16
+        "receivingYardsPerGame": 216.8,
+        "yardsPerReception": 10.4,
+        "receivingTouchdownsPerGame": 1.55,
+        "receptionsPerGame": 20.91,
+        "efficiencyBalance": 16.07
       },
       "breakdown": {
-        "yardsPerGame": 12.79,
-        "yardsPerReception": 6.55,
-        "touchdownsPerGame": 8.52,
-        "receptionsPerGame": 7.96,
-        "efficiencyBalance": 3.9
+        "yardsPerGame": 11.27,
+        "yardsPerReception": 8.33,
+        "touchdownsPerGame": 8.03,
+        "receptionsPerGame": 6.59,
+        "efficiencyBalance": 3.86
       },
       "reasons": [
         "Balanced receiving profile"
@@ -747,23 +747,23 @@
       "abbreviation": "DEN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
       "season": 2026,
-      "gamesPlayed": 10,
-      "rating": 25.6,
+      "gamesPlayed": 11,
+      "rating": 22.7,
       "tier": "Weak",
       "stars": 1,
       "metrics": {
-        "receivingYardsPerGame": 195.5,
-        "yardsPerReception": 10.1,
-        "receivingTouchdownsPerGame": 1.2,
-        "receptionsPerGame": 19.3,
-        "efficiencyBalance": 12.12
+        "receivingYardsPerGame": 193.1,
+        "yardsPerReception": 9.9,
+        "receivingTouchdownsPerGame": 1.09,
+        "receptionsPerGame": 19.55,
+        "efficiencyBalance": 10.8
       },
       "breakdown": {
-        "yardsPerGame": 6.97,
-        "yardsPerReception": 6.55,
-        "touchdownsPerGame": 4.98,
-        "receptionsPerGame": 4.73,
-        "efficiencyBalance": 2.33
+        "yardsPerGame": 6.48,
+        "yardsPerReception": 5.36,
+        "touchdownsPerGame": 4.02,
+        "receptionsPerGame": 5.01,
+        "efficiencyBalance": 1.82
       },
       "reasons": [
         "Balanced receiving profile"
