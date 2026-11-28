@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:45:01.592Z",
+  "updatedAt": "2026-11-28T00:24:31.512Z",
   "season": 2026,
   "seasonType": 2,
   "seasonSlug": "regular-season",
@@ -231,8 +231,8 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
         "color": "0a2343",
         "alternateColor": "fc4c02",
-        "record": "8-2",
-        "score": 0,
+        "record": "8-3",
+        "score": 5,
         "winner": false
       },
       "homeTeam": {
@@ -246,19 +246,19 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
         "color": "000000",
         "alternateColor": "ffb612",
-        "record": "6-4",
-        "score": 0,
-        "winner": false
+        "record": "7-4",
+        "score": 27,
+        "winner": true
       },
       "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "state": "PA",
       "network": "Prime Video",
       "status": {
-        "state": "pre",
-        "completed": false,
-        "detail": "Fri, November 27th at 3:00 PM EST",
-        "shortDetail": "11/27 - 3:00 PM EST"
+        "state": "post",
+        "completed": true,
+        "detail": "Final",
+        "shortDetail": "Final"
       }
     },
     {
